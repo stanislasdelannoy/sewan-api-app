@@ -7,6 +7,9 @@ USER_AGENT = 'NCO SERVICES API'
 TOKEN_API = '01b1b2952c0a7c55119f6964e03761ccdbcc68f1543e4788c0023e409ff7884d'
 PERSON_ID = 95848
 
+CUSTOMMER_ID = 902143
+SEARCH_ID =2
+
 PERSON_TYPE_RESELLER = 2
 PERSON_TYPE_CUSTOMER = 3
 
@@ -101,6 +104,60 @@ def demo_get_all_customers():
         sys.exit(2)
 
     # Get all succeeded
+    pager = rjson["result_object2"]
+    first_results_array = rjson["result_object1"]
+    first_results_array_str = [
+        f"      * {item['per_id']} - {item['per_login']}"
+        for item in first_results_array
+    ]
+    first_results_str = "\n".join(first_results_array_str)
+    result_count = len(first_results_array)
+    total_result_count = pager["total_count"]
+    print(f"  => Get all succeeded. {total_result_count} item(s) found.")
+    print(f"  => First {result_count} results are: \n{first_results_str}")
+
+def get_a_bill():
+
+    print(
+            "Get a bill for a customer "
+            "(sophia.service.Billing.get_bill()) "
+        )
+
+    post_data = {
+        "service": "sophia.service.Billing",
+        "method": "get_generated_bills",
+        "customer_id": CUSTOMMER_ID,
+        # "search_id": SEARCH_ID,
+    }
+
+    print(f"  * URL: {API_URL}")
+    print(f"  * post parameters: {post_data}")
+
+    response_get_generated_bill = requests.post(
+        url=API_URL, data=post_data, headers=headers, timeout=10
+    )
+    print(f"  * HTTP response: {response_get_generated_bill}")
+    if response_get_generated_bill.status_code != 200:
+        sys.stderr.write(
+            f"  => HTTP error {response_get_generated_bill.status_code} "
+            "on getting all persons\n"
+        )
+        sys.stderr.write(f"  => Body {response_get_generated_bill.content}\n")
+        sys.exit(2)
+    rjson = response_get_generated_bill.json()
+
+    print(f"  * Webservice response: {rjson}")
+
+    # Check the result code
+    code = int(rjson["code"])
+    if code < 200 or code >= 300:
+        # Search failed
+        sys.stderr.write(
+            f"  => Webservice failed with code {rjson['code']} : {rjson['msg']}\n"
+            "(see Webservice response for more details)\n"
+        )
+        sys.exit(2)
+
     pager = rjson["result_object2"]
     first_results_array = rjson["result_object1"]
     first_results_array_str = [
