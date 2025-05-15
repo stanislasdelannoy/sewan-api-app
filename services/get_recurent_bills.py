@@ -4,8 +4,9 @@ import json
 import pandas as pd
 from datetime import datetime
 
-
+# ############################
 # Variables d'environnements
+# ############################
 
 API_URL = "https://api.sewan.fr/sophia/SophiaFramework/jsongateway"
 USER_AGENT = 'NCO SERVICES API'
@@ -25,18 +26,26 @@ headers = {
     'Accept-Language': 'fr_FR'
 }
 
-# Commencer par obtenir une liste d'ID sur lesquels récupéer le détail
+# ############################
+# Check Date Format
+# ############################
 
 def validate_date(input_date):
+
     """
     Valide et formate une date saisie par l'utilisateur.
     Retourne la date au format 'YYYY-MM-DD' si elle est valide.
     """
+
     try:
         valid_date = datetime.strptime(input_date, "%Y-%m-%d")
         return valid_date.strftime("%Y-%m-%d")
     except ValueError:
         raise ValueError("Veuillez rentrer une date minimum. Vérifiez que la date utilise le format 'YYYY-MM-DD'.")
+
+# ############################
+# Get a dataframe of all customers name and ids
+# ############################
 
 def get_billing_informations(person_id, date):
 
@@ -109,9 +118,9 @@ def get_billing_informations(person_id, date):
     return payer_info
 
 
-# On a les utilisateurs à identifier, on va maintenant récupérer les couts fixes
-# On commence à écrire la fonction pour 1 client
-# On va ensuite l'adapter pour plusieurs
+# ############################
+# Get fixed costs for 1 customer
+# ############################
 
 def get_fixed_costs(custommer_id, min_date='', max_date=''):
 
@@ -120,8 +129,7 @@ def get_fixed_costs(custommer_id, min_date='', max_date=''):
     Retourne un tableau de chaque cout fixé pour chaque client
     """
 
-    print("Appel au service (sophia.service.Billing.get_fixed_costs()) ...")
-
+    # Vérification de la date
     try:
         min_date = validate_date(min_date)
         if max_date:
@@ -175,7 +183,11 @@ def get_fixed_costs(custommer_id, min_date='', max_date=''):
 
     return first_results_array
 
-# On va maintenant adapter la fonction pour plusieurs clients
+
+# ############################
+# Get a dataframe of all fixed costs for a period
+# ############################
+
 def get_all_fixed_costs(person_id, min_date='', max_date=''):
 
     """
@@ -188,13 +200,11 @@ def get_all_fixed_costs(person_id, min_date='', max_date=''):
     # Obtenir les ids des clients facturables
     custommers = get_billing_informations(person_id, min_date)
     custommers_df = pd.DataFrame(custommers)
-    print(custommers_df)
 
     # Extraire les IDs et les noms des clients
     custommers_ids = custommers_df['payer_per_id'].tolist()
-    #print(f"  * Custommers IDs: {custommers_ids} longue de {len(custommers_ids)}")
-    #custommers_label = custommers_df['payer_per_fullname'].tolist()
 
+    print("Appel au service (sophia.service.Billing.get_fixed_costs()) ...")
     for custommer_id in custommers_ids:
         fixed_costs_list = get_fixed_costs(custommer_id, min_date, max_date)
 
@@ -215,6 +225,10 @@ def get_all_fixed_costs(person_id, min_date='', max_date=''):
         print("No fixed costs found for any customer.")
         return pd.DataFrame()
 
+# ############################
+# Clean the DataFrame and export
+# ############################
+
 def clean_df(df):
 
     """
@@ -231,12 +245,14 @@ def clean_df(df):
 
     df = df.drop(columns=columns_to_drop, axis=1)
 
+    # Combiner les colonnes 'family' et 'priority'
     df['family_combined'] = df['family'].apply(
         lambda x: f"{x.get('priority')} - {x.get('name')}" if isinstance(x, dict) else None
     )
 
     df = df.drop(columns=['family'], axis=1)
 
+    # Preparer le nouvel ordre des colonnes
     new_order = ['family_combined', 'name', 'cost_unit', 'qtt', 'cost', 'description', 'creation_date', 'modification_date', 'billed_person_id', 'customer_name']
     df = df[new_order]
 
@@ -244,7 +260,8 @@ def clean_df(df):
     if isinstance(df, pd.Series):
         df = df.to_frame()
 
-    df.to_csv('fixed_costs.csv', index=False)
+    # Export csv
+    df.to_csv('../outputs/fixed_costs.csv', index=False)
 
     return df
 
@@ -254,8 +271,7 @@ def main():
     """
     print("=== Début des tests du script ===")
 
-    # Exemple d'ID client pour les tests
-    person_id = PERSON_ID  # Remplacez par un ID de revendeur valide
+    person_id = PERSON_ID
 
     # Tester la récupération des coûts fixes
     print("\nTest : Récupération des coûts fixes")
@@ -263,8 +279,10 @@ def main():
         min_date = input("Entrez une date minimale (YYYY-MM-DD) : ")
         max_date = input("Entrez une date maximale (YYYY-MM-DD) ou laissez vide : ")
         all_fixed_costs = get_all_fixed_costs(person_id, min_date, max_date)
+
         if isinstance(all_fixed_costs, pd.DataFrame) and not all_fixed_costs.empty:
             print(f"Coûts fixes récupérés : {len(all_fixed_costs)} lignes.")
+
             # Exporter les coûts fixes en CSV
             clean_df(all_fixed_costs)
             print("Les coûts fixes ont été exportés dans 'fixed_costs.csv'.")
@@ -273,24 +291,9 @@ def main():
     except Exception as e:
         print(f"Erreur lors de la récupération des coûts fixes : {e}")
 
-    # Tester la récupération des informations de facturation
-    # print("\nTest : Récupération des informations de facturation")
-    # try:
-    #     date = input("Entrez une date de facturation (YYYY-MM-DD) : ")
-    #     billing_df = get_billing_informations(person_id, date)
-    #     if isinstance(billing_df, pd.DataFrame) and not billing_df.empty:
-    #         print(f"Informations de facturation récupérées : {len(billing_df)} lignes.")
-    #         # Exporter les informations de facturation en CSV
-    #         billing_df.to_csv('billing.csv', index=False)
-    #         print("Les informations de facturation ont été exportées dans 'billing.csv'.")
-    #     else:
-    #         print("Aucune information de facturation trouvée.")
-    # except Exception as e:
-    #     print(f"Erreur lors de la récupération des informations de facturation : {e}")
-
     print("\n=== Fin des tests du script ===")
 
 
-# Point d'entrée du script
+
 if __name__ == "__main__":
     main()
