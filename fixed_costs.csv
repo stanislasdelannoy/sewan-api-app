@@ -1,0 +1,1292 @@
+family_combined,name,cost_unit,qtt,cost,description,creation_date,modification_date,billed_person_id,customer_name
+1 - Licenses and options,Licence Utilisateur + Application Doko,12.9,1.0,12.9,,2025-05-06 13:32:15,2025-05-06 13:32:15,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+1 - Licenses and options,Licence utilisateur avec poste fixe,12.9,1.0,12.9,,2023-07-13 09:47:45,2023-12-04 15:30:53,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+1 - Licenses and options,Licence utilisateur avec poste fixe (pension),12.9,1.0,12.9,,2023-07-13 09:47:45,2023-12-04 15:30:53,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+1 - Licenses and options,Licence utilisateur avec poste sans fil (x2),15.8,1.0,15.8,,2023-07-13 09:47:45,2023-12-04 15:30:53,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,470.0,1.0,470.0,,2023-05-16 14:45:56,2024-03-26 11:32:13,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,6.0,3.0,,2023-07-13 09:47:45,2024-03-26 11:32:13,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+5 - Service Pack,Cloud Firewall - VPN - Coeur de réseau MPLS,35.0,1.0,35.0,,2023-05-16 14:45:56,2024-03-26 11:32:13,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,20.0,1.0,20.0,,2023-05-16 14:45:56,2024-03-26 11:32:13,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+7 - Mobile,Accès Internet Mobile 1 Go,9.0,1.0,9.0,,2025-05-06 13:32:15,2025-05-06 13:32:15,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+7 - Mobile,Avantage client mobile -10%,-3.0,1.0,-3.0,,2024-05-28 10:57:00,2024-08-20 14:59:43,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+7 - Mobile,Business Smartphone 1 Go,12.0,1.0,12.0,,2023-12-04 15:34:10,2024-08-20 14:59:43,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+7 - Mobile,Business Smartphone 5 Go,18.0,1.0,18.0,,2024-08-20 14:59:43,2024-08-20 14:59:43,1246235,ACCUEIL ET PROMOTION SAMBRE - Site Bachant
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,10.0,8.0,80.0,,2022-07-04 17:13:12,2024-03-26 11:33:44,1085652,ACCUEIL ET PROMOTION SAMBRE - Site Hautmont
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,470.0,1.0,470.0,,2022-07-28 17:42:36,2024-03-26 11:33:44,1085652,ACCUEIL ET PROMOTION SAMBRE - Site Hautmont
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,8.0,4.0,,2022-07-04 17:13:12,2024-03-26 11:33:44,1085652,ACCUEIL ET PROMOTION SAMBRE - Site Hautmont
+5 - Service Pack,Cloud Firewall - VPN - Coeur de réseau MPLS,35.0,1.0,35.0,,2022-07-28 17:42:36,2024-03-26 11:33:44,1085652,ACCUEIL ET PROMOTION SAMBRE - Site Hautmont
+6 - Hardware,Poste téléphonique - Prémium IP - Ecran couleur - HD,2.9,8.0,23.2,,2022-07-04 17:13:12,2023-12-07 09:19:06,1085652,ACCUEIL ET PROMOTION SAMBRE - Site Hautmont
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,20.0,1.0,20.0,,2022-07-28 17:42:36,2024-03-26 11:33:44,1085652,ACCUEIL ET PROMOTION SAMBRE - Site Hautmont
+7 - Mobile,Avantage client mobile -10%,-3.6,1.0,-3.6,,2024-05-28 10:58:20,2024-05-28 10:58:20,1085652,ACCUEIL ET PROMOTION SAMBRE - Site Hautmont
+7 - Mobile,Business Smartphone 1 Go,12.0,3.0,36.0,,2023-12-04 15:45:40,2024-05-28 10:58:20,1085652,ACCUEIL ET PROMOTION SAMBRE - Site Hautmont
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,10.0,1.0,10.0,,2022-06-14 14:05:11,2024-03-26 11:34:47,1041283,ACCUEIL ET PROMOTION SAMBRE - Site La Longueville
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,35.0,1.0,35.0,,2022-06-16 16:30:29,2024-03-26 11:34:47,1041283,ACCUEIL ET PROMOTION SAMBRE - Site La Longueville
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,470.0,1.0,470.0,,2023-05-30 14:22:59,2024-03-26 11:34:47,1041283,ACCUEIL ET PROMOTION SAMBRE - Site La Longueville
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,1.0,0.5,,2022-06-14 14:05:11,2024-03-26 11:34:47,1041283,ACCUEIL ET PROMOTION SAMBRE - Site La Longueville
+6 - Hardware,Poste téléphonique - Prémium IP,2.9,1.0,2.9,,2022-06-14 14:05:11,2023-12-04 15:26:06,1041283,ACCUEIL ET PROMOTION SAMBRE - Site La Longueville
+7 - Mobile,Avantage client mobile -10%,-2.4,1.0,-2.4,,2024-05-28 10:59:59,2024-10-21 14:03:48,1041283,ACCUEIL ET PROMOTION SAMBRE - Site La Longueville
+7 - Mobile,Business Smartphone 1 Go,12.0,2.0,24.0,,2023-12-04 15:28:59,2024-10-21 14:03:48,1041283,ACCUEIL ET PROMOTION SAMBRE - Site La Longueville
+1 - Licenses and options,Fax to Mail,8.5,1.0,8.5,,2024-09-30 16:40:58,2024-09-30 16:40:58,1246285,ACCUEIL ET PROMOTION SAMBRE - Site Leval
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.9,1.0,12.9,,2023-06-29 13:25:54,2024-09-30 16:37:58,1246285,ACCUEIL ET PROMOTION SAMBRE - Site Leval
+2 - Telephone lines,Numéro direct - SDA supplémentaire,0.5,1.0,0.5,,2023-06-29 13:25:54,2024-09-30 16:37:58,1246285,ACCUEIL ET PROMOTION SAMBRE - Site Leval
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,470.0,1.0,470.0,,2023-05-22 11:10:53,2024-09-30 16:37:58,1246285,ACCUEIL ET PROMOTION SAMBRE - Site Leval
+5 - Service Pack,Cloud Firewall - VPN - Coeur de réseau MPLS,35.0,1.0,35.0,,2023-05-22 11:10:53,2024-09-30 16:37:58,1246285,ACCUEIL ET PROMOTION SAMBRE - Site Leval
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,20.0,1.0,20.0,,2023-05-22 11:10:53,2024-09-30 16:37:58,1246285,ACCUEIL ET PROMOTION SAMBRE - Site Leval
+1 - Licenses and options,Licence Utilisateur avec poste sans fil + borne associée,15.8,1.0,15.8,,2025-05-06 11:42:32,2025-05-06 11:42:32,1294169,ACCUEIL ET PROMOTION SAMBRE - Site LHSS
+1 - Licenses and options,Trunk 6 canaux,90.0,1.0,90.0,,2023-08-31 09:02:05,2025-05-06 10:42:24,1294169,ACCUEIL ET PROMOTION SAMBRE - Site LHSS
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,24.0,12.0,,2023-10-13 14:20:21,2025-05-06 10:42:24,1294169,ACCUEIL ET PROMOTION SAMBRE - Site LHSS
+6 - Hardware,Passerelle - 8 canaux simultanés (Max),10.0,1.0,10.0,,2023-08-31 09:02:05,2025-05-06 10:42:24,1294169,ACCUEIL ET PROMOTION SAMBRE - Site LHSS
+7 - Mobile,Avantage client mobile -10%,-4.2,1.0,-4.2,,2024-05-28 11:01:35,2025-05-06 10:42:24,1294169,ACCUEIL ET PROMOTION SAMBRE - Site LHSS
+7 - Mobile,Business Smartphone 1 Go,12.0,2.0,24.0,,2023-11-13 10:56:47,2025-05-06 10:42:24,1294169,ACCUEIL ET PROMOTION SAMBRE - Site LHSS
+7 - Mobile,Business Smartphone 5 Go,18.0,1.0,18.0,,2024-08-20 15:01:45,2025-05-06 10:42:24,1294169,ACCUEIL ET PROMOTION SAMBRE - Site LHSS
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP - Centralisé Sambre,499.0,1.0,499.0,,2022-07-28 17:44:22,2024-03-26 11:40:36,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+1 - Licenses and options,Licence utilisateur avec Poste Fixe + extension,14.9,1.0,14.9,Accueil Maubeuge,2023-11-28 09:46:43,2023-11-28 09:46:43,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+1 - Licenses and options,Licence utilisateur avec poste fixe,12.9,5.0,64.5,PF Maubeuge - Direction Générale - RC Bis,2023-06-13 15:09:25,2024-09-19 09:19:41,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+1 - Licenses and options,Licence utilisateur avec poste sans fil,12.9,1.0,12.9,Restauration Collective,2023-06-13 15:09:25,2023-06-13 15:09:25,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+1 - Licenses and options,Licence utilisateur avec poste sans fil (x2),15.8,3.0,47.4,Compte RH - HU Maubeuge - CHRS Maubeuge,2023-11-28 09:46:43,2023-11-28 09:46:43,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+3 - Access links,Accès Internet Mobile 50 Go,26.0,1.0,26.0,Routeur 4G Haumtont,2022-04-07 10:37:15,2024-05-28 11:05:06,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,470.0,1.0,470.0,,2023-01-27 17:03:20,2024-03-26 11:40:36,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+3 - Access links,Cloud firewall -Stateful - MPLS,35.0,1.0,35.0,,2023-01-27 17:03:20,2023-01-27 17:03:20,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,11.0,5.5,,2022-04-07 10:50:37,2024-03-26 11:40:36,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,20.0,1.0,20.0,,2023-01-27 17:07:04,2024-03-26 11:40:36,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+7 - Mobile,Accès Internet Mobile 5 Go,14.0,1.0,14.0,,2022-12-28 09:14:26,2024-05-28 11:05:06,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+7 - Mobile,Avantage client mobile -10%,-23.2,1.0,-23.2,,2024-05-28 11:06:35,2025-02-03 10:55:03,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+7 - Mobile,Business Smartphone 1 Go,12.0,9.0,108.0,,2022-04-07 10:37:15,2024-12-12 09:47:19,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+7 - Mobile,Business Smartphone 20 Go,24.0,2.0,48.0,,2022-04-07 10:37:15,2025-02-03 10:55:03,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+7 - Mobile,Business Smartphone 5 Go,18.0,2.0,36.0,,2024-05-28 11:05:06,2024-08-20 15:06:01,910633,ACCUEIL ET PROMOTION SAMBRE - Site Maubeuge
+7 - Mobile,Accès internet mobile 50 Go,29.0,1.0,29.0,,2024-01-15 12:03:34,2024-04-16 16:26:55,1386396,ACTIONS
+7 - Mobile,Business Smartphone 20 Go,25.0,1.0,25.0,,2024-01-15 11:53:00,2024-04-16 16:26:55,1386396,ACTIONS
+7 - Mobile,Remise Parc supérieur à 10 lignes -5% sur les abonnements,-2.7,1.0,-2.7,,2024-01-15 12:03:34,2024-01-15 12:03:34,1386396,ACTIONS
+1 - Licenses and options,Groupe d'appel astreinte / permanence,15.0,1.0,15.0,,2025-01-30 09:09:07,2025-01-30 09:09:07,1127952,ADM POLE DE VAL MAUBUEE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2023-11-07 11:41:19,2024-03-26 11:42:09,1127952,ADM POLE DE VAL MAUBUEE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,3.0,45.0,,2023-11-07 11:41:19,2025-01-30 09:09:07,1127952,ADM POLE DE VAL MAUBUEE
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2023-11-07 11:41:19,2024-03-26 11:42:09,1127952,ADM POLE DE VAL MAUBUEE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,2.0,1.2,,2023-11-07 11:41:19,2024-03-26 11:42:09,1127952,ADM POLE DE VAL MAUBUEE
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2023-11-07 11:41:19,2024-03-26 11:42:09,1127952,ADM POLE DE VAL MAUBUEE
+7 - Mobile,Abonnement Mobile - Business Smartphone,24.0,1.0,24.0,,2022-09-23 10:41:46,2023-11-22 15:01:48,1127952,ADM POLE DE VAL MAUBUEE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,2.0,30.0,,2021-09-21 10:48:31,2024-03-26 10:57:45,902143,AFR - ACCUEIL DE JOUR SAMAIN
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-02 09:18:36,2024-03-26 11:22:55,902143,AFR - ACCUEIL DE JOUR SAMAIN
+1 - Licenses and options,Licence SUNBREN,15.0,8.0,120.0,,2021-09-21 11:16:53,2025-02-03 09:45:44,902143,AFR - ACCUEIL DE JOUR SAMAIN
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-08-26 14:53:02,2024-03-26 10:57:45,902143,AFR - ACCUEIL DE JOUR SAMAIN
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,2.0,1.2,,2021-09-21 10:48:31,2024-03-26 10:57:45,902143,AFR - ACCUEIL DE JOUR SAMAIN
+5 - Service Pack,Maintenance mensuelle Point accès wifi,3.5,2.0,7.0,,2021-10-02 11:52:34,2024-07-09 10:45:54,902143,AFR - ACCUEIL DE JOUR SAMAIN
+5 - Service Pack,Maintenance mensuelle switch,15.0,1.0,15.0,,2021-10-02 11:52:34,2022-09-20 17:02:33,902143,AFR - ACCUEIL DE JOUR SAMAIN
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-08-26 14:53:02,2024-03-26 10:57:45,902143,AFR - ACCUEIL DE JOUR SAMAIN
+7 - Mobile,Business Smartphone 20 Go,21.0,6.0,126.0,,2022-09-22 14:29:09,2024-03-26 10:52:51,902143,AFR - ACCUEIL DE JOUR SAMAIN
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,,2021-09-23 11:06:30,2024-03-26 11:00:12,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-23 11:06:30,2024-03-26 11:22:29,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-07-19 15:34:22,2024-03-26 11:00:12,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,1.0,0.6,,2021-09-23 11:06:30,2024-03-26 11:00:12,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
+5 - Service Pack,Maintenance mensuelle Point accès wifi,3.5,2.0,7.0,,2021-10-02 11:56:11,2022-10-29 08:10:23,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
+5 - Service Pack,Maintenance mensuelle réseau switch,15.0,1.0,15.0,,2021-10-02 11:56:11,2024-07-09 10:45:11,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-07-19 15:34:22,2024-03-26 11:00:12,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
+7 - Mobile,Business Smartphone 20 Go,21.0,2.0,42.0,,2022-09-22 14:32:11,2024-03-26 10:53:28,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,4.0,60.0,,2021-10-07 16:19:50,2024-07-09 10:15:43,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-10-07 16:19:50,2024-07-09 10:15:43,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+1 - Licenses and options,Maintenance mensuelle Point accès wifi,3.5,5.0,17.5,,2021-10-14 16:51:34,2024-07-09 10:15:43,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+1 - Licenses and options,Maintenance mensuelle réseau switch,15.0,4.0,60.0,,2021-10-14 16:51:34,2024-07-09 10:15:43,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+1 - Licenses and options,Licence SUNBREN,15.0,10.0,150.0,,2021-10-15 09:19:36,2025-02-03 09:46:32,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,350.0,1.0,350.0,,2022-09-13 14:56:49,2024-07-09 10:17:27,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-12-01 17:07:44,2024-07-09 10:17:27,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,4.0,2.4,,2021-10-07 16:19:50,2024-07-09 10:15:43,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,2.0,10.0,,2021-12-01 17:07:44,2024-07-09 10:17:27,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+7 - Mobile,Business Smartphone 1 Go,11.0,1.0,11.0,,2024-07-01 10:31:18,2024-07-09 10:17:27,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+7 - Mobile,Business Smartphone 20 Go,21.0,2.0,42.0,,2022-09-22 14:35:39,2024-07-09 10:17:27,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,,2021-09-23 10:35:56,2024-03-26 11:04:17,902166,AFR - ACCUEIL FEMMES PROGRES PILE
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-23 10:35:56,2024-03-26 11:21:26,902166,AFR - ACCUEIL FEMMES PROGRES PILE
+1 - Licenses and options,Maintenance Mensuelle reseau switch,15.0,1.0,15.0,,2021-09-22 11:36:17,2024-07-09 10:19:42,902166,AFR - ACCUEIL FEMMES PROGRES PILE
+1 - Licenses and options,Maintenance mensuelle Point accès wifi,3.5,1.0,3.5,,2021-09-22 11:36:17,2024-07-09 10:19:42,902166,AFR - ACCUEIL FEMMES PROGRES PILE
+1 - Licenses and options,Licence SUNBREN,15.0,2.0,30.0,,2021-07-30 10:44:07,2022-10-29 08:16:05,902166,AFR - ACCUEIL FEMMES PROGRES PILE
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-08-31 18:04:44,2024-07-09 10:19:42,902166,AFR - ACCUEIL FEMMES PROGRES PILE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,1.0,0.6,,2021-09-23 10:35:56,2024-03-26 11:04:17,902166,AFR - ACCUEIL FEMMES PROGRES PILE
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-08-31 18:04:44,2024-07-09 10:19:42,902166,AFR - ACCUEIL FEMMES PROGRES PILE
+7 - Mobile,Business Smartphone 1 Go,11.0,1.0,11.0,,2022-09-22 14:46:11,2024-03-26 11:04:17,902166,AFR - ACCUEIL FEMMES PROGRES PILE
+7 - Mobile,Business Smartphone 20 Go,21.0,1.0,21.0,,2022-09-22 14:46:11,2024-03-26 11:04:17,902166,AFR - ACCUEIL FEMMES PROGRES PILE
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-07-29 14:48:51,2024-03-26 11:04:52,902158,AFR - AFR FEMMES GRANDE RUE
+3 - Access links,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-10-02 12:10:57,2024-03-26 11:21:02,902158,AFR - AFR FEMMES GRANDE RUE
+5 - Service Pack,Maintenance mensuelle Point accès wifi,3.5,1.0,3.5,,2021-10-02 12:09:32,2024-07-09 10:46:42,902158,AFR - AFR FEMMES GRANDE RUE
+5 - Service Pack,Maintenance mensuelle Switch,15.0,1.0,15.0,,2021-10-02 12:09:32,2022-10-29 08:17:35,902158,AFR - AFR FEMMES GRANDE RUE
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-07-29 14:48:51,2024-03-26 11:04:52,902158,AFR - AFR FEMMES GRANDE RUE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,2.0,30.0,,2022-06-28 15:22:31,2024-07-09 10:24:20,902181,AFR - ARMENTIERES GARE
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-08-24 14:16:37,2024-07-09 10:24:20,902181,AFR - ARMENTIERES GARE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,2.0,1.2,,2022-06-28 15:22:31,2024-07-09 10:24:20,902181,AFR - ARMENTIERES GARE
+5 - Service Pack,Maintenance mensuelle Point accès wifi,3.5,1.0,3.5,,2022-07-02 11:10:45,2024-07-09 10:24:20,902181,AFR - ARMENTIERES GARE
+5 - Service Pack,Maintenance mensuelle réseau switch,15.0,1.0,15.0,,2022-07-02 11:10:45,2024-07-09 10:24:20,902181,AFR - ARMENTIERES GARE
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-08-24 14:16:37,2024-07-09 10:24:20,902181,AFR - ARMENTIERES GARE
+7 - Mobile,Business Smartphone 20 Go,21.0,1.0,21.0,,2022-09-22 14:47:50,2024-03-26 11:06:04,902181,AFR - ARMENTIERES GARE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,,2021-09-27 14:14:47,2024-07-09 10:26:02,902170,AFR - ARMENTIERES SADI CARNOT
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-27 14:14:47,2024-03-26 11:20:26,902170,AFR - ARMENTIERES SADI CARNOT
+1 - Licenses and options,Maintenance mensuelle Point accès wifi,3.5,1.0,3.5,,2021-09-07 09:18:38,2024-07-09 10:26:02,902170,AFR - ARMENTIERES SADI CARNOT
+1 - Licenses and options,Maintenance mensuelle réseau switch,15.0,1.0,15.0,,2021-09-07 09:18:38,2024-07-09 10:26:02,902170,AFR - ARMENTIERES SADI CARNOT
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-07-28 11:05:22,2024-07-09 10:26:02,902170,AFR - ARMENTIERES SADI CARNOT
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,1.0,0.6,,2022-10-29 08:21:38,2024-03-26 11:07:21,902170,AFR - ARMENTIERES SADI CARNOT
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-07-28 11:05:22,2024-07-09 10:26:02,902170,AFR - ARMENTIERES SADI CARNOT
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,3.0,45.0,,2021-09-24 10:17:29,2024-03-26 11:08:35,902175,AFR - ARMENTIERES SCHUMAN
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-24 10:17:29,2024-03-26 11:20:02,902175,AFR - ARMENTIERES SCHUMAN
+1 - Licenses and options,Maintenance mensuelle Point accès wifi,3.5,3.0,10.5,,2021-10-14 16:20:25,2024-07-09 10:47:19,902175,AFR - ARMENTIERES SCHUMAN
+1 - Licenses and options,Maintenance mensuelle réseau switch,15.0,1.0,15.0,,2021-10-14 16:20:25,2023-06-29 13:55:36,902175,AFR - ARMENTIERES SCHUMAN
+1 - Licenses and options,Licence SUNBREN,15.0,9.0,135.0,,2021-07-30 10:43:13,2025-02-03 09:47:11,902175,AFR - ARMENTIERES SCHUMAN
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-07-09 11:47:52,2024-03-26 11:08:35,902175,AFR - ARMENTIERES SCHUMAN
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,2.0,1.2,,2021-09-24 10:17:29,2024-03-26 11:08:35,902175,AFR - ARMENTIERES SCHUMAN
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-07-09 11:47:52,2024-03-26 11:08:35,902175,AFR - ARMENTIERES SCHUMAN
+7 - Mobile,Business Smartphone 1 Go,11.0,1.0,11.0,,2023-06-29 14:01:10,2024-03-26 11:08:35,902175,AFR - ARMENTIERES SCHUMAN
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,,2021-09-24 10:02:05,2024-07-09 10:31:45,902169,AFR - HU FEMMES TOURCOING GAMBETTA
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-24 10:02:05,2024-07-09 10:31:45,902169,AFR - HU FEMMES TOURCOING GAMBETTA
+1 - Licenses and options,Maintenance mensuelle borne wifi,3.5,1.0,3.5,,2021-10-14 16:33:41,2024-07-09 10:31:45,902169,AFR - HU FEMMES TOURCOING GAMBETTA
+1 - Licenses and options,Maintenance mensuelle réseau switch,15.0,1.0,15.0,,2021-10-14 16:33:41,2024-07-09 10:31:45,902169,AFR - HU FEMMES TOURCOING GAMBETTA
+1 - Licenses and options,Licence SUNBREN,15.0,6.0,90.0,,2021-07-30 10:40:33,2025-02-03 09:47:32,902169,AFR - HU FEMMES TOURCOING GAMBETTA
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-07-08 17:49:14,2024-07-09 10:31:45,902169,AFR - HU FEMMES TOURCOING GAMBETTA
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,1.0,0.6,,2021-09-24 10:02:05,2024-07-09 10:31:45,902169,AFR - HU FEMMES TOURCOING GAMBETTA
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-07-08 17:49:14,2024-07-09 10:31:45,902169,AFR - HU FEMMES TOURCOING GAMBETTA
+7 - Mobile,Business Smartphone 20 Go,21.0,1.0,21.0,,2022-09-22 14:49:45,2024-03-26 11:09:49,902169,AFR - HU FEMMES TOURCOING GAMBETTA
+1 - Licenses and options,Cloud Firewall,24.0,1.0,24.0,,2024-10-14 13:44:24,2024-10-14 13:44:24,748445,AFR - SIEGE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,38.0,570.0,,2022-06-14 09:33:05,2024-08-22 15:36:12,748445,AFR - SIEGE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,WATTRELOS,2024-08-22 15:36:12,2024-08-22 15:36:12,748445,AFR - SIEGE
+1 - Licenses and options,Microsoft 365 Business Standard (Non-Profit Pricing) - 1Y,2.8,24.0,67.2,,2024-09-26 14:36:37,2024-11-26 13:32:11,748445,AFR - SIEGE
+1 - Licenses and options,Service Astreinte,15.0,1.0,15.0,,2023-04-03 10:04:41,2023-04-03 10:04:41,748445,AFR - SIEGE
+1 - Licenses and options,Service Astreinte Technique,15.0,1.0,15.0,,2023-04-03 10:04:41,2023-04-03 10:04:41,748445,AFR - SIEGE
+1 - Licenses and options,Licences SUNBREN,15.0,74.0,1110.0,,2021-07-08 17:14:24,2025-04-22 09:58:51,748445,AFR - SIEGE
+1 - Licenses and options,Detoxio - Cybersécurité,96.25,1.0,96.25,,2022-07-02 11:16:14,2024-07-09 10:36:30,748445,AFR - SIEGE
+3 - Access links,Abonnement Fibre Dédiée 1 Gbps symétrique,450.0,1.0,450.0,,2024-10-14 13:44:24,2024-10-14 13:44:24,748445,AFR - SIEGE
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max - Site Siège Provisoire,54.0,1.0,54.0,,2022-09-13 09:21:28,2024-07-09 10:36:30,748445,AFR - SIEGE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,41.0,24.6,,2022-06-14 09:36:12,2024-08-22 15:36:12,748445,AFR - SIEGE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,1.0,0.6,WATTRELOS,2024-08-22 15:36:12,2024-08-22 15:36:12,748445,AFR - SIEGE
+5 - Service Pack,Maintenance mensuelle Point accès wifi,3.5,11.0,38.5,,2023-06-15 17:02:13,2024-07-09 10:48:20,748445,AFR - SIEGE
+5 - Service Pack,Maintenance mensuelle réseau switch,15.0,6.0,90.0,,2023-06-15 17:02:13,2024-07-09 10:36:30,748445,AFR - SIEGE
+6 - Hardware,Location Routeur FTTO,15.0,1.0,15.0,,2024-10-14 13:44:24,2024-10-14 13:44:24,748445,AFR - SIEGE
+6 - Hardware,Routeur Internet 5G Backup Secourur,24.0,2.0,48.0,,2024-09-23 09:55:49,2024-09-23 09:55:49,748445,AFR - SIEGE
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2022-09-13 09:21:28,2024-07-09 10:36:30,748445,AFR - SIEGE
+7 - Mobile,Business Smartphone 1 Go,11.0,12.0,132.0,,2022-09-22 14:56:18,2024-11-25 11:10:44,748445,AFR - SIEGE
+7 - Mobile,Business Smartphone 20 Go,21.0,14.0,294.0,,2022-09-22 14:53:10,2024-10-14 09:53:07,748445,AFR - SIEGE
+7 - Mobile,Business Voix et SMS,9.0,1.0,9.0,,2021-12-07 15:33:16,2024-07-09 10:36:30,748445,AFR - SIEGE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,,2021-09-27 14:27:19,2024-07-09 10:38:22,902185,AFR - TANNERIE
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-27 14:27:19,2024-07-09 10:38:22,902185,AFR - TANNERIE
+1 - Licenses and options,Maintenance mensuelle Point accès wifi,3.5,1.0,3.5,,2021-12-17 10:10:53,2024-07-09 10:48:41,902185,AFR - TANNERIE
+1 - Licenses and options,Maintenance mensuelle réseau switch,15.0,1.0,15.0,,2021-12-17 10:10:53,2022-10-29 08:33:01,902185,AFR - TANNERIE
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-08-31 18:05:52,2024-07-09 10:38:22,902185,AFR - TANNERIE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,1.0,0.6,,2021-09-27 14:27:19,2024-07-09 10:38:22,902185,AFR - TANNERIE
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-08-31 18:05:52,2024-07-09 10:38:22,902185,AFR - TANNERIE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,,2021-10-04 14:47:25,2024-03-26 11:27:35,902184,AFR - VILLON
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-10-04 14:47:25,2024-03-26 11:27:35,902184,AFR - VILLON
+1 - Licenses and options,Licence SUNBREN,15.0,2.0,30.0,,2021-07-30 10:42:39,2023-05-01 18:22:09,902184,AFR - VILLON
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2022-03-28 15:33:40,2024-03-26 11:27:35,902184,AFR - VILLON
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,1.0,0.6,,2021-10-04 14:47:25,2024-03-26 11:27:35,902184,AFR - VILLON
+5 - Service Pack,Maintenance mensuelle Point accès wifi,3.5,4.0,14.0,,2022-07-27 12:06:51,2024-07-09 10:49:02,902184,AFR - VILLON
+5 - Service Pack,Maintenance mensuelle réseau switch,15.0,1.0,15.0,,2022-07-27 12:06:09,2022-10-29 08:37:14,902184,AFR - VILLON
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2022-03-28 15:33:40,2024-03-26 11:27:35,902184,AFR - VILLON
+7 - Mobile,Business Smartphone 20 Go,21.0,1.0,21.0,,2022-09-22 15:10:30,2024-03-26 11:27:35,902184,AFR - VILLON
+1 - Licenses and options,Application Softphone Doko,0.0,1.0,0.0,,2019-03-28 14:18:18,2024-03-26 11:45:03,516404,AGENCE DE PAPIERS DE PRESSE
+2 - Telephone lines,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2019-03-28 14:18:18,2024-10-07 12:56:45,516404,AGENCE DE PAPIERS DE PRESSE
+2 - Telephone lines,Licence utilisateur - Illimité F/M France et 70 destinations,12.5,4.0,50.0,,2019-03-28 14:18:18,2024-11-29 10:59:26,516404,AGENCE DE PAPIERS DE PRESSE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,2.0,1.0,,2019-03-28 14:18:18,2024-10-07 12:56:46,516404,AGENCE DE PAPIERS DE PRESSE
+1 - Licenses and options,Téléphonie Hébergée et Internet,89.0,1.0,89.0,,2022-02-02 11:04:37,2022-02-02 11:04:37,464266,ALERTE IMMO
+1 - Licenses and options,Hébergement Coeur de Système - Téléphonie IP,12.5,1.0,12.5,,2024-09-24 15:12:46,2024-09-24 15:12:46,1576046,ALPHA COURSES
+1 - Licenses and options,Licence Téléphonie Hébergée,15.0,4.0,60.0,,2024-09-24 15:12:46,2024-09-24 15:12:46,1576046,ALPHA COURSES
+1 - Licenses and options,Softphone Doko,0.0,4.0,0.0,,2024-09-24 15:12:46,2024-09-24 15:12:46,1576046,ALPHA COURSES
+4 - Numbers and portabilities,Sélection Directe à l'arrivée (S.D.A),0.8,4.0,3.2,,2024-09-24 15:12:46,2024-09-24 15:12:46,1576046,ALPHA COURSES
+7 - Mobile,Business Smartphone 5 Go Orange,29.0,1.0,29.0,,2019-01-29 09:26:19,2019-05-09 12:14:14,494393,ALSACE
+1 - Licenses and options,Application Fax 2 Mail / Mail 2 Fax,10.0,1.0,10.0,,2024-04-16 14:02:07,2024-04-16 14:02:07,1443131,AMBUL 'EUROPE ASSISTANCE
+1 - Licenses and options,Application Softphone Doko,0.0,2.0,0.0,,2024-04-16 14:02:07,2024-04-16 14:02:07,1443131,AMBUL 'EUROPE ASSISTANCE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2024-04-16 14:02:07,2024-04-16 14:02:07,1443131,AMBUL 'EUROPE ASSISTANCE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,3.0,45.0,,2024-04-16 14:02:07,2024-04-16 14:02:07,1443131,AMBUL 'EUROPE ASSISTANCE
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,59.0,1.0,59.0,,2024-04-16 14:07:43,2024-04-16 14:07:43,1443131,AMBUL 'EUROPE ASSISTANCE
+3 - Access links,Lien Back-up 4G VRRP,9.0,1.0,9.0,,2024-04-16 14:07:43,2024-04-16 14:07:43,1443131,AMBUL 'EUROPE ASSISTANCE
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,2.0,10.0,,2024-04-16 14:07:43,2024-04-16 14:07:43,1443131,AMBUL 'EUROPE ASSISTANCE
+7 - Mobile,Business Smartphone 1 Go,9.5,3.0,28.5,,2020-01-13 10:24:20,2024-09-23 14:01:25,634037,APEI ENTREPRISE ADAPTÉE
+7 - Mobile,Business Smartphone 10 Go,19.75,1.0,19.75,,2023-12-18 16:53:57,2024-09-23 14:01:25,634037,APEI ENTREPRISE ADAPTÉE
+7 - Mobile,Business Voix,4.0,2.0,8.0,,2020-01-13 10:24:20,2024-09-23 14:01:25,634037,APEI ENTREPRISE ADAPTÉE
+7 - Mobile,Business Smartphone 1 Go,9.5,4.0,38.0,,2020-01-13 10:55:36,2024-03-26 11:47:34,634933,APEI FAM AJ LES COPAINS A BORD
+7 - Mobile,Business Smartphone 1 Go,9.5,15.0,142.5,,2020-01-13 11:00:46,2024-03-26 11:47:55,634977,APEI FOYER DE VIE BORD DES EAUX
+7 - Mobile,Business Smartphone 10 Go,19.75,1.0,19.75,,2023-11-23 09:00:25,2023-11-23 09:00:25,634977,APEI FOYER DE VIE BORD DES EAUX
+7 - Mobile,Business Smartphone 1 Go,9.5,27.0,256.5,,2020-01-13 11:29:59,2024-10-03 14:28:24,634263,APEI IME L Envol Site de Carvin
+7 - Mobile,Business Voix,4.0,1.0,4.0,,2020-01-13 11:14:38,2024-10-03 14:28:24,634263,APEI IME L Envol Site de Carvin
+7 - Mobile,Business Smartphone 1 Go,9.5,20.0,190.0,,2020-01-13 11:37:53,2025-02-24 09:25:53,634655,APEI IME L ENVOL SITE HENIN
+7 - Mobile,M TO M,4.0,1.0,4.0,,2024-06-18 15:57:13,2024-10-03 14:28:00,634655,APEI IME L ENVOL SITE HENIN
+7 - Mobile,Business Smartphone 1 Go,9.5,40.0,380.0,,2020-01-08 17:59:39,2024-09-23 14:05:02,633862,APEI PRODIVERSITE ESAT CCIAL
+7 - Mobile,Business Smartphone 2 Go,12.75,5.0,63.75,,2023-02-27 09:50:41,2024-09-23 14:05:02,633862,APEI PRODIVERSITE ESAT CCIAL
+7 - Mobile,Business Smartphone 3 Go,16.0,1.0,16.0,,2023-06-05 11:35:35,2024-09-23 14:05:02,633862,APEI PRODIVERSITE ESAT CCIAL
+7 - Mobile,Business Voix,4.0,5.0,20.0,,2023-02-27 09:50:41,2024-09-23 14:05:02,633862,APEI PRODIVERSITE ESAT CCIAL
+7 - Mobile,MTOM,4.5,1.0,4.5,,2023-06-29 15:20:26,2024-09-23 14:05:02,633862,APEI PRODIVERSITE ESAT CCIAL
+1 - Licenses and options,Accès Voix IP - 6 Canaux de communications,120.0,1.0,120.0,,2024-06-10 10:22:35,2024-09-23 14:03:07,634065,APEI RESIDENCE DU MOULIN
+1 - Licenses and options,Forfait illimité vers les fixes et les mobiles de France,39.0,1.0,39.0,,2024-06-10 10:22:35,2024-09-23 14:03:07,634065,APEI RESIDENCE DU MOULIN
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,14.0,7.0,,2024-06-10 10:22:35,2024-09-23 14:03:07,634065,APEI RESIDENCE DU MOULIN
+7 - Mobile,Business Smartphone 1 Go,9.5,11.0,104.5,,2020-01-13 10:34:31,2025-04-29 14:38:05,634065,APEI RESIDENCE DU MOULIN
+7 - Mobile,Business Smartphone 1 Go - Site SAMSAH,9.5,3.0,28.5,,2025-04-29 14:38:06,2025-04-29 14:38:06,634065,APEI RESIDENCE DU MOULIN
+7 - Mobile,Business Smartphone 3 Go,16.0,1.0,16.0,,2023-06-05 11:37:52,2024-09-23 14:03:07,634065,APEI RESIDENCE DU MOULIN
+7 - Mobile,Business Voix,4.0,6.0,24.0,,2020-01-13 10:34:31,2024-09-23 14:03:07,634065,APEI RESIDENCE DU MOULIN
+8 - Various,Remise client,-20.0,1.0,-20.0,,2024-06-10 10:22:35,2024-09-23 14:03:07,634065,APEI RESIDENCE DU MOULIN
+7 - Mobile,Business Smartphone 1 Go,9.5,9.0,85.5,,2020-01-13 12:03:37,2025-02-24 09:22:36,634962,APEI SAJ LES COPAINS A BORD
+7 - Mobile,Accès Internet mobile 1 Go,8.0,1.0,8.0,MTOM,2024-03-11 10:24:02,2024-09-23 14:03:45,634169,APEI SAVS DU MOULIN
+7 - Mobile,Business Smartphone 1 Go,9.5,7.0,66.5,,2020-01-13 10:41:08,2024-09-23 14:03:45,634169,APEI SAVS DU MOULIN
+7 - Mobile,Business Smartphone 1 Go,9.5,7.0,66.5,,2019-12-18 16:55:31,2024-10-03 14:28:47,634231,APEI SESSAD L Envol Site de Carvin
+7 - Mobile,Business Smartphone 1 Go,9.5,7.0,66.5,,2020-01-13 10:51:53,2024-09-23 14:04:31,634690,APEI SESSAD L ENVOL SITE HENIN
+1 - Licenses and options,Accès Voix IP - 8 Canaux de communications,160.0,1.0,160.0,,2025-02-17 11:35:05,2025-02-17 11:39:09,633786,APEI SIEGE SOCIAL
+1 - Licenses and options,Forfait illimité vers les Fixes et Mobiles de France,49.0,1.0,49.0,,2025-02-17 11:35:05,2025-02-17 11:39:09,633786,APEI SIEGE SOCIAL
+1 - Licenses and options,Remise Client,-20.0,1.0,-20.0,,2025-02-17 11:39:09,2025-02-17 11:39:09,633786,APEI SIEGE SOCIAL
+4 - Numbers and portabilities,Numéro direct - SDA Supplémentaire,0.5,30.0,15.0,,2025-02-17 11:35:05,2025-02-17 11:39:09,633786,APEI SIEGE SOCIAL
+7 - Mobile,Accès Internet mobile 5 Go,14.0,1.0,14.0,,2024-02-26 11:33:14,2025-02-03 15:09:14,633786,APEI SIEGE SOCIAL
+7 - Mobile,Business Smartphone 1 Go,9.5,9.0,85.5,,2019-12-18 10:22:32,2025-02-27 09:31:03,633786,APEI SIEGE SOCIAL
+7 - Mobile,Business Smartphone 10 Go,19.75,1.0,19.75,,2019-12-18 10:22:32,2025-02-03 15:09:14,633786,APEI SIEGE SOCIAL
+7 - Mobile,Business Smartphone 20 Go,24.0,3.0,72.0,,2019-12-18 10:22:32,2025-02-03 15:09:14,633786,APEI SIEGE SOCIAL
+7 - Mobile,Business Smartphone 5 Go,14.2,1.0,14.2,,2024-10-03 14:26:34,2025-02-03 15:09:14,633786,APEI SIEGE SOCIAL
+7 - Mobile,Business Voix,4.0,1.0,4.0,,2023-02-27 13:31:14,2025-02-03 15:09:14,633786,APEI SIEGE SOCIAL
+7 - Mobile,Business Smartphone 1 Go,9.5,2.0,19.0,,2020-01-13 11:03:34,2023-01-02 09:44:43,634946,APEI VIE ASSOCIATIVE SAS LA PASSERELLE
+1 - Licenses and options,Coeur de système hébergé,25.0,1.0,25.0,,2021-10-20 15:24:56,2022-06-02 16:19:37,947484,APSN
+1 - Licenses and options,Doko,5.0,1.0,5.0,,2021-10-20 15:30:19,2023-09-11 11:52:31,947484,APSN
+1 - Licenses and options,Licence utilisateur 2 communications (illimités F/M France),15.0,1.0,15.0,,2021-10-20 15:24:56,2022-06-02 16:19:37,947484,APSN
+1 - Licenses and options,remise télephonie,-20.0,1.0,-20.0,,2022-12-23 10:14:18,2022-12-23 10:14:18,947484,APSN
+4 - Numbers and portabilities,Numéro direct SDA,0.5,1.0,0.5,,2021-10-20 15:30:19,2022-06-02 16:19:37,947484,APSN
+7 - Mobile,Business Smartphone 1 Go,10.0,1.0,10.0,,2024-09-17 15:40:18,2024-09-17 15:40:18,947484,APSN
+7 - Mobile,Business Smartphone 20 Go,23.0,1.0,23.0,,2024-02-22 15:15:13,2024-02-22 15:15:13,947484,APSN
+7 - Mobile,Business Smartphone Orange 2Go,15.0,1.0,15.0,,2022-06-02 16:36:02,2022-12-23 10:13:03,947484,APSN
+7 - Mobile,Business Smartphone Orange 50Go,26.0,1.0,26.0,,2022-06-02 16:36:02,2022-12-23 10:13:03,947484,APSN
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.0,3.0,36.0,Amiens,2022-05-30 17:01:43,2024-03-26 11:54:47,1068093,ARBS - Amiens
+3 - Access links,Accès Internet - Fibre Access - 100 / 2 Mbps,120.0,1.0,120.0,Amiens,2022-05-30 17:01:43,2024-03-26 11:58:23,1068093,ARBS - Amiens
+7 - Mobile,Business Smartphone 20 Go,20.0,3.0,60.0,Amiens,2022-05-30 17:01:43,2024-03-26 11:54:47,1068093,ARBS - Amiens
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.0,1.0,12.0,Bordeaux,2022-09-02 10:46:50,2024-03-26 14:16:28,1068103,ARBS - Bordeaux
+1 - Licenses and options,Application Softphone Doko,3.0,2.0,6.0,Caen,2022-06-09 10:29:19,2024-03-26 14:18:30,1068100,ARBS - Caen
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.0,2.0,24.0,Caen,2022-05-30 16:54:02,2024-03-26 14:18:30,1068100,ARBS - Caen
+7 - Mobile,Business Smartphone 20 Go,20.0,2.0,40.0,Caen,2022-05-30 16:54:02,2024-03-26 14:18:30,1068100,ARBS - Caen
+1 - Licenses and options,Application Softphone Doko,3.0,11.0,33.0,Siège,2022-05-25 17:14:06,2024-03-26 14:25:35,312764,ARBS - Marcq-en-Baroeul
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,50.0,1.0,50.0,Siège,2022-05-25 17:14:06,2024-03-26 14:25:35,312764,ARBS - Marcq-en-Baroeul
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.0,21.0,252.0,Siège,2022-05-25 17:14:06,2024-11-04 16:35:53,312764,ARBS - Marcq-en-Baroeul
+1 - Licenses and options,16 adresses IP publique IPV4,5.0,16.0,80.0,Siège,2022-05-25 17:14:06,2024-03-26 14:26:29,312764,ARBS - Marcq-en-Baroeul
+1 - Licenses and options,Contact Expérience avancé,180.0,1.0,180.0,Siège,2022-05-25 17:14:06,2024-03-26 14:26:14,312764,ARBS - Marcq-en-Baroeul
+1 - Licenses and options,Licence Agent SVI Avancé contact Expérience,50.0,3.0,150.0,,2023-10-05 11:06:14,2024-03-26 14:25:35,312764,ARBS - Marcq-en-Baroeul
+1 - Licenses and options,Maintenance mensuelle - Siège,45.0,1.0,45.0,,2022-05-25 17:14:06,2024-03-26 14:26:04,312764,ARBS - Marcq-en-Baroeul
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,420.0,1.0,420.0,Siège,2022-05-25 17:14:06,2024-03-26 14:25:35,312764,ARBS - Marcq-en-Baroeul
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,79.0,1.0,79.0,Siège,2023-02-28 16:08:43,2024-03-26 14:25:35,312764,ARBS - Marcq-en-Baroeul
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,55.0,27.5,Siège,2022-05-25 17:14:06,2024-08-26 16:19:15,312764,ARBS - Marcq-en-Baroeul
+7 - Mobile,Abonnement 1 Go Data Only - Siège,7.0,35.0,245.0,,2022-07-29 15:32:43,2024-09-30 16:24:44,312764,ARBS - Marcq-en-Baroeul
+7 - Mobile,Accès Internet mobile 50 Go,25.0,5.0,125.0,Siège,2022-05-25 17:14:06,2024-03-26 14:25:35,312764,ARBS - Marcq-en-Baroeul
+7 - Mobile,Business Smartphone 20 Go,20.0,15.0,300.0,Siège,2022-05-25 17:14:06,2024-03-26 14:25:35,312764,ARBS - Marcq-en-Baroeul
+7 - Mobile,Business Smartphone 5 Go,15.0,1.0,15.0,Siège,2024-02-12 10:29:33,2024-03-26 14:25:35,312764,ARBS - Marcq-en-Baroeul
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.0,2.0,24.0,Nancy,2022-05-30 17:09:20,2024-03-26 14:28:18,1068088,ARBS - Nancy
+3 - Access links,Accès Internet - Fibre Access - 100 / 2 Mbps,120.0,1.0,120.0,Nancy,2022-05-30 17:09:20,2024-03-26 14:28:18,1068088,ARBS - Nancy
+7 - Mobile,Business Smartphone 20 Go,20.0,2.0,40.0,Nancy,2022-05-30 17:09:20,2024-03-26 14:28:18,1068088,ARBS - Nancy
+5 - Service Pack,Service de contrôle des bornes wifi,3.5,8.0,28.0,,2022-02-01 21:41:38,2022-02-06 14:29:53,997701,ARCADIS - Halluin
+1 - Licenses and options,Licence utilisateur,12.5,2.0,25.0,,2025-03-31 11:12:02,2025-03-31 11:30:35,1688266,ARCADIS - Lille
+1 - Licenses and options,Sécurisation du lien via Cloud Firewall Fortinet,17.0,1.0,17.0,,2025-03-03 10:45:01,2025-03-31 11:30:35,1688266,ARCADIS - Lille
+1 - Licenses and options,Téléphonie Hébergée - Standard,15.0,1.0,15.0,,2025-03-31 11:12:02,2025-03-31 11:30:35,1688266,ARCADIS - Lille
+2 - Telephone lines,Numéro Direct - SDA,0.6,2.0,1.2,,2025-03-31 11:12:02,2025-03-31 11:30:35,1688266,ARCADIS - Lille
+3 - Access links,Fibre Optique 1000 Mbps,380.0,1.0,380.0,,2025-03-03 10:45:01,2025-03-31 11:30:35,1688266,ARCADIS - Lille
+6 - Hardware,Routeur Fibre Gigabits,10.0,1.0,10.0,,2025-03-03 10:45:01,2025-03-31 11:30:35,1688266,ARCADIS - Lille
+5 - Service Pack,Service de contrôle des bornes wifi,3.5,14.0,49.0,,2022-02-01 15:43:30,2025-03-27 10:54:08,833870,ARCADIS - Roubaix
+5 - Service Pack,Service de controle des bornes wifi,3.5,4.0,14.0,,2022-02-01 15:40:07,2022-02-06 14:30:37,997700,ARCADIS - Tourcoing
+1 - Licenses and options,Avantage Parc +10 lignes,-7.13,1.0,-7.13,,2024-06-27 15:34:21,2024-06-27 15:34:21,444196,ASSOCIATION BIEN ETRE ET SANTE
+2 - Telephone lines,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2018-10-16 12:12:59,2024-06-27 15:34:21,444196,ASSOCIATION BIEN ETRE ET SANTE
+2 - Telephone lines,Licence utilisateur,15.0,20.0,300.0,,2018-10-16 12:12:59,2025-02-01 10:56:14,444196,ASSOCIATION BIEN ETRE ET SANTE
+2 - Telephone lines,Ligne Analogique,29.0,1.0,29.0,,2024-06-27 15:34:21,2024-06-27 15:34:21,444196,ASSOCIATION BIEN ETRE ET SANTE
+3 - Access links,Accès Internet - Fibre dédiée symétrique - 1 Gbps Max,449.0,1.0,449.0,,2024-06-27 15:34:21,2024-06-27 15:34:21,444196,ASSOCIATION BIEN ETRE ET SANTE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.8,4.0,3.2,,2018-10-16 12:12:59,2024-06-27 15:34:21,444196,ASSOCIATION BIEN ETRE ET SANTE
+5 - Service Pack,Maintenance système,31.25,1.0,31.25,,2024-06-27 15:34:21,2024-06-27 15:34:21,444196,ASSOCIATION BIEN ETRE ET SANTE
+6 - Hardware,Location routeur Mobile LTE Wifi,3.0,2.0,6.0,,2024-06-27 15:34:21,2025-02-01 10:56:14,444196,ASSOCIATION BIEN ETRE ET SANTE
+7 - Mobile,Accès Internet mobile 5 Go,14.0,2.0,28.0,,2024-06-27 15:34:21,2025-02-01 10:56:14,444196,ASSOCIATION BIEN ETRE ET SANTE
+7 - Mobile,Avantage Parc +10 lignes,-3.35,1.0,-3.35,,2024-06-27 15:34:21,2024-06-27 15:34:21,444196,ASSOCIATION BIEN ETRE ET SANTE
+7 - Mobile,Business Smartphone 1 Go,12.0,10.0,120.0,,2024-06-27 15:34:21,2024-06-27 15:34:21,444196,ASSOCIATION BIEN ETRE ET SANTE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.5,6.0,75.0,,2020-04-08 16:35:53,2024-03-26 14:31:55,652024,ASSOCIATION DE GESTION LACORDAIRE
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,355.0,1.0,355.0,,2020-04-08 16:40:12,2024-03-26 14:31:55,652024,ASSOCIATION DE GESTION LACORDAIRE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,6.0,3.0,,2020-04-08 16:40:12,2024-03-26 14:31:55,652024,ASSOCIATION DE GESTION LACORDAIRE
+7 - Mobile,Business Smartphone 1 Go,10.5,13.0,136.5,,2020-12-07 17:20:22,2024-03-26 14:34:10,783238,ASSOCIATION OREHANE
+7 - Mobile,Business Smartphone 1 Go 12 mois,12.5,1.0,12.5,Mme Sabrina SCHIAVONI,2021-05-07 09:19:33,2024-03-26 14:34:10,783238,ASSOCIATION OREHANE
+1 - Licenses and options,Accès Voix IP Full illimité - 2 Canaux + Patton,49.0,1.0,49.0,,2024-02-06 11:33:45,2024-02-06 11:33:45,1199133,ASSOCIATION RENAITRE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.8,7.0,5.6,,2024-02-06 11:33:45,2024-02-06 11:33:45,1199133,ASSOCIATION RENAITRE
+1 - Licenses and options,Application Softphone Doko,3.0,2.0,6.0,,2019-11-22 10:02:47,2023-10-19 09:28:46,604549,ASSOCIATION STELLA MARIS
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,30.0,1.0,30.0,,2019-11-22 10:02:47,2024-03-26 14:37:03,604549,ASSOCIATION STELLA MARIS
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,8.0,120.0,,2019-11-22 10:02:47,2025-03-24 15:08:35,604549,ASSOCIATION STELLA MARIS
+3 - Access links,Abonnement Routeur 4G Back Up,69.0,1.0,69.0,,2021-06-30 16:18:58,2021-10-01 19:10:26,604549,ASSOCIATION STELLA MARIS
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 1000 Mbps - Symétrique et garanti,580.0,1.0,580.0,,2019-11-22 10:00:13,2024-09-09 09:25:22,604549,ASSOCIATION STELLA MARIS
+4 - Numbers and portabilities,Sélection Directe à l'arrivée (SDA),0.8,1.0,0.8,,2025-03-24 15:08:35,2025-03-24 15:08:35,604549,ASSOCIATION STELLA MARIS
+5 - Service Pack,Protection Cloud firewall,29.0,1.0,29.0,,2021-06-30 16:18:58,2022-12-23 15:30:20,604549,ASSOCIATION STELLA MARIS
+6 - Hardware,Location Routeur VRRP,10.0,1.0,10.0,,2021-06-30 16:18:58,2021-10-01 19:10:26,604549,ASSOCIATION STELLA MARIS
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,15.0,1.0,15.0,,2019-11-22 10:00:13,2024-08-22 16:22:11,604549,ASSOCIATION STELLA MARIS
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2025-05-19 11:14:11,2025-05-19 11:14:11,604549,ASSOCIATION STELLA MARIS
+7 - Mobile,Abonnement Mobile,14.0,2.0,28.0,,2019-11-22 10:02:47,2021-10-01 19:11:09,604549,ASSOCIATION STELLA MARIS
+7 - Mobile,Abonnement Mobile Data,25.0,1.0,25.0,,2021-07-29 11:59:12,2025-05-13 10:39:35,604549,ASSOCIATION STELLA MARIS
+7 - Mobile,Abonnement Mobile Data +,37.0,1.0,37.0,,2020-07-31 14:35:30,2022-07-26 09:51:57,604549,ASSOCIATION STELLA MARIS
+7 - Mobile,Abonnement Mobile Ligne SSI,5.0,1.0,5.0,,2022-04-27 09:49:34,2025-05-13 10:39:35,604549,ASSOCIATION STELLA MARIS
+7 - Mobile,Business Smartphone 5 Go,11.0,15.0,165.0,,2024-02-09 10:24:59,2024-02-22 14:03:28,1403086,ATPC - ANTENNE ARRAS
+7 - Mobile,Remise Parc > 100 lignes,-16.5,1.0,-16.5,,2024-02-09 10:24:59,2024-02-22 14:03:28,1403086,ATPC - ANTENNE ARRAS
+7 - Mobile,Business Smartphone 5 Go,11.0,19.0,209.0,,2024-02-09 10:28:23,2024-02-22 14:33:16,1403084,ATPC - ANTENNE BOULOGNE
+7 - Mobile,Remise Parc > 100 lignes,-20.9,1.0,-20.9,,2024-02-09 10:28:23,2024-02-22 14:33:16,1403084,ATPC - ANTENNE BOULOGNE
+7 - Mobile,Business Smartphone 5 Go,11.0,16.0,176.0,,2024-02-09 10:26:46,2024-02-22 14:12:51,1403081,ATPC - ANTENNE BÉTHUNE
+7 - Mobile,Remise Parc > 100 lignes,-17.6,1.0,-17.6,,2024-02-09 10:26:46,2024-02-22 14:12:51,1403081,ATPC - ANTENNE BÉTHUNE
+7 - Mobile,Business Smartphone 5 Go,11.0,17.0,187.0,,2024-02-09 10:29:40,2025-03-13 10:34:39,1403088,ATPC - ANTENNE LENS
+7 - Mobile,Remise Parc > 100 lignes,-18.7,1.0,-18.7,,2024-02-09 10:29:40,2025-03-13 10:34:39,1403088,ATPC - ANTENNE LENS
+7 - Mobile,Accès internet mobile 5 Go,10.0,19.0,190.0,,2024-02-09 14:01:24,2025-02-06 11:42:17,1403097,ATPC - SASB
+7 - Mobile,Business Smartphone 5 Go,11.0,16.0,176.0,,2024-02-09 10:30:51,2025-01-31 10:22:03,1403097,ATPC - SASB
+7 - Mobile,Remise Parc > 100 lignes,-35.6,1.0,-35.6,,2024-02-09 14:01:24,2025-01-31 10:51:22,1403097,ATPC - SASB
+7 - Mobile,Business Smartphone 5 Go,11.0,24.0,264.0,,2024-02-09 10:32:07,2024-02-22 16:24:57,1403094,ATPC - SERVICES DES ÉTABLISSEMENTS
+7 - Mobile,Remise Parc > 100 lignes,-26.4,1.0,-26.4,,2024-02-09 10:32:07,2024-02-22 16:24:57,1403094,ATPC - SERVICES DES ÉTABLISSEMENTS
+7 - Mobile,Business Smartphone 1 Go,11.0,1.0,11.0,,2025-01-31 10:50:32,2025-01-31 10:50:32,393048,ATPC - SIEGE
+7 - Mobile,Business Smartphone 5 Go,11.0,23.0,253.0,,2024-02-09 09:19:21,2025-03-18 17:02:42,393048,ATPC - SIEGE
+7 - Mobile,Business Smartphone 20 Go,16.0,1.0,16.0,,2024-02-09 09:19:21,2024-02-18 09:47:38,393048,ATPC - SIEGE
+7 - Mobile,Business Voix et SMS,6.0,2.0,12.0,,2024-02-09 09:19:21,2024-08-30 09:44:39,393048,ATPC - SIEGE
+7 - Mobile,Remise Parc > 100 lignes,-29.2,1.0,-29.2,,2024-02-09 09:19:21,2025-03-18 17:02:42,393048,ATPC - SIEGE
+1 - Licenses and options,Adresses IP/30,10.0,1.0,10.0,,2024-10-04 14:52:01,2024-10-04 14:52:01,1013885,AXO GROUPE
+1 - Licenses and options,Envoi de mail personnalisable - Demande de rappel,25.0,1.0,25.0,,2024-09-19 13:48:24,2024-09-19 13:48:24,1013885,AXO GROUPE
+1 - Licenses and options,Hébergement Coeur de Système standard téléphonique,45.0,1.0,45.0,,2024-09-19 13:58:54,2024-09-19 13:58:54,1013885,AXO GROUPE
+1 - Licenses and options,Hébergement Contact Expérience - Cloud sécurisé - Téléphonie IP,119.0,1.0,119.0,,2024-09-19 13:48:24,2024-09-19 13:48:24,1013885,AXO GROUPE
+1 - Licenses and options,Licence utilisateur illimité F/M France - 4 communications simultanées,15.0,7.0,105.0,,2024-09-19 13:58:54,2025-01-03 09:34:42,1013885,AXO GROUPE
+1 - Licenses and options,Remise Coeur de système,-20.0,1.0,-20.0,,2024-09-19 13:58:54,2024-09-19 13:58:54,1013885,AXO GROUPE
+1 - Licenses and options,Remise N'co Services,-45.0,1.0,-45.0,,2024-09-19 13:48:24,2024-09-19 13:48:24,1013885,AXO GROUPE
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - symétrique et garanti,315.0,1.0,315.0,,2024-10-04 14:52:01,2024-10-04 14:52:01,1013885,AXO GROUPE
+3 - Access links,Remise client,-25.0,1.0,-25.0,,2024-10-04 14:52:01,2024-10-04 14:54:34,1013885,AXO GROUPE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,13.0,6.5,,2024-09-19 13:58:54,2025-01-03 09:34:42,1013885,AXO GROUPE
+6 - Hardware,Routeur Fibre Optique - compatible VRRP,10.0,1.0,10.0,,2024-10-04 14:52:01,2024-10-04 14:52:01,1013885,AXO GROUPE
+7 - Mobile,Accès Internet mobile 20 Go,19.0,12.0,228.0,,2022-04-04 13:23:52,2025-02-06 09:51:57,1013885,AXO GROUPE
+7 - Mobile,Business Smartphone 20 Go,24.0,12.0,288.0,,2022-02-28 11:40:39,2025-02-06 09:51:57,1013885,AXO GROUPE
+7 - Mobile,Business Smartphone 50 Go,34.0,1.0,34.0,,2022-06-28 09:50:36,2024-07-02 14:44:15,1013885,AXO GROUPE
+7 - Mobile,Remise,-85.35,1.0,-85.35,,2024-06-20 13:50:11,2024-07-02 14:44:15,1013885,AXO GROUPE
+1 - Licenses and options,Licence Utilisateur,15.0,5.0,75.0,,2025-04-14 14:24:37,2025-04-14 14:24:37,314726,BATI SERVICE
+1 - Licenses and options,Téléphonie Hébergée - Standard,25.0,1.0,25.0,,2025-04-14 14:24:37,2025-04-14 14:24:37,314726,BATI SERVICE
+3 - Access links,Fibre Mutualisée - Accès Internet FTTH 1 Gbps Max,59.0,1.0,59.0,,2025-04-14 14:24:37,2025-04-14 14:24:37,314726,BATI SERVICE
+4 - Numbers and portabilities,Numéro Direct - SDA,0.5,1.0,0.5,,2025-04-14 14:24:37,2025-04-14 14:24:37,314726,BATI SERVICE
+1 - Licenses and options,Application Softphone Doko,0.0,1.0,0.0,,2022-11-02 10:12:34,2024-03-26 14:48:49,1127019,BAYART DL
+1 - Licenses and options,Hébergement coeur de système - Licence utilisateur,85.0,1.0,85.0,,2022-10-04 14:36:19,2024-03-26 14:48:49,1127019,BAYART DL
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,0.0,1.0,0.0,,2022-10-04 14:36:19,2024-03-26 14:48:49,1127019,BAYART DL
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2022-10-03 14:46:08,2024-03-26 14:48:49,1127019,BAYART DL
+8 - Various,Remise Commerciale,-15.0,1.0,-15.0,,2022-10-03 14:59:25,2022-11-02 10:11:38,1127019,BAYART DL
+7 - Mobile,Business Smartphone 5 Go,18.0,1.0,18.0,,2024-10-24 09:57:04,2025-05-02 14:35:22,1594471,BERNARD BENOIT
+1 - Licenses and options,Hébergement Coeur de Système Standard Téléphonique,45.0,1.0,45.0,,2023-07-27 13:05:24,2023-07-27 13:05:24,1256139,BMD ASSOCIES
+1 - Licenses and options,Intégration de la solution sur la plateforme Verloo,-35.0,1.0,-35.0,,2023-07-27 13:10:53,2023-07-27 13:10:53,1256139,BMD ASSOCIES
+1 - Licenses and options,Licence utilisateur,15.0,6.0,90.0,,2023-07-27 13:05:24,2023-07-27 13:05:24,1256139,BMD ASSOCIES
+7 - Mobile,06 09 88 54 28 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 10 07 42 78 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 14 11 37 93 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 17 01 64 06 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:34:29,2024-10-03 14:34:29,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 24 93 03 44 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 26 06 45 92 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 26 06 47 35 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 26 31 21 94 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:34:29,2024-10-03 14:34:29,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 30 76 81 71 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 30 76 81 74 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 30 76 81 88 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 47 06 91 43 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 64 61 20 44 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 66 95 72 54 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 77 22 86 65 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 80 31 19 89 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 88 31 07 82 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,06 89 70 41 75 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 50 56 46 12 - Business Smartphone 20 Go,18.0,1.0,18.0,,2025-01-10 09:06:45,2025-01-10 09:06:45,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 55 65 77 29 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-08-22 14:53:05,2024-10-03 14:34:29,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 56 38 64 12 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-02-26 11:53:43,2024-10-03 14:34:29,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 56 43 73 23 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-12-19 09:24:10,2024-12-19 09:24:10,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 57 00 80 48 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-08-05 14:14:50,2024-10-03 14:34:29,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 57 40 96 69 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 57 47 12 84 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 60 17 51 99 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 63 79 50 92 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 72 44 59 42 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:34:29,2024-10-03 14:34:29,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 72 51 57 85 - Business Smartphone 20 Go,18.0,1.0,18.0,,2023-09-21 09:41:31,2024-10-03 14:34:29,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 87 59 44 63 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 87 93 90 66 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 88 94 00 33 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+7 - Mobile,07 88 94 00 34 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 14:44:55,2024-10-03 14:44:55,1317990,BUSINESS DEVELOPPEMENT AFTERMARKET
+1 - Licenses and options,Avantage Multi-offre -7.5 %,-0.95,1.0,-0.95,,2024-11-28 16:38:06,2024-11-28 16:38:06,1383252,CABINET ALBERT ET ASSOCIES
+1 - Licenses and options,Licence Téléphonie Hébergée,12.0,1.0,12.0,,2024-11-28 16:38:06,2024-11-28 16:38:06,1383252,CABINET ALBERT ET ASSOCIES
+4 - Numbers and portabilities,Sélection Directe à l'arrivée (SDA),0.6,1.0,0.6,,2024-11-28 16:38:06,2024-11-28 16:49:37,1383252,CABINET ALBERT ET ASSOCIES
+7 - Mobile,Business Smartphone Data 20 Go,25.0,5.0,125.0,,2024-01-11 13:53:19,2024-11-21 15:55:08,1383252,CABINET ALBERT ET ASSOCIES
+7 - Mobile,Business Smartphone Data 50 Go,30.0,1.0,30.0,,2024-01-11 13:53:19,2024-11-21 15:55:08,1383252,CABINET ALBERT ET ASSOCIES
+7 - Mobile,Remise Parc supérieur à 10 lignes -5% sur les abonnements,-7.75,1.0,-7.75,,2024-01-11 13:53:19,2024-11-21 15:55:08,1383252,CABINET ALBERT ET ASSOCIES
+1 - Licenses and options,Application Softphone Doko,3.0,1.0,3.0,,2018-12-27 16:55:44,2024-04-23 15:49:45,456059,CABINET DUJARDIN ET DELEPLANQUE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,40.0,1.0,40.0,,2018-12-27 16:55:44,2024-04-23 15:49:45,456059,CABINET DUJARDIN ET DELEPLANQUE
+2 - Telephone lines,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,10.0,150.0,,2018-12-27 16:55:44,2024-04-23 15:49:45,456059,CABINET DUJARDIN ET DELEPLANQUE
+5 - Service Pack,Services SVI,20.0,1.0,20.0,,2019-03-13 16:17:15,2024-04-23 15:49:45,456059,CABINET DUJARDIN ET DELEPLANQUE
+5 - Service Pack,Services SVI Niveau 2,30.0,1.0,30.0,,2020-09-02 09:19:10,2024-04-23 15:49:45,456059,CABINET DUJARDIN ET DELEPLANQUE
+7 - Mobile,Business Smartphone 20 Go,29.0,1.0,29.0,,2021-11-03 11:40:37,2024-03-26 15:10:57,761253,CAISSE DES INSTITUTIONS SOCIALES DU B.T.P.
+7 - Mobile,Business Smartphone 5 Go,24.0,2.0,48.0,,2021-09-02 17:08:16,2024-03-26 15:10:57,761253,CAISSE DES INSTITUTIONS SOCIALES DU B.T.P.
+7 - Mobile,Remise commerciale,-26.25,1.0,-26.25,,2023-06-15 16:47:02,2025-03-04 10:02:57,1225829,CAMBRAI CHARPENTES
+7 - Mobile,Business Smartphone 20 Go,25.0,16.0,400.0,,2023-03-23 13:25:49,2025-03-04 10:02:57,1225829,CAMBRAI CHARPENTES
+7 - Mobile,Business Smartphone 250 Go,65.0,1.0,65.0,,2023-06-02 11:51:26,2023-12-21 16:16:18,1225829,CAMBRAI CHARPENTES
+7 - Mobile,Business Smartphone 50 Go,30.0,2.0,60.0,,2023-10-03 10:13:25,2024-03-28 11:07:33,1225829,CAMBRAI CHARPENTES
+7 - Mobile,Business Smartphone 5 Go,18.0,26.0,468.0,,2024-01-22 15:03:10,2025-02-03 11:40:06,1390364,CAP EMPLOI LILLE METROPOLE DOUAISIS
+7 - Mobile,Remise > 20 lignes,-0.9,26.0,-23.4,,2024-01-22 15:03:10,2025-02-03 11:40:06,1390364,CAP EMPLOI LILLE METROPOLE DOUAISIS
+1 - Licenses and options,1 adresse IP publique IPV4,3.0,1.0,3.0,Lien d'accès - La Madeleine,2024-03-14 14:11:21,2024-10-25 11:03:13,349134,CARROSSERIE LILLOISE (site principal)
+1 - Licenses and options,ATELIER - Licence utilisateur,12.5,3.0,37.5,,2023-12-08 14:51:40,2024-10-25 11:03:13,349134,CARROSSERIE LILLOISE (site principal)
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2023-12-08 14:51:40,2024-10-25 11:03:13,349134,CARROSSERIE LILLOISE (site principal)
+1 - Licenses and options,R+1 - Licence utilisateur,12.5,2.0,25.0,,2023-12-08 14:51:40,2024-10-25 11:03:13,349134,CARROSSERIE LILLOISE (site principal)
+1 - Licenses and options,RDC - Licence utilisateur,12.5,2.0,25.0,,2023-12-08 14:51:40,2024-10-25 11:03:13,349134,CARROSSERIE LILLOISE (site principal)
+1 - Licenses and options,Solution Contact Experience - Accueil téléphonique sur-mesure,79.0,1.0,79.0,,2023-10-23 16:03:38,2024-10-25 11:03:13,349134,CARROSSERIE LILLOISE (site principal)
+2 - Telephone lines,Ligne Analogique,19.0,1.0,19.0,,2020-11-20 16:17:59,2024-10-25 11:03:13,349134,CARROSSERIE LILLOISE (site principal)
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1Gbps,79.0,1.0,79.0,Site La Madeleine,2023-11-07 09:52:22,2024-10-25 11:03:13,349134,CARROSSERIE LILLOISE (site principal)
+7 - Mobile,Accès Internet - Mobile 4G Backup + Routeur VRRP,14.0,1.0,14.0,Site La Madeleine,2023-11-16 09:52:06,2024-10-25 11:03:13,349134,CARROSSERIE LILLOISE (site principal)
+8 - Various,Remise N'co Services,-10.0,1.0,-10.0,,2023-10-23 16:03:38,2024-10-25 11:03:13,349134,CARROSSERIE LILLOISE (site principal)
+1 - Licenses and options,4 Accès Téléphonie Hébergée,50.0,1.0,50.0,,2021-01-14 16:45:52,2023-11-21 14:58:01,773480,CARROSSERIE LILLOISE II
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,79.0,1.0,79.0,,2021-01-20 17:07:42,2024-03-26 15:20:53,773480,CARROSSERIE LILLOISE II
+3 - Access links,Accès Internet - Mobile 4G Backup + Routeur VRRP,14.0,1.0,14.0,,2024-01-04 14:04:43,2024-01-04 14:04:43,773480,CARROSSERIE LILLOISE II
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.9,5.0,4.5,,2021-01-14 16:45:52,2024-03-26 15:20:53,773480,CARROSSERIE LILLOISE II
+1 - Licenses and options,4 Accès Téléphoniques Hébergés,50.0,1.0,50.0,,2020-12-14 17:37:45,2023-06-26 10:40:06,773527,CARROSSERIE LILLOISE III
+1 - Licenses and options,Solution Contact Expérience - Accueil téléphonique sur-mesure,59.0,1.0,59.0,,2023-10-23 16:08:12,2023-10-23 16:08:12,773527,CARROSSERIE LILLOISE III
+2 - Telephone lines,Ligne Fax,19.0,1.0,19.0,,2020-12-14 17:37:45,2023-06-26 10:40:06,773527,CARROSSERIE LILLOISE III
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,79.0,1.0,79.0,,2020-12-14 17:37:45,2024-03-26 15:22:47,773527,CARROSSERIE LILLOISE III
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.9,5.0,4.5,,2020-12-14 17:37:45,2024-03-26 15:22:47,773527,CARROSSERIE LILLOISE III
+8 - Various,Remise N'Co Services,-10.0,1.0,-10.0,,2023-10-23 16:08:12,2023-10-23 16:08:12,773527,CARROSSERIE LILLOISE III
+1 - Licenses and options,PBX Plug,10.0,1.0,10.0,,2019-02-07 15:53:13,2024-03-26 15:24:59,422920,CARTONNAGES VAILLANT
+2 - Telephone lines,Accès Numéris,55.0,1.0,55.0,Activation le 31&#047;10&#047;2018,2018-10-31 15:51:27,2024-03-26 15:24:59,422920,CARTONNAGES VAILLANT
+2 - Telephone lines,Trunk 6 Voix illimités Fixe et Mobile France,150.0,1.0,150.0,,2019-02-07 15:53:13,2024-03-26 15:24:59,422920,CARTONNAGES VAILLANT
+3 - Access links,Remise lien d'accès,-10.0,1.0,-10.0,,2025-03-06 15:17:19,2025-03-06 15:17:19,422920,CARTONNAGES VAILLANT
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 300 Mbps - Symétrique et garanti,649.0,1.0,649.0,,2021-11-25 09:55:18,2025-03-06 15:15:05,422920,CARTONNAGES VAILLANT
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,89.0,1.0,89.0,,2021-11-25 09:55:18,2024-03-26 15:24:59,422920,CARTONNAGES VAILLANT
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.8,25.0,20.0,,2019-02-07 15:53:13,2024-03-26 15:24:59,422920,CARTONNAGES VAILLANT
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,10.0,2.0,20.0,,2021-11-25 09:55:18,2024-03-26 15:24:59,422920,CARTONNAGES VAILLANT
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,39.0,1.0,39.0,,2023-07-20 10:15:35,2024-03-26 15:29:21,1279049,CENTRE FERON VRAU
+2 - Telephone lines,Accès Voix IP Full illimité - 4 Canaux,79.0,1.0,79.0,,2023-07-20 10:15:35,2024-03-26 15:29:20,1279049,CENTRE FERON VRAU
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,59.0,1.0,59.0,,2023-07-20 10:15:35,2024-03-26 15:29:21,1279049,CENTRE FERON VRAU
+3 - Access links,Accès Internet mobile 20 Go,20.0,1.0,20.0,,2023-07-20 10:15:35,2024-03-26 15:29:21,1279049,CENTRE FERON VRAU
+4 - Numbers and portabilities,Numéro direct - SDA Supplémentaire,0.5,7.0,3.5,,2023-07-20 10:15:35,2024-03-26 15:29:20,1279049,CENTRE FERON VRAU
+6 - Hardware,Passerelle pour PABX - 4 Com,10.0,1.0,10.0,,2023-07-20 10:15:35,2024-03-26 15:29:21,1279049,CENTRE FERON VRAU
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2023-07-20 10:15:35,2024-03-26 15:29:21,1279049,CENTRE FERON VRAU
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2023-07-20 10:15:35,2024-03-26 15:29:21,1279049,CENTRE FERON VRAU
+8 - Various,Remise N'CO SERVICES - Pack Multi-produits,-10.0,1.0,-10.0,,2023-07-20 10:25:31,2024-03-26 15:29:21,1279049,CENTRE FERON VRAU
+1 - Licenses and options,Licence utilisateur,15.0,2.0,30.0,,2025-03-21 11:31:04,2025-05-05 16:23:45,1701104,CESEMAT
+1 - Licenses and options,Téléphonie Hébergée - Standard,12.5,1.0,12.5,,2025-03-21 11:31:04,2025-03-21 11:31:04,1701104,CESEMAT
+4 - Numbers and portabilities,Numéro Direct - SDA,0.8,2.0,1.6,,2025-03-21 11:31:04,2025-05-05 16:23:45,1701104,CESEMAT
+7 - Mobile,Business Smartphone 10GO - Ligne mobile Anne,19.0,1.0,19.0,,2021-01-19 16:54:44,2021-09-02 23:22:23,771956,CHAMBRE SYNDIC CAFETIER DEBITANT BOISSON - Site 1
+7 - Mobile,Business Smartphone 10 Go - Ligne Mobile Gerard,19.0,1.0,19.0,,2021-02-03 08:57:37,2021-09-02 23:23:00,804793,CHAMBRE SYNDIC CAFETIER DEBITANT BOISSON - Site 2
+7 - Mobile,Business Smartphone 20Go,26.0,1.0,26.0,,2021-06-11 09:34:22,2021-09-04 14:55:01,886043,CHEOPS Hauts-de-France
+7 - Mobile,Business Smartphone 5 Go,18.0,2.0,36.0,,2023-07-31 13:52:54,2025-01-03 10:40:59,611662,CITEF
+7 - Mobile,Business Voix et SMS,9.0,2.0,18.0,,2019-10-28 15:33:27,2024-03-26 15:31:48,611662,CITEF
+1 - Licenses and options,Contact Expérience initial,69.0,1.0,69.0,,2024-01-18 10:03:57,2024-03-26 15:35:03,859819,CLOISONOR
+1 - Licenses and options,Option : Gestion des demandes de rappel - Envoi de mail personnalisable,25.0,1.0,25.0,,2024-01-18 10:03:57,2024-03-26 15:35:03,859819,CLOISONOR
+1 - Licenses and options,Remise N'co Services,-35.0,1.0,-35.0,,2024-01-18 10:07:16,2024-03-26 15:35:03,859819,CLOISONOR
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,65.0,1.0,65.0,,2022-06-16 15:44:45,2024-03-26 15:35:03,859819,CLOISONOR
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,10.0,1.0,10.0,,2022-06-16 15:44:45,2024-03-26 15:32:44,859819,CLOISONOR
+7 - Mobile,Business Smartphone 100 Go,35.0,1.0,35.0,,2022-02-14 09:44:01,2023-01-30 09:56:58,859819,CLOISONOR
+7 - Mobile,Business Smartphone 20 Go,25.0,1.0,25.0,,2022-01-05 09:16:16,2024-02-01 10:49:51,859819,CLOISONOR
+7 - Mobile,Business Smartphone 50 Go,30.0,1.0,30.0,,2024-02-01 10:49:51,2024-02-01 10:49:51,859819,CLOISONOR
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,45.0,1.0,45.0,,2023-02-02 17:51:14,2024-03-26 15:40:36,1192822,CLS
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,2.0,30.0,,2023-02-02 17:51:14,2024-03-26 15:40:36,1192822,CLS
+1 - Licenses and options,Remise hébergement,-15.0,1.0,-15.0,,2023-02-02 17:56:28,2023-02-06 17:38:35,1192822,CLS
+1 - Licenses and options,Remise licence,-2.0,2.0,-4.0,,2023-02-02 17:56:28,2023-03-23 09:29:30,1192822,CLS
+3 - Access links,Routeur 4 G,15.0,1.0,15.0,,2023-02-02 18:00:08,2023-07-17 14:27:20,1192822,CLS
+7 - Mobile,Business Smartphone 50 Go,29.0,1.0,29.0,,2023-02-02 17:51:14,2024-03-26 15:40:36,1192822,CLS
+1 - Licenses and options,Hébergement Coeur de Système Standard Téléphonique,25.0,1.0,25.0,,2025-04-14 10:43:33,2025-04-14 10:44:05,580793,COFRINO FROID ET MACHINES
+1 - Licenses and options,Licence Utilisateur illimité F/M France - 4 communication simultanées,15.0,18.0,270.0,,2025-04-14 10:43:33,2025-04-28 09:46:01,580793,COFRINO FROID ET MACHINES
+1 - Licenses and options,Remise N'Co Services - Contact Expérience,-30.0,1.0,-30.0,,2025-04-14 10:43:33,2025-04-14 10:54:43,580793,COFRINO FROID ET MACHINES
+1 - Licenses and options,Remise N'Co Services - Contact Expérience - Licence,-2.0,18.0,-36.0,,2025-04-14 10:51:50,2025-04-28 09:46:01,580793,COFRINO FROID ET MACHINES
+1 - Licenses and options,Remise N'Co Services - Téléphonie hébergée + 10 comptes,-2.0,18.0,-36.0,,2025-04-14 10:51:50,2025-04-28 09:46:01,580793,COFRINO FROID ET MACHINES
+1 - Licenses and options,Solution Contact Expérience,99.0,1.0,99.0,,2025-04-14 10:43:33,2025-04-14 10:43:33,580793,COFRINO FROID ET MACHINES
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,18.0,9.0,,2025-04-14 10:43:33,2025-04-28 09:46:01,580793,COFRINO FROID ET MACHINES
+7 - Mobile,Abonnement M2M 1Go + SIM,11.0,1.0,11.0,,2023-08-28 11:29:05,2025-03-20 10:29:06,580793,COFRINO FROID ET MACHINES
+7 - Mobile,Business Smartphone 1 Go,7.0,1.0,7.0,,2025-01-27 11:26:56,2025-04-17 10:12:14,580793,COFRINO FROID ET MACHINES
+7 - Mobile,Business Smartphone 50 Go,26.0,1.0,26.0,,2024-06-17 09:29:23,2025-03-20 10:29:06,580793,COFRINO FROID ET MACHINES
+7 - Mobile,Business Smartphone 20 Go,19.0,13.0,247.0,,2019-09-06 14:15:51,2025-04-03 09:12:55,580793,COFRINO FROID ET MACHINES
+7 - Mobile,Business smartphone 10 Go,17.0,11.0,187.0,,2019-09-06 14:15:51,2025-03-20 10:29:06,580793,COFRINO FROID ET MACHINES
+1 - Licenses and options,Accès Voix IP Full illimité - 4 Canaux,96.0,1.0,96.0,,2024-03-07 13:46:26,2025-05-14 08:10:57,1432569,COLLEGE GEORGES REMI HERGE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.7,5.0,3.5,,2024-03-07 13:46:26,2025-05-14 08:10:57,1432569,COLLEGE GEORGES REMI HERGE
+6 - Hardware,Location Passerelle IP pour PABX - 4 com,12.0,1.0,12.0,,2024-03-07 13:46:26,2025-05-14 08:10:57,1432569,COLLEGE GEORGES REMI HERGE
+7 - Mobile,Business Smartphone 50 Go,21.5,2.0,43.0,,2025-03-21 14:57:26,2025-05-14 08:10:57,1432569,COLLEGE GEORGES REMI HERGE
+1 - Licenses and options,Accès Voix IP Full illimité - 6 Canaux,159.0,1.0,159.0,,2024-01-25 09:43:24,2024-03-26 15:43:23,1388614,COLLEGE LE TRIOLO
+1 - Licenses and options,Remise Client,-30.0,1.0,-30.0,,2024-01-25 09:43:24,2024-01-25 09:43:24,1388614,COLLEGE LE TRIOLO
+3 - Access links,Support Téléphonie IP - Accès Internet Mobile Plus - 4G,10.0,1.0,10.0,,2024-01-25 09:43:24,2024-01-25 09:43:24,1388614,COLLEGE LE TRIOLO
+4 - Numbers and portabilities,Numéro direct - SDA Supplémentaire,0.7,10.0,7.0,,2024-01-25 09:43:24,2024-01-25 09:43:24,1388614,COLLEGE LE TRIOLO
+6 - Hardware,Location Passerelle IP pour PABX - 6 com,15.0,1.0,15.0,,2024-01-25 09:43:24,2024-01-25 09:43:24,1388614,COLLEGE LE TRIOLO
+6 - Hardware,Routeur Internet 4G,5.0,1.0,5.0,,2024-01-25 09:43:24,2024-01-25 09:43:24,1388614,COLLEGE LE TRIOLO
+7 - Mobile,Business Smartphone 1 Go,9.0,1.0,9.0,,2024-12-05 13:13:39,2024-12-05 13:13:39,1388614,COLLEGE LE TRIOLO
+1 - Licenses and options,Accès Voix IP Full illimité - 4 Canaux,106.0,1.0,106.0,,2023-11-09 14:16:15,2024-04-29 15:44:39,1333091,COLLEGE SIMONE DE BEAUVOIR
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,59.0,1.0,59.0,,2023-11-09 14:16:15,2024-03-29 14:24:40,1333091,COLLEGE SIMONE DE BEAUVOIR
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.7,10.0,7.0,,2023-11-09 14:16:15,2023-12-01 12:32:31,1333091,COLLEGE SIMONE DE BEAUVOIR
+6 - Hardware,Location Passerelle IP pour PABX - 4 com,12.0,1.0,12.0,,2023-11-09 14:16:15,2023-12-01 12:32:31,1333091,COLLEGE SIMONE DE BEAUVOIR
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2023-11-09 14:26:25,2024-03-29 14:24:40,1333091,COLLEGE SIMONE DE BEAUVOIR
+7 - Mobile,Business Smartphone 1 Go,9.0,1.0,9.0,,2024-06-17 16:31:13,2024-06-17 16:31:13,1333091,COLLEGE SIMONE DE BEAUVOIR
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,120.0,1.0,120.0,,2024-02-20 10:05:44,2024-03-26 15:52:54,1286221,COMMUNE DE LANNOY
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,10.0,12.0,120.0,,2024-02-20 10:05:44,2024-03-26 15:52:54,1286221,COMMUNE DE LANNOY
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,55.0,1.0,55.0,Médiathèque,2024-02-20 10:05:44,2024-03-26 15:52:54,1286221,COMMUNE DE LANNOY
+3 - Access links,Accès Internet 4G,15.0,2.0,30.0,Salle H.E (Polyvalente) & Salle D.D,2024-02-20 10:05:44,2024-02-20 10:05:44,1286221,COMMUNE DE LANNOY
+3 - Access links,Fibre FTTO 20Mbps / Burst 100Mbps Max,239.0,1.0,239.0,Mairie,2024-02-20 10:05:44,2024-02-20 10:05:44,1286221,COMMUNE DE LANNOY
+1 - Licenses and options,Application Fax 2 Mail / Mail 2 Fax,12.0,1.0,12.0,,2020-06-26 16:38:22,2024-03-26 16:06:24,517498,COMMUNE DE MAROEUIL
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,10.0,21.0,210.0,,2020-06-26 16:49:06,2024-03-26 16:06:24,517498,COMMUNE DE MAROEUIL
+3 - Access links,Abonnement ADSL,39.0,1.0,39.0,Réseau Orange,2020-04-27 16:50:38,2022-11-24 09:18:10,517498,COMMUNE DE MAROEUIL
+3 - Access links,Abonnement Fibre FTTH + Routeur - Site Bibliothèque,79.0,1.0,79.0,,2022-09-15 11:06:34,2022-11-24 09:18:10,517498,COMMUNE DE MAROEUIL
+3 - Access links,Abonnement Fibre FTTH + Routeur - Site Mairie,79.0,1.0,79.0,,2022-09-15 11:06:34,2022-11-24 09:18:10,517498,COMMUNE DE MAROEUIL
+3 - Access links,Abonnement Fibre FTTH + Routeur - Site Yourcenar,79.0,1.0,79.0,,2021-01-14 16:50:00,2022-12-23 10:18:16,517498,COMMUNE DE MAROEUIL
+3 - Access links,Abonnement Fibre FTTH + Routeur - site Services Techniques,79.0,1.0,79.0,,2024-05-02 13:45:33,2024-05-02 13:45:33,517498,COMMUNE DE MAROEUIL
+7 - Mobile,Business Compteur,5.0,6.0,30.0,,2020-03-02 10:24:55,2022-11-24 09:18:10,517498,COMMUNE DE MAROEUIL
+7 - Mobile,Business Smartphone Data,24.0,2.0,48.0,,2020-03-02 10:24:55,2022-11-24 09:18:10,517498,COMMUNE DE MAROEUIL
+7 - Mobile,Business Voix illimitée - Alarme,15.0,1.0,15.0,,2021-09-06 10:30:10,2022-11-24 09:18:10,517498,COMMUNE DE MAROEUIL
+8 - Various,Remise N'co Services,-4.0,1.0,-4.0,,2022-06-09 10:52:31,2022-11-24 09:18:10,517498,COMMUNE DE MAROEUIL
+7 - Mobile,Business Data 1 Go,8.0,1.0,8.0,Appareil procès verbaux,2025-01-30 11:55:00,2025-01-30 11:55:00,1576588,COMMUNE DE NOYELLES LES SECLIN
+7 - Mobile,Business Smartphone 1 Go - Orange,10.0,7.0,70.0,,2024-09-23 11:40:50,2024-10-25 10:58:11,1576588,COMMUNE DE NOYELLES LES SECLIN
+7 - Mobile,Business Smartphone 20 Go - Orange,19.0,1.0,19.0,,2024-12-02 11:06:41,2024-12-02 11:06:41,1576588,COMMUNE DE NOYELLES LES SECLIN
+7 - Mobile,Business Smartphone 5 Go - Orange,15.0,1.0,15.0,,2024-10-25 10:58:11,2024-10-25 10:58:11,1576588,COMMUNE DE NOYELLES LES SECLIN
+1 - Licenses and options,Application Softphone Doko,10.0,1.0,10.0,Ecole ,2020-05-18 17:12:09,2024-03-26 16:07:41,593553,COMMUNE DE PREMESQUES
+1 - Licenses and options,Coeur de système Standard Téléphonique,90.0,1.0,90.0,,2024-04-29 14:40:05,2024-04-29 14:40:05,593553,COMMUNE DE PREMESQUES
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,10.0,13.0,130.0,,2019-09-30 18:12:09,2024-04-29 14:31:15,593553,COMMUNE DE PREMESQUES
+3 - Access links,Lien 4G - Ateliers Municipaux,20.0,1.0,20.0,,2024-11-07 13:55:31,2024-11-07 13:55:31,593553,COMMUNE DE PREMESQUES
+3 - Access links,Lien 4G - Salle des sports,20.0,1.0,20.0,,2024-11-07 13:55:31,2024-11-07 13:55:31,593553,COMMUNE DE PREMESQUES
+3 - Access links,Fibre FTTH + Routeur - Ecole,59.0,1.0,59.0,,2022-09-02 08:51:08,2024-04-29 14:18:05,593553,COMMUNE DE PREMESQUES
+3 - Access links,Fibre FTTH + Routeur - Mairie,59.0,1.0,59.0,,2020-10-14 14:45:36,2024-04-29 14:31:15,593553,COMMUNE DE PREMESQUES
+3 - Access links,Fibre FTTH + Routeur - Maison des Associations,59.0,1.0,59.0,,2024-04-29 14:20:57,2024-04-29 14:31:15,593553,COMMUNE DE PREMESQUES
+3 - Access links,Fibre FTTH + Routeur - Salle Saint Laurent,59.0,1.0,59.0,,2024-04-29 14:18:05,2024-04-29 14:31:15,593553,COMMUNE DE PREMESQUES
+7 - Mobile,Business Smartphone 1 Go,12.0,1.0,12.0,,2023-06-27 10:17:46,2024-04-29 14:41:04,593553,COMMUNE DE PREMESQUES
+7 - Mobile,Business Précision,5.0,10.0,50.0,,2019-09-30 18:16:26,2022-12-01 17:20:28,593553,COMMUNE DE PREMESQUES
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2019-09-30 18:16:26,2024-04-29 14:41:04,593553,COMMUNE DE PREMESQUES
+7 - Mobile,Business Smartphone 5 Go,18.0,10.0,180.0,,2019-09-30 18:16:26,2024-10-03 09:45:56,593553,COMMUNE DE PREMESQUES
+7 - Mobile,M2M 20 Mo,2.8,4.0,11.2,,2019-10-28 15:39:05,2022-12-01 17:20:28,593553,COMMUNE DE PREMESQUES
+8 - Various,Remise commerciale,-5.0,1.0,-5.0,,2022-09-02 08:51:08,2022-12-01 17:20:28,593553,COMMUNE DE PREMESQUES
+7 - Mobile,Business Smartphone 1 Go,11.9,1.0,11.9,,2019-09-10 16:05:04,2024-12-12 14:06:05,594448,CONDEV FRANCE
+7 - Mobile,Business Smartphone 20 Go,19.9,1.0,19.9,,2024-12-12 14:06:05,2024-12-12 14:06:05,594448,CONDEV FRANCE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2019-07-31 09:25:03,2025-03-13 11:45:54,517449,CORNILLE SA
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,4.0,60.0,,2019-07-31 09:25:03,2025-03-13 11:45:54,517449,CORNILLE SA
+3 - Access links,Fibre Mutualisée,54.0,1.0,54.0,,2025-03-27 11:54:48,2025-03-27 11:54:48,517449,CORNILLE SA
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,6.0,3.0,,2019-07-31 09:25:03,2025-03-13 11:45:54,517449,CORNILLE SA
+3 - Access links,Fibre 100 Mbps,310.0,1.0,310.0,,2025-04-14 15:35:53,2025-04-14 15:38:39,359500,CREA PROD
+6 - Hardware,Location Routeur,10.0,1.0,10.0,,2025-04-14 15:35:53,2025-04-14 15:38:39,359500,CREA PROD
+7 - Mobile,Business Smartphone 20 Go,20.0,6.0,120.0,,2025-04-14 16:39:13,2025-05-03 08:49:27,1713576,CREAVI
+7 - Mobile,Business Smartphone 50 Go,30.0,2.0,60.0,,2025-04-14 15:53:28,2025-05-03 08:49:27,1713576,CREAVI
+1 - Licenses and options,Abonnement DETOXIO 10-25 IP,43.0,1.0,43.0,,2022-06-28 16:41:44,2025-03-27 15:29:17,992972,CREIDEO
+1 - Licenses and options,Licence Utilisateur,12.5,7.0,87.5,,2025-04-14 11:31:46,2025-04-14 11:31:46,992972,CREIDEO
+1 - Licenses and options,Téléphonie Hébergée - Standard,20.0,1.0,20.0,,2025-04-14 11:31:46,2025-04-14 11:31:46,992972,CREIDEO
+4 - Numbers and portabilities,Numéro Direct - SDA,0.4,1.0,0.4,,2025-04-14 11:31:46,2025-04-14 11:31:46,992972,CREIDEO
+6 - Hardware,Abonnement équipements protégés,1.5,17.0,25.5,,2022-06-28 16:41:44,2025-03-27 15:29:17,992972,CREIDEO
+1 - Licenses and options,Centrex hebergé 1 poste,19.0,1.0,19.0,,2019-09-30 18:04:00,2024-08-13 10:09:14,571946,CUZCO TP
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,79.0,1.0,79.0,,2020-02-03 10:39:07,2024-03-26 16:13:37,571946,CUZCO TP
+7 - Mobile,Business Smartphone 20 Go,25.0,3.0,75.0,,2022-07-21 14:35:18,2024-03-26 16:11:52,571946,CUZCO TP
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,13.0,3.0,39.0,,2019-04-24 14:13:47,2024-02-29 14:42:57,519718,DELEU IMMOBILIER (Mouvaux)
+2 - Telephone lines,Hébergement Coeur de système - Téléphonie IP,20.0,1.0,20.0,,2019-04-24 14:13:47,2024-03-25 14:57:30,519718,DELEU IMMOBILIER (Mouvaux)
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,64.0,1.0,64.0,,2019-04-24 10:12:50,2024-02-29 14:42:57,519718,DELEU IMMOBILIER (Mouvaux)
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,7.0,3.5,,2019-05-16 17:29:11,2024-02-29 14:42:57,519718,DELEU IMMOBILIER (Mouvaux)
+6 - Hardware,Matériel Informatique - Switch avec installation,7.9,1.0,7.9,,2024-03-26 08:46:09,2024-03-26 08:46:09,519718,DELEU IMMOBILIER (Mouvaux)
+2 - Telephone lines,Hébergement Coeur de système - Téléphonie IP,20.0,1.0,20.0,,2019-05-16 14:09:39,2024-03-25 14:55:53,519756,DELEU IMMOBILIER (Roncq)
+2 - Telephone lines,Licence utilisateur - Illimité F/M France et 70 destinations,13.0,4.0,52.0,,2019-05-16 14:09:39,2024-02-29 14:44:33,519756,DELEU IMMOBILIER (Roncq)
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,64.0,1.0,64.0,,2019-05-16 14:09:39,2024-03-25 14:57:02,519756,DELEU IMMOBILIER (Roncq)
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,8.0,4.0,,2019-05-16 17:27:05,2024-02-29 14:44:33,519756,DELEU IMMOBILIER (Roncq)
+6 - Hardware,Matériel Informatique - Switch et Borne avec installation,15.0,1.0,15.0,,2024-03-26 08:47:06,2024-03-26 08:47:06,519756,DELEU IMMOBILIER (Roncq)
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,13.0,3.0,39.0,,2019-04-23 16:53:58,2024-02-29 14:41:02,519673,DELEU IMMOBILIER (Wasquehal) (site principal)
+2 - Telephone lines,Hébergement Coeur de système - Téléphonie IP,20.0,1.0,20.0,,2019-04-23 16:53:58,2024-03-25 14:56:40,519673,DELEU IMMOBILIER (Wasquehal) (site principal)
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,64.0,1.0,64.0,,2019-04-23 10:32:18,2024-03-25 14:56:40,519673,DELEU IMMOBILIER (Wasquehal) (site principal)
+3 - Access links,Routeur 4G - Lien de Backup Internet,19.0,1.0,19.0,,2024-02-26 14:34:03,2024-02-26 14:34:03,519673,DELEU IMMOBILIER (Wasquehal) (site principal)
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,7.0,3.5,,2019-05-16 17:30:47,2024-02-29 14:41:02,519673,DELEU IMMOBILIER (Wasquehal) (site principal)
+6 - Hardware,Matériel Informatique - Switch avec installation,7.9,1.0,7.9,,2024-03-26 08:48:50,2024-03-26 08:48:50,519673,DELEU IMMOBILIER (Wasquehal) (site principal)
+1 - Licenses and options,Pack Téléphonie Hébergée - 4 Utilisateurs,130.0,1.0,130.0,,2022-09-29 15:59:48,2022-09-29 15:59:48,444462,DIRECT DECOR
+8 - Various,Remise commerciale,-30.0,1.0,-30.0,,2022-09-29 15:59:48,2022-09-29 15:59:48,444462,DIRECT DECOR
+7 - Mobile,Business Smartphone 1 Go,9.0,1.0,9.0,,2023-10-30 16:31:21,2025-01-30 14:14:33,1278361,DISTRIBUTION DIRECTE D USINE
+7 - Mobile,Business Smartphone 20 Go,19.0,3.0,57.0,,2023-11-07 10:30:38,2025-01-30 14:14:33,1278361,DISTRIBUTION DIRECTE D USINE
+7 - Mobile,Business Smartphone 5 Go,14.0,2.0,28.0,,2023-10-30 16:31:21,2025-01-30 14:14:33,1278361,DISTRIBUTION DIRECTE D USINE
+7 - Mobile,Business Smartphone 50 Go,28.0,1.0,28.0,,2024-03-28 10:12:28,2025-01-30 14:14:33,1278361,DISTRIBUTION DIRECTE D USINE
+7 - Mobile,Business Smartphone 20 Go,12.5,1.0,12.5,,2024-07-01 09:11:11,2024-07-01 09:11:11,1542979,DOMINIQUE ZORNIG
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,25.0,1.0,25.0,,2024-10-31 09:22:26,2024-10-31 09:22:26,1597599,DPMS
+6 - Hardware,Location Routeur Evolution,5.0,1.0,5.0,,2024-10-31 09:22:26,2024-10-31 09:22:26,1597599,DPMS
+7 - Mobile,Accès Internet mobile 250 Go,89.0,1.0,89.0,,2024-10-31 09:22:26,2024-10-31 09:22:26,1597599,DPMS
+7 - Mobile,Business Smartphone 20 Go,19.0,1.0,19.0,,2022-12-23 16:36:42,2024-03-26 16:20:57,1165046,DUEZ CHRISTOPHE
+1 - Licenses and options,4 adresses IP publique IPV4,12.0,2.0,24.0,,2024-01-25 10:45:47,2024-03-26 16:22:27,327936,DUPONT RESTAURATION
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,443.0,1.0,443.0,FR470,2024-01-25 10:45:47,2024-03-26 16:22:27,327936,DUPONT RESTAURATION
+1 - Licenses and options,Hébergement Cloud Plateforme IPBX,25.0,1.0,25.0,,2025-02-10 11:08:27,2025-02-13 11:44:12,821745,EAUTEX SARL
+1 - Licenses and options,Licence Téléphonie Hébergée,12.0,2.0,24.0,,2025-02-10 11:08:27,2025-02-13 11:44:12,821745,EAUTEX SARL
+2 - Telephone lines,Selection Directe à l'arrivée (S.D.A),0.8,1.0,0.8,,2025-02-10 11:08:27,2025-02-13 11:44:12,821745,EAUTEX SARL
+6 - Hardware,Poste Yealink W73 sans fil,4.06,1.0,4.06,,2025-02-10 11:08:27,2025-02-13 11:44:12,821745,EAUTEX SARL
+7 - Mobile,Business Smartphone 1 Go,12.0,1.0,12.0,,2024-03-26 09:32:56,2025-02-13 11:44:12,821745,EAUTEX SARL
+7 - Mobile,Business Smartphone 20 Go,24.0,3.0,72.0,,2024-03-26 09:32:56,2025-02-13 11:44:12,821745,EAUTEX SARL
+7 - Mobile,Business Smartphone 1 Go,9.0,1.0,9.0,,2024-02-22 11:57:18,2024-02-22 11:57:18,1432715,EHPAD NOTRE DAME DE BOULOGNE
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2024-12-26 09:46:20,2025-01-31 10:17:52,1624822,ELECTRICITE GUIDEZ
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2024-12-23 16:13:34,2024-12-23 16:13:34,621996,EMPLOI ET HANDICAP GRAND LILLE
+7 - Mobile,Business Smartphone 5 Go,18.0,10.0,180.0,,2024-01-23 14:02:48,2025-05-06 10:03:55,621996,EMPLOI ET HANDICAP GRAND LILLE
+7 - Mobile,Remise > 20 lignes,-10.2,1.0,-10.2,,2024-12-23 16:13:34,2025-05-06 10:03:55,621996,EMPLOI ET HANDICAP GRAND LILLE
+1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,25.0,1.0,25.0,,2024-12-17 14:18:34,2024-12-17 14:19:27,1541554,ENTREPRISE LIONET - Atelier
+1 - Licenses and options,Hébergement cloud plateforme IPBX,25.0,1.0,25.0,,2024-12-17 14:32:50,2024-12-17 14:32:50,1541554,ENTREPRISE LIONET - Atelier
+1 - Licenses and options,Licence Téléphonie Hébergée,15.0,7.0,105.0,,2024-12-17 14:32:50,2024-12-17 14:32:50,1541554,ENTREPRISE LIONET - Atelier
+1 - Licenses and options,Selection Directe à l'arrivée (S.D.A),0.8,10.0,8.0,,2024-12-17 14:32:50,2024-12-17 14:32:50,1541554,ENTREPRISE LIONET - Atelier
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,59.0,1.0,59.0,,2024-12-17 14:18:34,2024-12-17 14:19:27,1541554,ENTREPRISE LIONET - Atelier
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2024-12-17 14:18:34,2024-12-17 14:19:27,1541554,ENTREPRISE LIONET - Atelier
+7 - Mobile,Business Smartphone 5 Go,18.0,4.0,72.0,,2024-12-17 14:18:34,2025-01-14 09:07:36,1541554,ENTREPRISE LIONET - Atelier
+1 - Licenses and options,Hébergement cloud plateforme IPBX,25.0,1.0,25.0,,2024-12-17 14:37:48,2025-03-10 11:16:54,1622266,ENTREPRISE LIONET - Showroom
+1 - Licenses and options,Licence Téléphonie Hébergée,15.0,3.0,45.0,,2024-12-17 14:37:48,2025-03-10 11:16:54,1622266,ENTREPRISE LIONET - Showroom
+1 - Licenses and options,Selection Directe à l'arrivée (S.D.A),0.8,3.0,2.4,,2024-12-17 14:37:48,2025-03-10 11:16:54,1622266,ENTREPRISE LIONET - Showroom
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,59.0,1.0,59.0,,2025-02-24 11:57:31,2025-03-10 11:16:54,1622266,ENTREPRISE LIONET - Showroom
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2025-02-24 11:57:31,2025-03-10 11:16:54,1622266,ENTREPRISE LIONET - Showroom
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2023-08-28 11:44:33,2025-03-18 09:11:50,1289595,EPICURE ING
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,7.0,105.0,,2023-08-28 11:44:33,2025-03-18 09:11:50,1289595,EPICURE ING
+1 - Licenses and options,1 adresse IP publique IPV4,3.0,1.0,3.0,,2023-09-18 09:49:42,2025-03-18 09:11:50,1289595,EPICURE ING
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,59.0,1.0,59.0,,2023-08-28 11:44:33,2025-03-18 09:11:50,1289595,EPICURE ING
+5 - Service Pack,Remise sur l'abonnement,-1.5,7.0,-10.5,,2024-11-04 14:24:26,2025-03-18 09:11:50,1289595,EPICURE ING
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2023-08-28 11:44:33,2025-03-18 09:11:50,1289595,EPICURE ING
+7 - Mobile,Business Smartphone 20 Go,20.0,3.0,60.0,,2023-08-28 11:44:33,2025-03-18 09:11:50,1289595,EPICURE ING
+1 - Licenses and options,Hébergement Contact Expérience,99.0,1.0,99.0,,2024-03-05 10:29:34,2024-03-05 10:29:34,807507,EURO COURTAGE
+1 - Licenses and options,Remise N'co Services,-10.0,1.0,-10.0,,2024-03-05 10:32:47,2024-03-05 10:32:47,807507,EURO COURTAGE
+1 - Licenses and options,Application Softphone Doko,5.0,2.0,10.0,,2024-02-29 14:55:07,2024-02-29 14:56:54,807507,EURO COURTAGE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations (x6),90.0,1.0,90.0,,2021-03-11 10:42:41,2024-02-29 14:56:54,807507,EURO COURTAGE
+1 - Licenses and options,Remise - Application Softphone Doko,-5.0,2.0,-10.0,,2024-02-29 14:56:54,2024-02-29 14:56:54,807507,EURO COURTAGE
+1 - Licenses and options,Remise - Licence utilisateur - Illimité F/M France et 70 destinations,-2.0,6.0,-12.0,,2024-02-29 14:56:54,2024-02-29 14:56:54,807507,EURO COURTAGE
+3 - Access links,Accès Internet Fibre Mutualisée FTTH - 1 Gbps Max,59.0,1.0,59.0,,2025-03-31 16:58:24,2025-03-31 16:58:24,807507,EURO COURTAGE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,12.0,6.0,,2021-03-11 11:17:10,2024-12-09 09:55:28,807507,EURO COURTAGE
+5 - Service Pack,Accès VPN (x8),2.0,8.0,16.0,,2021-05-31 15:38:25,2024-11-07 15:56:43,807507,EURO COURTAGE
+5 - Service Pack,Cloud Firewall - VPN - Coeur de réseau MPLS,30.0,1.0,30.0,,2021-03-11 11:17:10,2024-03-26 16:26:27,807507,EURO COURTAGE
+6 - Hardware,Location Routeur FTTH,3.0,1.0,3.0,,2025-03-31 16:58:24,2025-03-31 16:58:24,807507,EURO COURTAGE
+1 - Licenses and options,Application Softphone Doko,0.0,9.0,0.0,,2024-03-26 16:28:03,2024-09-12 14:29:54,563136,F.A.S. HAUTS DE FRANCE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2020-01-24 11:01:37,2024-03-26 16:28:03,563136,F.A.S. HAUTS DE FRANCE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,10.0,9.0,90.0,,2021-04-23 11:00:17,2024-09-12 14:29:54,563136,F.A.S. HAUTS DE FRANCE
+3 - Access links,Accès Internet - Fibre Access - 100 / 2 Mbps,110.0,1.0,110.0,,2021-02-03 15:54:37,2024-03-26 16:29:24,563136,F.A.S. HAUTS DE FRANCE
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,7.0,1.0,7.0,,2021-02-03 15:54:37,2024-03-26 16:28:03,563136,F.A.S. HAUTS DE FRANCE
+1 - Licenses and options,Licence Consultation  ,14.0,2.0,28.0,,2019-08-27 11:30:06,2023-06-22 10:12:49,569160,FERRANTELLI
+1 - Licenses and options,Licence Premium Sunbren,47.0,10.0,470.0,,2019-08-27 11:20:39,2023-06-22 10:12:49,569160,FERRANTELLI
+1 - Licenses and options,Serveur Sunbren avec PRA,50.0,1.0,50.0,,2019-08-27 11:20:39,2023-06-22 10:12:49,569160,FERRANTELLI
+1 - Licenses and options,Upgrade stockage 170 Go,85.0,1.0,85.0,,2020-09-01 17:06:41,2024-08-20 14:12:47,569160,FERRANTELLI
+2 - Telephone lines,Accès Numéris - Illimités Fixe,40.0,2.0,80.0,03.20.42.24.34,2019-07-12 09:03:03,2023-06-22 10:12:49,569160,FERRANTELLI
+2 - Telephone lines,Ligne Analogique,17.0,1.0,17.0,03.20.42.20.24 ,2019-07-12 09:03:03,2023-06-22 10:12:49,569160,FERRANTELLI
+3 - Access links,Fibre FTTH Orange 1Gbps/200 Mbps - Routeur inclus,74.0,1.0,74.0,,2022-01-13 10:14:48,2023-06-22 10:12:49,569160,FERRANTELLI
+3 - Access links,Galet 4G,10.0,1.0,10.0,Vito,2024-05-28 14:51:13,2024-05-28 14:51:13,569160,FERRANTELLI
+7 - Mobile,Accès Internet Mobile 50 Go,26.0,1.0,26.0,Routeur 4G,2024-05-02 10:37:23,2025-02-24 10:36:33,569160,FERRANTELLI
+7 - Mobile,Business Smartphone 10 Go,23.0,1.0,23.0,Kamel,2023-05-02 10:21:54,2024-05-28 14:42:43,569160,FERRANTELLI
+7 - Mobile,Data only 100 Go,69.0,1.0,69.0,,2020-03-16 16:03:42,2023-06-22 10:12:49,569160,FERRANTELLI
+7 - Mobile,Forfait business data 10 Go,26.0,8.0,208.0,,2019-08-27 11:20:39,2023-06-22 10:12:49,569160,FERRANTELLI
+7 - Mobile,Forfait business data 20 Go,30.0,1.0,30.0,,2021-02-24 15:04:04,2023-06-29 08:53:03,569160,FERRANTELLI
+7 - Mobile,Forfait business data 50 Go,39.0,2.0,78.0,,2019-08-27 11:20:39,2023-06-29 08:53:03,569160,FERRANTELLI
+5 - Service Pack,Service de contrôle des bornes wifi,3.5,1.0,3.5,,2022-02-01 21:44:23,2022-02-01 21:44:23,531603,FIBR' & CO
+1 - Licenses and options,Application Softphone Doko,0.0,2.0,0.0,,2022-12-23 14:48:51,2024-03-26 16:39:58,1154264,FINANCEMENT DU CAMBRESIS - MEILLEUR TAUX CAMBRAI
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,20.0,1.0,20.0,,2022-12-23 14:48:51,2024-03-26 16:39:58,1154264,FINANCEMENT DU CAMBRESIS - MEILLEUR TAUX CAMBRAI
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,2.0,30.0,,2022-12-23 14:48:51,2024-03-26 16:39:58,1154264,FINANCEMENT DU CAMBRESIS - MEILLEUR TAUX CAMBRAI
+1 - Licenses and options,Remise,-6.0,1.0,-6.0,,2022-12-23 14:55:15,2024-03-26 16:39:58,1154264,FINANCEMENT DU CAMBRESIS - MEILLEUR TAUX CAMBRAI
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,49.0,1.0,49.0,,2022-12-23 14:48:51,2024-03-26 16:39:58,1154264,FINANCEMENT DU CAMBRESIS - MEILLEUR TAUX CAMBRAI
+7 - Mobile,Business Smartphone 20 Go,25.0,1.0,25.0,,2023-02-20 16:21:54,2024-03-26 16:42:47,1208307,FINANCIERE D'EXPERTISE COMPTABLE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,20.0,1.0,20.0,,2021-10-25 16:58:13,2024-03-26 16:45:11,875929,FLORENT HURET
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,3.0,45.0,,2021-10-25 16:58:13,2024-03-26 16:44:50,875929,FLORENT HURET
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,59.0,1.0,59.0,,2023-11-14 16:48:30,2024-03-26 16:46:48,875929,FLORENT HURET
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,4.0,2.0,,2021-10-25 16:58:13,2024-03-26 16:44:50,875929,FLORENT HURET
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2023-11-14 16:48:30,2024-03-26 16:44:50,875929,FLORENT HURET
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,15.0,1.0,15.0,,2023-02-27 10:53:53,2024-03-26 16:47:39,1204411,FMC FINANCEMENT
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,5.0,75.0,,2023-02-27 10:53:53,2024-03-26 16:47:39,1204411,FMC FINANCEMENT
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.8,5.0,4.0,,2023-02-27 10:53:53,2024-03-26 16:47:39,1204411,FMC FINANCEMENT
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,15.0,1.0,15.0,,2020-10-29 16:17:56,2024-03-26 16:49:22,737323,FRACHT FRANCE Blagnac
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,16.0,7.0,112.0,,2020-10-29 16:18:59,2024-03-26 16:49:22,737323,FRACHT FRANCE Blagnac
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,295.0,1.0,295.0,,2020-10-29 16:07:20,2024-03-26 16:49:22,737323,FRACHT FRANCE Blagnac
+5 - Service Pack,4 adresses IP publique IPV4,12.0,1.0,12.0,,2020-10-29 16:07:20,2024-03-26 16:49:22,737323,FRACHT FRANCE Blagnac
+1 - Licenses and options,Application Softphone Doko,0.0,2.0,0.0,,2023-12-18 11:43:09,2024-03-26 16:51:13,1371747,FRACHT FRANCE Dunkerque
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,0.0,1.0,0.0,,2023-12-18 11:43:09,2024-03-26 16:51:13,1371747,FRACHT FRANCE Dunkerque
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,2.0,30.0,,2023-12-18 11:43:09,2024-03-26 16:51:13,1371747,FRACHT FRANCE Dunkerque
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,59.0,1.0,59.0,,2024-01-04 09:25:20,2024-03-26 16:52:16,1371747,FRACHT FRANCE Dunkerque
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2024-01-04 09:25:20,2024-03-26 16:51:13,1371747,FRACHT FRANCE Dunkerque
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,16.0,16.0,256.0,,2020-09-07 16:08:59,2024-03-26 16:53:49,424402,FRACHT FRANCE Lesquin
+1 - Licenses and options,1 adresse IP publique IPV4,5.0,1.0,5.0,,2020-09-07 16:08:59,2024-03-26 16:53:49,424402,FRACHT FRANCE Lesquin
+2 - Telephone lines,Ligne Analogique,19.0,1.0,19.0,NDI : 03.20.94.40.97,2020-09-07 16:08:59,2020-09-21 17:32:01,424402,FRACHT FRANCE Lesquin
+3 - Access links,Abonnement Fibre dédiée,240.0,1.0,240.0,,2020-09-07 16:08:59,2024-03-21 13:41:06,424402,FRACHT FRANCE Lesquin
+3 - Access links,Abonnement Routeur 4G - Forfait 10Go,24.0,1.0,24.0,,2020-09-07 16:08:59,2023-09-06 17:11:53,424402,FRACHT FRANCE Lesquin
+5 - Service Pack,Hébergement Coeur de système - Téléphonie IP,15.0,1.0,15.0,,2020-09-07 16:08:59,2024-03-26 16:53:49,424402,FRACHT FRANCE Lesquin
+5 - Service Pack,Maintenance Mensuelle,30.0,1.0,30.0,,2020-09-07 16:08:59,2023-09-06 17:11:53,424402,FRACHT FRANCE Lesquin
+6 - Hardware,Routeur FTTO - Multi Vlan,10.0,1.0,10.0,,2020-09-07 16:08:59,2024-03-21 13:41:06,424402,FRACHT FRANCE Lesquin
+8 - Various,8 adresses IP publique IPV4,24.0,1.0,24.0,,2020-09-07 16:08:59,2024-03-26 16:53:49,424402,FRACHT FRANCE Lesquin
+1 - Licenses and options,4 adresses IP publique IPV4,12.0,1.0,12.0,,2020-12-09 14:56:45,2024-03-26 16:54:41,737328,FRACHT FRANCE Strasbourg
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,325.0,1.0,325.0,,2020-12-09 14:56:45,2024-03-26 16:54:41,737328,FRACHT FRANCE Strasbourg
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,10.0,1.0,10.0,,2020-12-09 14:56:45,2024-03-26 16:54:41,737328,FRACHT FRANCE Strasbourg
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps symétrique et garanti,300.0,1.0,300.0,,2024-11-07 14:29:04,2024-11-07 14:29:04,1545593,GODART DISTRIBUTION
+7 - Mobile,Business Smartphone 1 Go,12.0,2.0,24.0,,2025-01-03 15:02:14,2025-01-03 15:02:14,1545593,GODART DISTRIBUTION
+7 - Mobile,Business Smartphone 20 Go,24.0,6.0,144.0,,2025-01-03 15:02:14,2025-01-03 15:02:14,1545593,GODART DISTRIBUTION
+1 - Licenses and options,Hébergement Coeur de Système,25.0,1.0,25.0,,2022-05-18 11:25:26,2024-01-30 10:28:08,1021246,GREBERT STEPHANIE - SWISS LIFE
+1 - Licenses and options,Hébergement Contact Expérience - Cloud sécurité - Téléphonie IP,99.0,1.0,99.0,,2024-09-24 11:06:18,2024-09-24 11:06:18,1021246,GREBERT STEPHANIE - SWISS LIFE
+1 - Licenses and options,Licence utilisateur,20.0,2.0,40.0,,2022-05-18 11:25:26,2024-01-30 10:28:08,1021246,GREBERT STEPHANIE - SWISS LIFE
+1 - Licenses and options,Remise N'Co Services,-40.0,1.0,-40.0,,2024-09-24 11:06:18,2024-09-24 11:06:18,1021246,GREBERT STEPHANIE - SWISS LIFE
+3 - Access links,Business Data 50 Go,29.0,1.0,29.0,,2024-01-30 16:37:12,2024-08-06 11:53:57,1021246,GREBERT STEPHANIE - SWISS LIFE
+6 - Hardware,Location Routeur Internet - Supervision - Compatible VRRP,10.0,1.0,10.0,,2024-01-30 16:37:12,2024-01-30 16:37:12,1021246,GREBERT STEPHANIE - SWISS LIFE
+7 - Mobile,Remise Parc > 20 lignes,-12.0,1.0,-12.0,,2023-11-30 10:24:09,2023-11-30 10:24:09,623320,GRPT EMPLOY INSERTION QUALIF EMPLOI HAND
+7 - Mobile,Smartphone Business 20 Go,24.0,10.0,240.0,,2020-01-08 11:33:25,2023-11-30 10:24:09,623320,GRPT EMPLOY INSERTION QUALIF EMPLOI HAND
+1 - Licenses and options,Application smartphone,2.5,2.0,5.0,,2023-01-20 16:59:35,2023-06-06 16:45:41,1148860,HAUTMONT FINANCEMENT
+1 - Licenses and options,Hébergement coeur de système,20.0,1.0,20.0,,2023-01-20 16:59:35,2023-01-20 16:59:35,1148860,HAUTMONT FINANCEMENT
+1 - Licenses and options,Licence utilisateur illimité F/M France,15.0,2.0,30.0,,2023-01-20 16:59:35,2023-06-06 16:45:41,1148860,HAUTMONT FINANCEMENT
+1 - Licenses and options,Remise Application smartphone,-2.5,2.0,-5.0,,2023-06-06 16:45:41,2023-06-06 16:45:41,1148860,HAUTMONT FINANCEMENT
+1 - Licenses and options,Remise sur abonnement,-10.0,1.0,-10.0,,2023-01-20 16:59:35,2023-01-20 16:59:35,1148860,HAUTMONT FINANCEMENT
+3 - Access links,Lien fibre mutualisé FTTH,49.0,1.0,49.0,,2023-01-20 16:59:35,2023-01-20 16:59:35,1148860,HAUTMONT FINANCEMENT
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 1 Gbps,449.0,1.0,449.0,,2019-02-11 15:46:04,2024-10-08 09:12:15,409607,HAUTS-DE-FRANCE TOURISME
+7 - Mobile,Business Smartphone 100 Go,45.0,1.0,45.0,,2020-08-11 11:59:13,2024-07-25 15:54:31,409607,HAUTS-DE-FRANCE TOURISME
+7 - Mobile,Business Smartphone 20 Go,24.0,9.0,216.0, ,2018-11-07 10:10:05,2024-07-25 15:54:31,409607,HAUTS-DE-FRANCE TOURISME
+7 - Mobile,Business Smartphone 5 Go,18.0,7.0,126.0,,2022-03-09 09:06:46,2025-05-05 13:44:21,409607,HAUTS-DE-FRANCE TOURISME
+7 - Mobile,Business Smartphone 50 Go,34.0,2.0,68.0,,2022-03-29 10:29:59,2024-07-25 15:54:31,409607,HAUTS-DE-FRANCE TOURISME
+7 - Mobile,Business Voix et SMS,9.0,5.0,45.0,,2022-03-09 09:06:46,2024-08-30 09:57:37,409607,HAUTS-DE-FRANCE TOURISME
+7 - Mobile,Accès internet mobile 20 Go,19.0,3.0,57.0,,2018-06-29 14:45:36,2024-07-25 15:54:31,409607,HAUTS-DE-FRANCE TOURISME
+7 - Mobile,Accès internet mobile 5 Go,14.0,1.0,14.0,,2022-03-09 09:06:46,2024-07-25 15:54:31,409607,HAUTS-DE-FRANCE TOURISME
+7 - Mobile,Accès internet mobile 50 Go,26.0,1.0,26.0,Christophe SERIEYS,2018-06-29 14:45:36,2024-07-25 15:54:31,409607,HAUTS-DE-FRANCE TOURISME
+1 - Licenses and options,Bandeau Agent,49.0,3.0,147.0,,2022-01-13 15:49:58,2024-04-15 14:17:23,909587,HOMZA
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2021-11-15 14:21:30,2024-04-15 14:17:23,909587,HOMZA
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations (site Cambrai),15.0,1.0,15.0,,2021-11-15 14:19:20,2024-04-15 14:17:23,909587,HOMZA
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations (site Saint Laurent Blangy),15.0,8.0,120.0,,2021-11-15 14:19:20,2024-04-15 14:17:23,909587,HOMZA
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,339.0,1.0,339.0,,2021-11-08 14:04:50,2024-04-15 14:17:23,909587,HOMZA
+3 - Access links,Accès Internet - VDSL (site CAMBRAI),59.0,1.0,59.0,,2021-11-09 10:13:33,2024-04-15 14:17:23,909587,HOMZA
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,24.0,12.0,,2021-11-15 14:19:20,2024-04-15 14:17:23,909587,HOMZA
+5 - Service Pack,Serveur vocal Interactif version centre d'appels,150.0,1.0,150.0,,2022-01-13 15:49:58,2023-12-11 11:06:07,909587,HOMZA
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,10.0,1.0,10.0,,2021-11-08 14:04:50,2024-04-15 14:17:23,909587,HOMZA
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,10.0,1.0,10.0,,2021-11-09 10:13:33,2024-04-15 14:17:23,909587,HOMZA
+7 - Mobile,Abonnement data only - Réseau Orange 10Go,24.0,1.0,24.0,,2021-11-02 10:09:17,2023-12-11 11:06:06,909587,HOMZA
+8 - Various,Remise licence agent,-5.0,3.0,-15.0,,2022-01-13 15:49:58,2023-12-11 11:06:07,909587,HOMZA
+8 - Various,Remise client,-3.0,1.0,-3.0,,2021-11-02 10:09:17,2023-12-11 11:06:06,909587,HOMZA
+7 - Mobile,Business Smartphone 20 Go,21.0,2.0,42.0,,2023-06-15 11:57:20,2025-05-16 10:35:16,1274018,HUYON TOIT
+7 - Mobile,Business Smartphone 5 Go,16.0,2.0,32.0,,2023-06-15 11:57:20,2025-05-16 10:35:16,1274018,HUYON TOIT
+7 - Mobile,Business Smartphone 50 Go,25.0,2.0,50.0,,2023-06-15 11:57:20,2025-05-16 10:35:16,1274018,HUYON TOIT
+7 - Mobile,Remise avantage client [>5 lignes],-6.2,1.0,-6.2,,2023-06-15 16:46:02,2025-05-16 10:35:16,1274018,HUYON TOIT
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,13.0,4.0,52.0,,2019-04-25 14:08:20,2024-02-29 14:45:45,519775,IMMOBILIERE DE NEUVILLE
+2 - Telephone lines,Hébergement Coeur de système - Téléphonie IP,20.0,1.0,20.0,,2019-04-25 14:08:20,2024-03-25 14:58:19,519775,IMMOBILIERE DE NEUVILLE
+3 - Access links,VDSL,59.0,1.0,59.0,,2019-04-25 14:08:20,2019-05-09 15:12:52,519775,IMMOBILIERE DE NEUVILLE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,8.0,4.0,,2019-05-16 17:32:12,2024-02-29 14:45:45,519775,IMMOBILIERE DE NEUVILLE
+6 - Hardware,Matériel informatique - Switch avec installation,7.9,1.0,7.9,,2024-03-26 08:50:51,2024-03-26 08:50:51,519775,IMMOBILIERE DE NEUVILLE
+6 - Hardware,Routeur,3.95,1.0,3.95,,2019-04-25 14:08:20,2019-05-09 15:12:52,519775,IMMOBILIERE DE NEUVILLE
+1 - Licenses and options,Application Fax 2 Mail,9.0,1.0,9.0,,2023-02-28 14:40:40,2024-12-23 15:55:24,669607,INFODIS IT
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,39.0,1.0,39.0,,2023-02-28 14:40:40,2024-12-23 15:55:24,669607,INFODIS IT
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,18.0,1.0,18.0,,2023-02-28 14:40:40,2024-12-23 15:55:24,669607,INFODIS IT
+7 - Mobile,Accès Internet mobile 250 Go,129.0,1.0,129.0,,2020-03-20 17:31:02,2024-12-23 15:55:24,669607,INFODIS IT
+7 - Mobile,Business Smartphone 20 Go,25.0,2.0,50.0,,2021-12-07 10:49:37,2024-12-23 15:55:24,669607,INFODIS IT
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,15.0,1.0,15.0,,2020-11-09 15:05:03,2024-04-15 14:26:57,733351,INK ARCHITECTES & SCÉNOGRAPHES
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,9.0,2.0,18.0,,2021-01-07 15:57:11,2024-04-15 14:26:57,733351,INK ARCHITECTES & SCÉNOGRAPHES
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 20 Mbps Burst 100 Mbps - Symétrique et garanti,239.0,1.0,239.0,,2020-10-16 14:28:00,2024-09-16 11:26:20,733351,INK ARCHITECTES & SCÉNOGRAPHES
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.55,2.0,1.1,,2020-11-09 15:05:03,2024-04-15 14:26:57,733351,INK ARCHITECTES & SCÉNOGRAPHES
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,0.0,1.0,0.0,,2020-10-16 14:28:00,2024-04-15 14:26:57,733351,INK ARCHITECTES & SCÉNOGRAPHES
+1 - Licenses and options,Abonnement DETOXIO 1-25 IP,44.0,1.0,44.0,,2023-03-30 16:16:44,2023-03-30 16:16:44,711092,JEAN-MARC ESCUDIE ARCHITECTURE
+1 - Licenses and options,Abonnement équipements protégés,1.5,17.0,25.5,,2023-03-30 16:16:44,2023-03-30 16:16:44,711092,JEAN-MARC ESCUDIE ARCHITECTURE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,36.0,1.0,36.0,,2021-01-07 14:12:02,2024-04-15 14:27:42,792930,JEANENCE COIFFURE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2025-02-11 13:32:29,2025-02-11 13:32:29,1627524,KVDS
+1 - Licenses and options,Licence utilisateur,12.0,5.0,60.0,,2025-02-11 13:32:29,2025-02-11 13:32:29,1627524,KVDS
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,1.0,0.5,,2025-02-11 13:32:29,2025-02-11 13:32:29,1627524,KVDS
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,3.0,45.0,,2021-04-29 09:28:48,2024-04-15 14:32:15,840241,L'ESPRIT DE TERROIR
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,79.0,1.0,79.0,,2021-04-29 09:28:48,2024-04-15 14:32:15,840241,L'ESPRIT DE TERROIR
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,4.0,2.0,,2021-04-29 09:28:48,2024-04-15 14:32:15,840241,L'ESPRIT DE TERROIR
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,0.0,1.0,0.0,,2024-04-15 14:32:15,2024-04-15 14:32:15,840241,L'ESPRIT DE TERROIR
+7 - Mobile,Business Smartphone 20 Go,22.0,1.0,22.0,,2021-04-29 09:28:48,2024-04-15 14:32:15,840241,L'ESPRIT DE TERROIR
+1 - Licenses and options,Abonnement DETOXIO 1-10 postes,35.0,1.0,35.0,Mairie Heninel,2022-11-19 07:55:27,2023-01-04 11:31:27,1069892,L'INFORMATIQUE DE L'ARTOIS
+1 - Licenses and options,Abonnement DETOXIO 10-20 postes,47.0,1.0,47.0,Maison médicale croisilles,2022-06-02 11:24:44,2023-01-04 11:31:27,1069892,L'INFORMATIQUE DE L'ARTOIS
+1 - Licenses and options,Licence CLEANER 1-10 postesostes,6.0,1.0,6.0,Mairie Heninel,2022-11-19 07:55:27,2023-01-04 11:31:27,1069892,L'INFORMATIQUE DE L'ARTOIS
+1 - Licenses and options,Licence CLEANER 10-20 postes,8.0,1.0,8.0,Maison médicale croisille,2022-06-02 11:24:44,2023-01-04 11:31:27,1069892,L'INFORMATIQUE DE L'ARTOIS
+1 - Licenses and options,Application Softphone Doko,0.0,5.0,0.0,,2019-05-28 16:53:00,2024-04-15 14:33:40,540406,LA MAISON DU CHAUFFAGE
+1 - Licenses and options,Hébergement Cloud,30.0,1.0,30.0,,2019-05-28 16:53:00,2023-12-11 11:09:08,540406,LA MAISON DU CHAUFFAGE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,144.0,1.0,144.0,,2023-07-17 11:59:50,2024-04-15 14:33:40,540406,LA MAISON DU CHAUFFAGE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.0,15.0,180.0,,2019-05-28 16:53:00,2024-04-15 14:33:40,540406,LA MAISON DU CHAUFFAGE
+1 - Licenses and options,Remise N'CO SERVICES,-5.0,1.0,-5.0,,2023-07-17 11:59:50,2023-12-11 11:09:08,540406,LA MAISON DU CHAUFFAGE
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2020-03-11 09:31:18,2024-08-26 11:51:32,664998,LABEL FRITE
+1 - Licenses and options,Abonnement DETOXIO 125-250 IP,98.0,1.0,98.0,,2023-02-27 13:11:31,2023-02-27 13:11:31,1212156,LE CEDRE
+1 - Licenses and options,Abonnement équipement protégés,0.75,179.0,134.25,,2023-02-27 13:11:31,2023-02-27 13:11:31,1212156,LE CEDRE
+8 - Various,Remise adhérent Cèdre : -12%,-27.87,1.0,-27.87,,2023-02-27 13:11:31,2023-12-12 08:01:43,1212156,LE CEDRE
+8 - Various,Remise exceptionnelle partenariat N'co Services - Le Cèdre,-50.0,1.0,-50.0,,2023-02-27 13:11:31,2023-02-27 13:11:31,1212156,LE CEDRE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2023-01-27 16:50:18,2024-12-23 11:31:09,1188792,LE GARAGE DES FRANCS
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,25.0,4.0,100.0,,2023-01-27 16:50:18,2024-12-23 11:31:09,1188792,LE GARAGE DES FRANCS
+1 - Licenses and options,Remise,-45.0,1.0,-45.0,,2023-01-27 16:50:18,2024-12-23 11:31:09,1188792,LE GARAGE DES FRANCS
+7 - Mobile,Business smartphone data,24.0,1.0,24.0,,2023-01-27 16:50:18,2024-12-23 11:31:09,1188792,LE GARAGE DES FRANCS
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,10.0,4.0,40.0,,2020-11-04 14:22:45,2024-11-04 11:12:14,476989,LE MAILLON C2R
+2 - Telephone lines,Hébergement Coeur de système - Téléphonie IP,50.0,1.0,50.0,,2019-07-09 14:20:34,2024-04-15 14:40:41,476989,LE MAILLON C2R
+3 - Access links,Accès Fibre - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,Landrecies,2024-11-04 11:12:14,2024-11-04 11:12:14,476989,LE MAILLON C2R
+3 - Access links,Accès Internet - Fibre Access - 100 / 2 Mbps,139.0,1.0,139.0,,2019-06-14 11:29:56,2024-04-15 14:40:41,476989,LE MAILLON C2R
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.8,10.0,8.0,,2019-07-09 14:20:34,2024-04-15 14:40:41,476989,LE MAILLON C2R
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,10.0,1.0,10.0,,2019-06-14 11:29:56,2024-11-04 11:12:14,476989,LE MAILLON C2R
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,Landrecies,2024-11-04 11:12:14,2024-11-04 11:12:14,476989,LE MAILLON C2R
+7 - Mobile,Business Smartphone 20 Go,23.9,1.0,23.9,,2019-01-07 11:19:02,2024-04-15 14:40:41,476989,LE MAILLON C2R
+7 - Mobile,Business Smartphone 50 Go,28.9,1.0,28.9,,2023-03-13 13:57:28,2024-04-15 14:40:41,476989,LE MAILLON C2R
+7 - Mobile,Forfait Smartphone Business Orange 3Go,16.0,1.0,16.0,,2019-01-07 11:19:02,2023-10-12 10:21:58,476989,LE MAILLON C2R
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,55.0,1.0,55.0,Site Anzin,2022-09-12 15:07:54,2024-04-15 14:43:33,476966,LE MAILLON C2RI
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2022-09-12 15:07:54,2024-04-15 14:43:33,476966,LE MAILLON C2RI
+7 - Mobile,Accès internet mobile 1 Go,11.9,1.0,11.9,Tablette,2022-06-02 10:26:08,2024-04-15 14:43:33,476966,LE MAILLON C2RI
+7 - Mobile,Business Smartphone 1 Go,11.9,1.0,11.9,,2022-06-30 15:41:49,2024-04-15 14:43:33,476966,LE MAILLON C2RI
+7 - Mobile,Business Voix et SMS,9.0,3.0,27.0,,2019-01-07 11:07:27,2024-04-15 14:43:33,476966,LE MAILLON C2RI
+7 - Mobile,Forfait Business Smartphone 3Go Orange,16.0,1.0,16.0,,2019-01-07 11:07:27,2023-10-12 10:23:01,476966,LE MAILLON C2RI
+7 - Mobile,Forfait SMS illilmités Orange,9.0,1.0,9.0,,2019-01-07 11:07:27,2023-10-12 10:23:01,476966,LE MAILLON C2RI
+8 - Various,Remise commerciale,-5.0,1.0,-5.0,,2022-09-12 15:07:54,2022-09-12 15:07:54,476966,LE MAILLON C2RI
+1 - Licenses and options,Coeur de système - Serveur Vocal Intéractif,65.0,1.0,65.0,,2025-01-16 14:05:06,2025-01-16 14:05:06,1592682,LE RESTAURANT DE L'HIPPODROME
+1 - Licenses and options,Licence utilisateur,15.0,2.0,30.0,,2025-01-16 14:05:06,2025-01-16 14:05:06,1592682,LE RESTAURANT DE L'HIPPODROME
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH,59.0,1.0,59.0,+ Routeur,2024-12-05 13:20:04,2025-01-09 15:31:13,1592682,LE RESTAURANT DE L'HIPPODROME
+6 - Hardware,Matériels,45.0,1.0,45.0,,2025-01-16 14:05:06,2025-01-16 14:05:06,1592682,LE RESTAURANT DE L'HIPPODROME
+1 - Licenses and options,Déploiement MPLS - Cloud Firewall,19.0,1.0,19.0,,2024-08-29 09:58:21,2024-08-29 09:58:21,1311800,LOCAMIA - Site Dunkerque
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,13.0,2.0,26.0,,2023-09-12 10:49:54,2024-05-07 14:59:24,1311800,LOCAMIA - Site Dunkerque
+1 - Licenses and options,Licence PREMIUM,47.0,1.0,47.0,,2023-09-12 10:49:54,2024-05-07 14:59:24,1311800,LOCAMIA - Site Dunkerque
+5 - Service Pack,Maintenance et supervision - Multisite,10.0,1.0,10.0,,2023-09-12 10:53:31,2024-05-07 14:59:24,1311800,LOCAMIA - Site Dunkerque
+6 - Hardware,Matériels téléphonique,3.77,2.0,7.54,,2023-09-12 10:53:31,2024-05-07 14:59:24,1311800,LOCAMIA - Site Dunkerque
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,10.0,1.0,10.0,,2023-09-12 10:49:54,2024-05-07 14:59:24,1311800,LOCAMIA - Site Dunkerque
+7 - Mobile,Accès internet mobile 100 Go,35.0,1.0,35.0,,2023-09-12 10:49:54,2024-05-07 14:59:24,1311800,LOCAMIA - Site Dunkerque
+1 - Licenses and options,Déploiement MPLS - Cloud Firewall,19.0,1.0,19.0,,2024-07-11 14:21:02,2024-08-29 10:00:31,1289778,LOCAMIA - Site Fretin
+1 - Licenses and options,Licence PREMIUM,47.0,11.0,517.0,,2023-12-11 14:02:50,2025-05-05 10:53:31,1289778,LOCAMIA - Site Fretin
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,13.0,6.0,78.0,,2023-10-12 15:24:02,2024-05-07 15:00:16,1289778,LOCAMIA - Site Fretin
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,359.0,1.0,359.0,,2024-07-11 14:11:51,2024-07-11 14:12:59,1289778,LOCAMIA - Site Fretin
+3 - Access links,Back-up 4G VRRP,19.0,1.0,19.0,,2023-10-12 15:24:02,2024-05-07 15:00:16,1289778,LOCAMIA - Site Fretin
+1 - Licenses and options,Cloud Firewall Standard,34.0,1.0,34.0,,2024-05-13 09:30:00,2024-05-13 09:30:00,622965,LOCAMIA - Site Roubaix
+1 - Licenses and options,Déploiement MPLS - Cloud Firewall,19.0,1.0,19.0,,2024-05-13 09:30:00,2024-05-13 09:30:00,622965,LOCAMIA - Site Roubaix
+1 - Licenses and options,Licence PREMIUM,47.0,2.0,94.0,,2023-07-18 14:11:29,2024-05-07 15:00:20,622965,LOCAMIA - Site Roubaix
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,13.0,5.0,65.0,,2023-10-03 10:51:11,2024-05-07 15:00:20,622965,LOCAMIA - Site Roubaix
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,69.0,1.0,69.0,,2023-09-19 13:19:48,2024-05-07 15:00:20,622965,LOCAMIA - Site Roubaix
+3 - Access links,Back-up 4G VRRP,19.0,1.0,19.0,,2023-09-19 13:19:48,2024-05-07 15:00:20,622965,LOCAMIA - Site Roubaix
+5 - Service Pack,"Installation, paramétrage, chefferie et formation - Multi site",29.9,1.0,29.9,,2023-10-03 10:56:28,2024-05-07 15:00:20,622965,LOCAMIA - Site Roubaix
+5 - Service Pack,Maintenance et supervision - Multi site,30.0,1.0,30.0,,2023-10-03 10:56:28,2024-05-07 15:00:20,622965,LOCAMIA - Site Roubaix
+5 - Service Pack,PACK BOOST,59.0,1.0,59.0,,2023-07-18 14:11:29,2024-05-07 15:00:20,622965,LOCAMIA - Site Roubaix
+6 - Hardware,Matériel informatique - Routeur informatique - VRRP,50.0,1.0,50.0,,2023-10-03 10:54:48,2024-05-07 15:00:20,622965,LOCAMIA - Site Roubaix
+6 - Hardware,Matériel téléphonique - poste fixe et sans fil,49.0,1.0,49.0,,2023-10-03 10:53:06,2024-05-07 15:00:20,622965,LOCAMIA - Site Roubaix
+6 - Hardware,Serveur SUNBREN avec PRA,50.0,1.0,50.0,,2023-07-18 14:11:29,2024-05-07 15:00:20,622965,LOCAMIA - Site Roubaix
+1 - Licenses and options,Licence PREMIUM,47.0,1.0,47.0,,2023-12-11 13:56:05,2024-05-07 15:00:24,1289782,LOCAMIA - Site Roye
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,13.0,2.0,26.0,,2023-09-12 10:40:22,2024-05-07 15:00:24,1289782,LOCAMIA - Site Roye
+5 - Service Pack,Déploiement MPLS - Cloud Firewall,19.0,1.0,19.0,,2024-06-24 10:53:46,2024-06-24 10:53:46,1289782,LOCAMIA - Site Roye
+5 - Service Pack,Maintenance et supervision - Multisite,10.0,1.0,10.0,,2023-09-12 11:33:23,2024-05-07 15:00:24,1289782,LOCAMIA - Site Roye
+7 - Mobile,Accès internet mobile 100 Go,35.0,1.0,35.0,,2023-09-12 10:40:22,2024-05-07 15:00:24,1289782,LOCAMIA - Site Roye
+7 - Mobile,Business Smartphone 50 Go,29.0,1.0,29.0,,2018-04-27 11:07:51,2024-04-15 14:49:36,390303,LP STRATOS
+7 - Mobile,Business Smartphone 20 Go,25.0,1.0,25.0,,2024-01-15 11:39:55,2024-04-16 16:27:43,1386372,LS INVEST
+7 - Mobile,Remise Parc supérieur à 10 lignes -5 % sur les abonnements,-1.25,1.0,-1.25,,2024-01-15 11:39:55,2024-01-15 11:39:55,1386372,LS INVEST
+1 - Licenses and options,Application Softphone Doko,3.0,1.0,3.0,,2022-03-03 09:15:03,2024-04-15 14:51:11,456861,LUDO BALAYAGE
+2 - Telephone lines,Licence utilisateur - Illimité F/M France et 70 destinations,22.0,1.0,22.0,,2018-12-14 11:52:50,2024-04-15 14:51:11,456861,LUDO BALAYAGE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.8,1.0,0.8,,2018-12-14 11:52:50,2024-04-15 14:51:11,456861,LUDO BALAYAGE
+7 - Mobile,Busines Smartphone 10Go,25.0,9.0,225.0,,2021-06-02 17:44:41,2025-01-16 10:37:27,875447,LUMAN
+7 - Mobile,Business Smartphone 2Go,19.0,3.0,57.0,,2022-07-11 11:26:30,2025-01-16 10:37:27,875447,LUMAN
+7 - Mobile,Business Smartphone 20 Go,19.9,4.0,79.6,,2024-12-12 14:03:41,2024-12-13 09:37:33,560953,MAAS
+7 - Mobile,Business Smartphone 5 Go,15.9,21.0,333.9,,2024-12-12 14:03:41,2025-03-31 12:12:00,560953,MAAS
+1 - Licenses and options,Abonnement Téléphonie - Site DOUAI,85.0,1.0,85.0,,2021-09-02 09:29:02,2021-09-04 18:35:48,568257,MADAME SANDRA SULPIZI (AXA) (site DOUAI)
+1 - Licenses and options,Coeur de système Multi site,70.0,1.0,70.0,Arrêt GRENKE / Renouvellement licences Somain et Douai,2022-04-11 16:44:43,2022-04-19 10:12:42,499385,MADAME SANDRA SULPIZI (AXA) (site SOMAIN)
+1 - Licenses and options,Licence Client,10.0,1.0,10.0,,2019-06-26 11:51:21,2019-06-26 11:52:36,499385,MADAME SANDRA SULPIZI (AXA) (site SOMAIN)
+1 - Licenses and options,Licence utilisateur supplémentaire,19.0,1.0,19.0,,2020-10-26 15:53:36,2020-10-26 15:53:36,499385,MADAME SANDRA SULPIZI (AXA) (site SOMAIN)
+1 - Licenses and options,Option Pont de conférence,35.0,1.0,35.0,,2019-06-26 11:51:21,2019-06-26 11:52:36,499385,MADAME SANDRA SULPIZI (AXA) (site SOMAIN)
+5 - Service Pack,Pack Centrex 3 Licences - Fax2Mail- SDSL- Site SOMAIN,85.0,1.0,85.0,,2019-06-26 11:51:21,2019-06-26 11:52:36,499385,MADAME SANDRA SULPIZI (AXA) (site SOMAIN)
+8 - Various,Remise Client,-15.0,1.0,-15.0,,2019-06-26 11:51:21,2019-06-26 11:52:36,499385,MADAME SANDRA SULPIZI (AXA) (site SOMAIN)
+1 - Licenses and options,Accès Voix IP Full illimité - 4 Canaux,70.0,1.0,70.0,,2023-10-05 13:12:18,2024-04-16 09:32:28,403905,MC SARL
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.8,5.0,4.0,,2023-10-05 13:12:18,2024-04-16 09:32:28,403905,MC SARL
+6 - Hardware,Passerelle pour PABX - 4 Com,8.0,1.0,8.0,,2023-10-05 13:12:18,2023-10-05 13:12:18,403905,MC SARL
+7 - Mobile,Business Smartphone 20 Go,24.16,2.0,48.32,,2019-05-15 15:10:20,2024-04-16 09:46:20,403905,MC SARL
+1 - Licenses and options,Cloud Firewall avancé,37.0,1.0,37.0,,2020-11-23 15:28:16,2025-05-13 17:48:10,302423,METEORS
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,79.0,1.0,79.0,,2020-11-23 15:28:16,2024-05-31 16:27:22,302423,METEORS
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,15.0,1.0,15.0,,2023-07-04 15:42:59,2024-04-16 15:28:56,1257012,METOD
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.5,1.0,12.5,,2023-07-04 15:42:59,2024-04-16 15:28:56,1257012,METOD
+3 - Access links,Fibre Optique FTTH (partagée avec P2L),29.5,1.0,29.5,,2023-07-04 15:42:59,2023-12-21 10:22:02,1257012,METOD
+7 - Mobile,Business Smartphone 10 Go,19.0,3.0,57.0,,2023-06-19 16:32:44,2023-12-21 10:22:02,1257012,METOD
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2024-10-28 13:50:17,2024-10-28 13:50:17,1257012,METOD
+7 - Mobile,Remise mobile,-1.5,4.0,-6.0,,2023-06-19 16:32:44,2024-10-28 13:50:17,1257012,METOD
+1 - Licenses and options,Abonnement Téléphonie et Fibre Dédiée,389.0,1.0,389.0,,2020-09-14 15:05:59,2024-05-28 14:17:26,695718,MILLON S.A.S
+1 - Licenses and options,Licence PREMIUM Cloud firewall ,39.0,1.0,39.0,,2020-09-14 15:05:59,2024-05-28 14:17:26,695718,MILLON S.A.S
+7 - Mobile,Business Smartphone 100 Go,49.0,1.0,49.0,,2023-03-14 16:15:54,2024-11-26 09:26:54,695718,MILLON S.A.S
+7 - Mobile,Business Smartphone 20 Go,24.0,2.0,48.0,,2022-09-02 09:02:49,2024-06-06 15:25:11,695718,MILLON S.A.S
+7 - Mobile,Business Smartphone 5 Go,18.0,6.0,108.0,,2022-09-02 09:02:49,2024-06-06 15:25:11,695718,MILLON S.A.S
+7 - Mobile,Mobile M2M,4.9,1.0,4.9,,2020-10-26 15:30:31,2024-05-28 14:17:26,695718,MILLON S.A.S
+8 - Various,Remise commerciale ,-10.0,1.0,-10.0,,2020-09-14 15:05:59,2024-05-28 14:17:26,695718,MILLON S.A.S
+8 - Various,Remise commerciale ,-10.0,1.0,-10.0,,2020-09-14 15:05:59,2024-05-28 14:17:26,695718,MILLON S.A.S
+1 - Licenses and options,Licence utilisateur illimité F/M France - 4 communications simultanées,15.0,1.0,15.0,,2024-11-07 15:31:05,2024-11-07 15:31:05,1601199,MR ABRAHAM THIBAULT
+1 - Licenses and options,Remise abonnement,-3.0,1.0,-3.0,,2024-11-07 15:31:05,2024-11-07 15:31:05,1601199,MR ABRAHAM THIBAULT
+7 - Mobile,Avantage client,-1.25,1.0,-1.25,,2024-11-12 10:09:48,2024-11-12 10:09:48,1602166,Mr GHESQUIER VINCENT
+7 - Mobile,Business Smartphone 20 Go,25.0,1.0,25.0,,2024-11-12 10:09:48,2024-11-12 10:09:48,1602166,Mr GHESQUIER VINCENT
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2024-06-17 11:11:53,2024-06-17 11:11:53,1535315,MULTITUDE
+1 - Licenses and options,Licences Office enterprise 365,15.5,6.0,93.0,,2023-03-29 15:55:42,2024-03-20 14:36:26,414220,NEW LOG
+1 - Licenses and options,mail O365,5.1,9.0,45.9,,2019-04-05 10:17:46,2024-03-20 14:36:26,414220,NEW LOG
+1 - Licenses and options,Licence SERVEUR Home,49.0,6.0,294.0,,2020-01-30 11:57:03,2024-03-20 14:36:26,414220,NEW LOG
+2 - Telephone lines,Ligne Analogique,19.0,1.0,19.0,NDI : 03.20.87.51.81,2018-07-20 10:06:05,2024-03-20 14:36:26,414220,NEW LOG
+3 - Access links,Abonnement Fibre dédiée,240.0,1.0,240.0,,2018-09-24 16:13:06,2024-03-21 13:34:48,414220,NEW LOG
+3 - Access links,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-10-01 18:56:16,2024-04-16 15:09:15,414220,NEW LOG
+6 - Hardware,Routeur FTTO - Multi Vlan Gbps,10.0,1.0,10.0,,2018-09-24 16:13:06,2024-03-21 13:34:48,414220,NEW LOG
+7 - Mobile,Abonnement Routeur 4G - Entrepot 2,21.0,1.0,21.0,,2019-05-29 11:14:31,2024-03-20 14:36:26,414220,NEW LOG
+7 - Mobile,Business Smartphone Data +,40.0,1.0,40.0,,2019-11-22 09:38:24,2024-03-20 14:36:26,414220,NEW LOG
+1 - Licenses and options,Cloud Firewall Standard,34.0,1.0,34.0,,2024-06-27 11:38:17,2025-03-07 11:05:38,314731,NORD MED
+1 - Licenses and options,Hébergement Coeur de système Standard Téléphonique,25.0,1.0,25.0,,2024-09-02 11:34:17,2025-03-07 11:05:38,314731,NORD MED
+1 - Licenses and options,Licence utilisateur illimité F/M - 4 communications simultanées,15.0,8.0,120.0,,2024-09-02 11:34:17,2025-03-07 11:05:38,314731,NORD MED
+1 - Licenses and options,Compte Mail Exchange,5.2,11.0,57.2,,2019-11-22 09:49:04,2025-03-07 11:05:38,314731,NORD MED
+1 - Licenses and options,Compte Microsoft 365,14.5,9.0,130.5,,2019-11-22 09:49:04,2025-03-07 11:05:38,314731,NORD MED
+1 - Licenses and options,Licence SUNBREN Premium,0.0,10.0,0.0,Victor Prieur,2020-06-30 20:43:32,2025-03-07 11:05:38,314731,NORD MED
+1 - Licenses and options,Pack Boost - STOCKAGE 10Go supplémentaire,0.0,5.0,0.0,,2023-04-13 15:14:01,2025-03-07 11:05:38,314731,NORD MED
+1 - Licenses and options,Pack boost config SUNBREN,0.0,1.0,0.0, CPU + RAM + mémoire SUNBREN,2019-10-30 15:08:45,2025-03-07 11:05:38,314731,NORD MED
+1 - Licenses and options,Sauvegarde,0.0,1.0,0.0,,2024-09-02 11:27:06,2025-03-07 11:05:38,314731,NORD MED
+1 - Licenses and options,Serveur Hébergé - Sunbren,770.0,1.0,770.0,,2024-09-02 11:25:21,2025-03-07 11:05:38,314731,NORD MED
+3 - Access links,Accès Internet Mobile - 4G - Configuration VRRP,19.0,1.0,19.0,,2024-03-11 14:13:14,2025-03-07 11:05:38,314731,NORD MED
+3 - Access links,Accès Internet - Fibre Access - 100 / 2 Mbps,179.0,1.0,179.0,,2020-12-10 16:51:11,2025-03-07 11:05:38,314731,NORD MED
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,10.0,5.0,,2024-09-02 11:34:17,2025-03-07 11:05:38,314731,NORD MED
+6 - Hardware,Matériel et Routeur,20.0,1.0,20.0,,2024-09-02 11:34:17,2025-03-07 11:05:38,314731,NORD MED
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2019-10-30 15:46:55,2025-03-07 11:05:38,314731,NORD MED
+7 - Mobile,Business Smartphone 5 Go,18.0,2.0,36.0,,2019-12-30 16:52:24,2025-03-07 11:05:38,314731,NORD MED
+7 - Mobile,Business Smartphone 50 Go,34.0,3.0,102.0,,2019-10-30 15:46:55,2025-03-07 11:05:38,314731,NORD MED
+8 - Various,Remise client,-5.0,1.0,-5.0,,2022-06-30 09:22:16,2025-03-07 11:05:38,314731,NORD MED
+1 - Licenses and options,Accès 15 Canaux voix - Fixe (Boulevard liberté),180.0,1.0,180.0,,2022-05-31 11:00:26,2025-04-24 10:00:18,831966,OFFICE DE TOURISME DE LA METROPOLE EUROPEENNE DE LILLE
+1 - Licenses and options,Bloc d'adresses IP supplémentaire /32,12.0,1.0,12.0,,2023-10-03 14:28:00,2025-04-24 10:00:18,831966,OFFICE DE TOURISME DE LA METROPOLE EUROPEENNE DE LILLE
+3 - Access links,Lien Data - SDSL (Palais),170.0,1.0,170.0,,2022-06-21 11:43:09,2025-04-24 10:00:18,831966,OFFICE DE TOURISME DE LA METROPOLE EUROPEENNE DE LILLE
+3 - Access links,Lien Data FTTO Fibre dédiée 100 Mbps (Palais),399.0,1.0,399.0,,2022-05-31 10:47:59,2025-04-24 10:00:18,831966,OFFICE DE TOURISME DE LA METROPOLE EUROPEENNE DE LILLE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,1.0,35.0,35.0,,2021-07-27 10:26:15,2025-04-24 10:00:18,831966,OFFICE DE TOURISME DE LA METROPOLE EUROPEENNE DE LILLE
+6 - Hardware,Location Patton 15C,30.0,1.0,30.0,,2021-07-26 17:06:55,2025-04-24 10:00:18,831966,OFFICE DE TOURISME DE LA METROPOLE EUROPEENNE DE LILLE
+7 - Mobile,Accès Internet mobile 5 Go,14.0,1.0,14.0,,2023-09-11 16:04:54,2025-04-24 10:00:18,831966,OFFICE DE TOURISME DE LA METROPOLE EUROPEENNE DE LILLE
+7 - Mobile,Business Smartphone 5 Go,18.0,22.0,396.0,,2021-06-17 15:23:29,2025-05-19 14:43:58,831966,OFFICE DE TOURISME DE LA METROPOLE EUROPEENNE DE LILLE
+7 - Mobile,Business Voix et SMS,9.0,3.0,27.0,,2021-06-17 15:23:29,2025-04-24 10:00:18,831966,OFFICE DE TOURISME DE LA METROPOLE EUROPEENNE DE LILLE
+7 - Mobile,Business Smartphone 50 Go,32.3,5.0,161.5,,2023-05-25 09:15:57,2025-04-03 08:47:12,367820,OSMOSE
+7 - Mobile,Business Smartphone 20 Go,22.8,13.0,296.4,,2018-09-14 15:43:36,2025-04-03 08:47:12,367820,OSMOSE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,15.0,1.0,15.0,,2023-07-04 15:48:22,2024-04-16 15:30:03,1257011,P2L Ingenierie
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.5,1.0,12.5,,2023-07-04 15:48:22,2024-04-16 15:30:03,1257011,P2L Ingenierie
+3 - Access links,Fibre Optique FTTH (partagée avec METOD),29.5,1.0,29.5,,2023-07-04 15:48:22,2023-12-21 10:21:21,1257011,P2L Ingenierie
+7 - Mobile,Business Smartphone 1 Go,12.0,2.0,24.0,,2024-09-19 09:40:19,2024-12-12 16:12:09,1257011,P2L Ingenierie
+7 - Mobile,Business Smartphone 50 Go,29.0,2.0,58.0,,2023-06-19 16:25:30,2025-04-22 08:44:06,1257011,P2L Ingenierie
+7 - Mobile,Remise mobile,-1.5,4.0,-6.0,,2023-06-19 16:25:31,2023-12-21 10:21:21,1257011,P2L Ingenierie
+7 - Mobile,Business Smartphone 20 Go,26.0,1.0,26.0,,2023-04-03 15:18:40,2024-04-16 15:30:54,1232068,PEAN COUSIN Laurence
+1 - Licenses and options,Application Fax 2 Mail,9.0,1.0,9.0,,2024-04-02 12:25:19,2024-12-23 11:35:26,444076,PHARMACIE DU CENTRE CROIX
+1 - Licenses and options,Application Softphone Doko,0.0,1.0,0.0,,2024-04-02 12:25:19,2024-12-23 11:35:26,444076,PHARMACIE DU CENTRE CROIX
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2024-04-02 12:25:19,2024-12-23 11:35:26,444076,PHARMACIE DU CENTRE CROIX
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,3.0,45.0,,2024-04-02 12:25:19,2024-12-23 11:35:26,444076,PHARMACIE DU CENTRE CROIX
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 200 Mbps Max,59.0,1.0,59.0,,2018-11-13 14:36:37,2024-12-23 11:35:26,444076,PHARMACIE DU CENTRE CROIX
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.8,6.0,4.8,,2024-04-02 12:25:19,2024-12-23 11:35:26,444076,PHARMACIE DU CENTRE CROIX
+7 - Mobile,Business Smartphone 50 Go,30.0,2.0,60.0,,2024-03-11 10:13:19,2024-08-27 10:49:15,1382979,PIC TRANSACTIONS ET ASSOCIES
+7 - Mobile,Remis Parc supérieur à 10 lignes -5% sur les abonnements,-3.0,1.0,-3.0,,2024-01-08 16:01:36,2024-08-27 10:49:15,1382979,PIC TRANSACTIONS ET ASSOCIES
+1 - Licenses and options,Hebergement coeur de système,45.0,1.0,45.0,,2023-08-29 16:46:03,2023-08-29 16:46:03,1269751,PLANCKAERT ET FILS
+1 - Licenses and options,Site Roubaix - Licence utilisateur,15.0,1.0,15.0,,2023-08-29 16:46:03,2023-08-29 16:46:03,1269751,PLANCKAERT ET FILS
+1 - Licenses and options,Site Tourcoing - Licence utilisateur,15.0,5.0,75.0,,2023-08-29 16:46:03,2023-08-29 16:46:03,1269751,PLANCKAERT ET FILS
+3 - Access links,Site Roubaix - Fibre Mutualisée FTTH 1Gbps - Bouygues,55.0,1.0,55.0,,2023-07-25 15:47:30,2023-08-29 16:49:53,1269751,PLANCKAERT ET FILS
+3 - Access links,Site Roubaix - Lien 4G - Back-up - VRRP,15.0,1.0,15.0,,2023-07-25 15:47:30,2023-07-25 15:47:30,1269751,PLANCKAERT ET FILS
+3 - Access links,Site Tourcoing - Fibre Mutualisée FTTH 1Gbps - Orange,59.0,1.0,59.0,,2023-07-25 13:27:49,2024-07-01 15:31:54,1269751,PLANCKAERT ET FILS
+3 - Access links,Site Tourcoing - Lien 4G - Back-up - VRRP,15.0,1.0,15.0,,2023-07-25 13:27:49,2023-07-25 13:27:49,1269751,PLANCKAERT ET FILS
+6 - Hardware,Site Roubaix - Routeur Internet,5.0,1.0,5.0,,2023-07-25 15:47:30,2023-07-25 15:47:30,1269751,PLANCKAERT ET FILS
+6 - Hardware,Site Tourcoing - Routeur Internet,6.0,2.0,12.0,,2023-07-25 13:27:49,2024-09-09 15:56:10,1269751,PLANCKAERT ET FILS
+1 - Licenses and options,Remise N'co Services,-10.0,1.0,-10.0,,2024-01-18 16:13:37,2024-01-18 16:13:37,333438,PLOUVIER GUY
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.5,5.0,62.5,,2024-01-18 16:12:32,2024-04-16 15:33:34,333438,PLOUVIER GUY
+2 - Telephone lines,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2019-07-08 14:11:32,2024-04-16 15:33:34,333438,PLOUVIER GUY
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.55,5.0,2.75,,2019-07-08 14:11:32,2024-04-16 15:33:34,333438,PLOUVIER GUY
+1 - Licenses and options,Licence Office 365 SPLA,16.0,2.0,32.0,,2022-03-22 17:18:16,2022-03-24 16:01:13,1029125,POMPES FUNEBRES ELIEZER-VANEROT
+1 - Licenses and options,Licence SUNBREN Premium,49.0,2.0,98.0,,2022-03-22 17:18:16,2022-03-24 16:01:13,1029125,POMPES FUNEBRES ELIEZER-VANEROT
+2 - Telephone lines,Hébergement Coeur de système - Téléphonie IP,59.0,1.0,59.0,,2018-11-08 14:46:49,2024-04-16 15:36:20,447936,POMPES FUNEBRES JOLY
+3 - Access links,Accès Internet - VDSL,45.0,1.0,45.0,,2018-11-27 10:45:39,2024-04-16 15:36:20,447936,POMPES FUNEBRES JOLY
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,15.0,1.0,15.0,,2018-11-27 10:45:39,2024-04-16 15:36:20,447936,POMPES FUNEBRES JOLY
+7 - Mobile,Forfait Business Smartphone 1 Go - Orange,12.0,6.0,72.0,,2025-03-06 14:53:59,2025-05-15 10:17:37,1641929,PPARCHI
+1 - Licenses and options,Application Softphone Doko,0.0,2.0,0.0,,2024-12-06 14:47:19,2024-12-06 14:47:19,424508,RAYMOND MANIEZ
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2019-11-27 10:08:37,2024-12-06 14:47:19,424508,RAYMOND MANIEZ
+1 - Licenses and options,Licence utilisateur -Illimité F/M France et 70 destinations,15.0,3.0,45.0,,2019-11-27 10:08:37,2024-12-06 14:47:19,424508,RAYMOND MANIEZ
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 200 Mbps Max,54.0,1.0,54.0,,2024-12-12 11:22:39,2024-12-12 11:22:39,424508,RAYMOND MANIEZ
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.8,2.0,1.6,,2024-12-06 14:47:19,2024-12-06 14:47:19,424508,RAYMOND MANIEZ
+6 - Hardware,Routeur Internet - Supervision,5.0,1.0,5.0,,2024-12-12 11:22:39,2024-12-12 11:22:39,424508,RAYMOND MANIEZ
+1 - Licenses and options,Hebergement coeur de sy,25.0,1.0,25.0,,2024-12-01 08:31:16,2024-12-01 08:32:10,626682,REANT ENTREPRISE ARTISTIQUE
+1 - Licenses and options,Licence utilisateur illimitée fixe et mobile,15.0,2.0,30.0,,2024-12-01 08:31:16,2024-12-01 08:31:16,626682,REANT ENTREPRISE ARTISTIQUE
+6 - Hardware,Poste T54 standard,5.0,1.0,5.0,,2024-12-01 08:31:16,2024-12-01 08:31:16,626682,REANT ENTREPRISE ARTISTIQUE
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2019-11-29 11:27:29,2024-12-03 07:00:54,626682,REANT ENTREPRISE ARTISTIQUE
+7 - Mobile,Business Smartphone 50 Go,15.0,1.0,15.0,,2021-01-19 15:09:38,2024-08-19 10:27:44,804188,REPNOR
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,45.0,1.0,45.0,,2019-12-03 14:07:42,2024-04-16 15:42:15,623268,RIBEIRO AUTOMOBILES
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,9.0,3.0,27.0,,2019-12-03 14:07:42,2024-04-16 15:42:15,623268,RIBEIRO AUTOMOBILES
+1 - Licenses and options,Application Softphone Doko,5.0,1.0,5.0,,2022-10-21 15:45:35,2024-04-16 15:44:57,1137558,S.E.L.A.R.L. LES ALIZES
+1 - Licenses and options,Fair-use 5000 minutes,30.0,1.0,30.0,,2024-02-19 09:33:06,2024-02-19 09:33:06,1137558,S.E.L.A.R.L. LES ALIZES
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,65.0,1.0,65.0,,2022-10-21 15:43:24,2024-04-16 15:44:57,1137558,S.E.L.A.R.L. LES ALIZES
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.0,8.0,96.0,,2022-10-21 15:43:24,2024-04-16 15:44:57,1137558,S.E.L.A.R.L. LES ALIZES
+1 - Licenses and options,Envoi de Mail personnalisable (interne) - Demande de rappel,25.0,1.0,25.0,,2022-10-21 15:58:34,2023-12-11 11:07:59,1137558,S.E.L.A.R.L. LES ALIZES
+1 - Licenses and options,Hébergement - Package Contact Expérience,89.0,1.0,89.0,,2022-10-21 15:47:20,2023-12-11 11:07:59,1137558,S.E.L.A.R.L. LES ALIZES
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,10.0,5.0,,2022-10-21 15:44:46,2024-04-16 15:44:57,1137558,S.E.L.A.R.L. LES ALIZES
+8 - Various,Remise Application Softphone Doko,-5.0,1.0,-5.0,,2022-10-21 15:47:20,2023-12-11 11:07:59,1137558,S.E.L.A.R.L. LES ALIZES
+8 - Various,Remise Package Contact Expérience,-30.0,1.0,-30.0,,2022-10-21 15:47:20,2023-12-11 11:07:59,1137558,S.E.L.A.R.L. LES ALIZES
+1 - Licenses and options,Abonnement Detoxio 25-50 IP,50.0,1.0,50.0,,2023-07-06 10:31:39,2025-03-06 16:20:34,562342,S.O.C.O.F.R.I
+1 - Licenses and options,Abonnement équipements protégés,1.25,30.0,37.5,,2023-07-06 10:31:39,2025-03-06 16:20:34,562342,S.O.C.O.F.R.I
+1 - Licenses and options,Appliance Detoxio,14.0,1.0,14.0,,2023-07-06 10:31:39,2025-03-06 16:20:34,562342,S.O.C.O.F.R.I
+1 - Licenses and options,Licence Cleaner 25-50 IP,0.0,1.0,0.0,,2023-07-06 10:33:42,2025-03-06 16:20:34,562342,S.O.C.O.F.R.I
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,40.0,1.0,40.0,,2019-09-27 17:29:04,2025-03-06 16:20:34,562342,S.O.C.O.F.R.I
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,18.0,10.0,180.0,,2019-09-27 17:29:04,2025-03-06 16:20:34,562342,S.O.C.O.F.R.I
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,79.0,1.0,79.0,,2020-09-17 14:25:42,2025-03-06 16:20:34,562342,S.O.C.O.F.R.I
+1 - Licenses and options,Avantage Multi-offre -7.50 %,-1.94,1.0,-1.94,,2024-11-28 16:22:03,2024-11-28 16:22:03,1329322,S2A
+1 - Licenses and options,Licence Téléphonie Hébergée,12.0,2.0,24.0,,2024-11-28 16:22:03,2024-11-28 16:22:03,1329322,S2A
+4 - Numbers and portabilities,Sélection Directe à l'arrivée (SDA),0.6,3.0,1.8,,2024-11-28 16:22:03,2024-11-28 16:30:56,1329322,S2A
+7 - Mobile,Business Smartphone 20 Go,25.0,4.0,100.0,,2024-01-08 14:21:06,2025-02-17 14:42:22,1329322,S2A
+7 - Mobile,Remise Parc supérieur à 10 lignes -5% sur les abonnements,1.25,4.0,5.0,,2024-01-08 14:21:06,2025-02-17 14:45:34,1329322,S2A
+7 - Mobile,06 02 09 46 49 - Business Smartphone 20 Go + 07 00 00 70 63 15 90 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:43:28,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 03 99 01 48 - Business Smartphone 20 Go + 07 00 00 70 63 15 40 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:01:29,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 07 03 90 19 - Business Smartphone 20 Go + 07 00 00 70 63 15 41 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:01:29,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 07 65 37 50 - Business Smartphone 20 Go + 07 00 00 70 63 15 44 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:01:29,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 08 91 90 60 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-08-22 15:16:22,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 09 61 54 66 - Business Smartphone 50 Go,22.0,1.0,22.0,,2024-10-03 15:01:29,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 10 84 34 85 - Business Smartphone 20 Go + 07 00 00 70 63 15 54 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:01:29,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 11 42 73 97 - Business Smartphone 20 Go + 07 00 00 70 63 15 56 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:04:25,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 11 61 03 17 - Business Smartphone 20 Go + 07 00 00 70 63 15 57 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:05:04,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 11 61 03 25 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 15:27:32,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 12 72 06 43 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-08-22 15:16:22,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 14 11 45 24 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 15:27:32,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 14 26 18 50 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 15:30:26,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 15 43 49 44 - Business Smartphone 20 Go + 07 00 00 70 63 15 58 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:08:44,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 16 70 38 55 - Business Smartphone 20 Go + 07 00 00 70 63 15 70 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:30:26,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 19 34 37 16 - Business Smartphone 20 Go + 07 00 00 70 63 15 72 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:30:26,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 20 70 45 83 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 15:30:26,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 20 84 43 54 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 15:08:44,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 22 30 54 05 - Business Smartphone 20 Go + 07 00 00 70 63 15 73 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 22 51 45 56 - Business Smartphone 20 Go + 07 00 00 70 63 15 74 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 22 94 96 72 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 23 19 21 35 - Business Smartphone 20 Go + 07 00 00 70 63 15 59 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:08:44,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 26 06 45 03 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 32 13 39 70 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 64 52 99 57 - Business Smartphone 20 Go + 07 00 00 70 63 15 75 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 72 84 76 30 - Business Smartphone 20 Go + 07 00 00 70 63 15 76 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 76 32 30 25 - Business Smartphone 20 Go + 07 00 00 70 63 15 82 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 76 87 87 38 - Business Smartphone 20 Go + 07 00 00 70 63 15 84 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 76 87 87 82 - Business Smartphone 20 Go + 07 00 00 70 63 15 85 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 80 72 90 80 - Business Smartphone 20 Go + 07 00 00 70 63 15 86 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:39:05,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 80 73 58 86 - Business Smartphone 20 Go + 07 00 00 70 63 15 66 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:27:32,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 82 71 14 15 - Business Smartphone 20 Go + 07 00 00 70 63 15 67 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:27:32,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 82 71 14 26 - Business Smartphone 20 Go + 07 00 00 70 63 15 68 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:27:32,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 99 00 79 28 - Business Smartphone 20 Go + 07 00 00 70 63 15 87 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:43:28,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 99 09 26 17 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 15:43:28,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 99 25 44 29 - Business Smartphone 20 Go,18.0,1.0,18.0,,2025-02-06 09:40:25,2025-02-06 09:40:25,971584,SADAPS CORPORATION
+7 - Mobile,06 99 76 25 76 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-10-03 15:08:44,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 99 80 13 30 - Business Smartphone 20 Go + 07 00 00 70 63 15 88 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:43:28,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,07 55 65 33 79 - Business Smartphone 50 Go + 07 00 00 71 72 25 14 - Accès Internet mobile 5 Go,32.5,1.0,32.5,,2024-04-11 16:19:52,2025-02-24 10:30:08,971584,SADAPS CORPORATION
+7 - Mobile,07 57 00 51 77 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-02-12 11:35:27,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,07 57 78 81 71 - Business Smartphone 20 Go + 07 00 00 70 63 15 60 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:27:32,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,07 57 97 02 37 - Business Smartphone 20 Go,18.0,1.0,18.0,,2025-04-04 10:31:06,2025-04-04 10:31:06,971584,SADAPS CORPORATION
+7 - Mobile,07 60 61 24 30 - Business Smartphone 20 Go + 07 00 00 70 63 15 89 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:43:28,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,07 84 22 67 94 - Business Smartphone 20 Go + 07 00 00 70 63 15 64 - Accès Internet mobile 5 Go,28.5,1.0,28.5,,2024-10-03 15:27:32,2024-12-21 07:50:24,971584,SADAPS CORPORATION
+7 - Mobile,06 03 19 58 69 - Business Smartphone 20 Go + 07 00 00 70 71 68 15 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-12 15:46:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 09 94 96 19 - Business Smartphone 20 Go + 07 00 00 70 71 68 17 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-12 15:46:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 47 - Business Smartphone 20 Go + 07 00 00 70 71 68 18 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-12 15:46:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 51 - Business Smartphone 20 Go + 07 00 00 70 71 68 19 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:50:12,2024-11-29 14:39:53,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 53 - Business Smartphone 20 Go + 07 00 00 70 71 68 22 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:50:12,2024-11-29 14:39:53,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 58 - Business Smartphone 20 Go + 07 00 00 70 71 68 23 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:50:12,2024-11-29 10:07:06,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 61 - Business Smartphone 20 Go + 07 00 00 70 71 68 24 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:50:12,2024-11-12 15:50:12,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 63 - Business Smartphone 20 Go + 07 00 00 70 71 68 25 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:53:21,2024-11-12 15:53:21,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 65 - Business Smartphone 20 Go + 07 00 00 70 71 68 26 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:53:21,2024-11-12 15:58:40,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 66 - Business Smartphone 20 Go + 07 00 00 08 93 31 06 Business Data Only 5 Go,28.5,1.0,28.5,,2024-02-23 14:29:25,2024-11-29 14:37:45,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 71 - Business Smartphone 20 Go + 07 00 00 70 71 68 29 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:58:40,2024-11-12 15:58:40,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 72 - Business Smartphone 20 Go + 07 00 00 70 71 68 31 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:58:40,2024-11-12 15:58:40,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 76 - Business Smartphone 20 Go + 07 00 00 70 71 68 30 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:58:40,2024-11-12 15:58:40,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 81 - Business Smartphone 20 Go + 07 00 00 70 71 68 23 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 14:46:50,2024-11-12 14:47:16,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 14 26 18 82 - Business Smartphone 20 Go + 07 00 00 70 71 68 32 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:58:40,2024-11-12 15:58:40,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 21 37 58 86 - Business Smartphone 20 Go + 07 00 00 70 71 68 33 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:20:14,2024-11-12 16:20:14,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 23 91 46 76 - Business Smartphone 20 Go + 07 00 00 70 71 68 35 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:20:14,2024-11-12 16:20:14,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 24 53 45 82 - Business Smartphone 20 Go + 07 00 00 70 71 68 36 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:20:14,2024-11-29 14:40:47,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 24 53 46 20 - Business Smartphone 20 Go + 07 00 00 70 71 67 79 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 14:46:50,2024-11-12 14:47:16,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 24 93 03 43 - Business Smartphone 20 Go + 07 00 00 70 71 67 81 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 14:46:50,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 26 06 45 35 - Business Smartphone 20 Go + 07 00 00 70 71 67 82 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 14:46:50,2024-11-29 14:37:45,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 28 40 79 01 - Business Smartphone 20 Go + 07 00 00 70 71 68 37 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:20:14,2024-11-12 16:20:14,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 38 59 65 08 - Business Smartphone 20 Go + 07 00 00 70 71 68 11 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-12 15:46:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 40 64 60 03 - Business Smartphone 20 Go,18.0,1.0,18.0,,2024-02-23 14:29:25,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 40 91 28 73 - Business Smartphone 20 Go + 07 00 00 08 93 31 08 Business Data Only 5 Go,28.5,1.0,28.5,,2024-02-23 14:29:25,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 46 13 09 92 - Business Smartphone 20 Go + 07 00 00 70 71 67 80 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 14:46:50,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 59 48 16 23 - Business Smartphone 20 Go + 07 00 00 70 71 68 38 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:20:14,2024-11-12 16:20:14,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 60 10 78 13 - Business Smartphone 20 Go + 07 00 00 70 71 67 83 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:27:16,2024-11-12 15:27:16,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 78 72 20 95 - Business Smartphone 20 Go + 07 00 00 70 71 67 84 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:27:16,2024-11-29 14:37:45,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 81 07 43 81 - Business Smartphone 20 Go + 07 00 00 70 71 67 85 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:27:16,2024-11-12 15:27:16,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 81 07 54 91 - Business Smartphone 20 Go + 07 00 00 70 71 67 89 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:27:16,2024-11-12 15:27:16,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 98 63 94 05 - Business Smartphone 20 Go + 07 00 00 70 71 68 39 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:20:14,2024-11-12 16:20:14,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 99 29 13 63 - Business Smartphone 20 Go + 07 00 00 70 71 67 90 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:27:16,2024-11-12 15:33:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 99 29 27 32 - Business Smartphone 20 Go + 07 00 00 70 71 67 92 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:33:50,2024-11-12 15:33:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,06 99 35 92 14 - Business Smartphone 20 Go + 07 00 00 70 71 68 44 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:20:14,2024-11-12 16:20:14,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 48 11 66 83 - Business Smartphone 20 Go + 07 00 00 08 93 31 24 Business Data Only 5 Go,28.5,1.0,28.5,,2024-02-23 14:29:25,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 48 12 00 80 - Business Smartphone 20 Go + 07 00 00 08 93 31 29 Business Data Only 5 Go,28.5,1.0,28.5,,2024-02-23 14:29:25,2024-11-29 10:07:35,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 48 12 26 89 - Business Smartphone 20 Go + 07 00 00 08 93 31 30 Business Data Only 5 Go,28.5,1.0,28.5,,2024-02-23 14:29:25,2024-11-29 14:37:45,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 48 12 73 54 - Business Smartphone 20 Go + 07 00 00 08 93 31 32 Business Data Only 5 Go,28.5,1.0,28.5,,2024-02-23 14:29:25,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 48 72 63 70 - Business Smartphone 20 Go + 07 00 00 71 99 60 67 Business Data Only 5 Go,28.5,1.0,28.5,,2025-03-11 11:10:36,2025-03-11 11:10:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 50 54 81 71 - Business Smartphone 20 Go + 07 00 00 08 94 44 76 Business Data Only 5 Go,28.5,1.0,28.5,,2024-02-23 14:29:25,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 50 55 53 29 - Business Smartphone 20 Go + 07 00 00 03 38 92 96 Business Data Only 5 Go,28.5,1.0,28.5,,2024-05-16 16:39:29,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 50 55 53 40 - Business Smartphone 20 Go + 07 00 00 03 38 92 06 Business Data Only 5 Go,28.5,1.0,28.5,,2024-05-16 16:39:29,2024-11-29 14:37:45,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 50 56 16 77 - Business Smartphone 20 Go + 07 00 00 09 20 49 55 Business Data Only 5 Go,28.5,1.0,28.5,,2024-04-09 13:44:18,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 55 58 14 59 - Business Smartphone 20 Go + 07 00 00 09 16 62 03 Business Data Only 5 Go,28.5,1.0,28.5,,2024-03-28 16:36:49,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 55 58 14 64 - Business Smartphone 20 Go + 07 00 00 09 16 62 10 Business Data Only 5 Go,28.5,1.0,28.5,,2024-03-28 16:36:49,2024-11-29 10:07:06,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 55 59 35 01 - Business Smartphone 20 Go + 07 00 00 70 09 66 37 Business Data Only 5 Go,28.5,1.0,28.5,,2024-04-30 14:13:49,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 55 59 66 99 - Business Smartphone 20 Go + 07 00 00 09 16 62 02 Business Data Only 5 Go,28.5,1.0,28.5,,2024-03-28 16:36:49,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 56 41 33 53 - Business Smartphone 20 Go + 07 00 00 08 96 67 58 Business Data Only 5 Go,28.5,1.0,28.5,,2024-02-23 14:29:25,2024-11-12 14:46:50,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 57 00 74 93 - Business Smartphone 20 Go + 07 00 00 71 20 18 12 Business Data Only 5 Go,28.5,1.0,28.5,,2025-01-06 11:29:55,2025-01-06 11:29:55,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 60 90 98 66 - Business Smartphone 20 Go + 07 00 00 70 71 68 43 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:20:14,2024-11-29 14:40:47,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 61 22 66 44 - Business Smartphone 20 Go + 07 00 00 70 71 67 93 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-29 14:39:53,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 62 17 64 55 - Business Smartphone 20 Go + 07 00 00 70 71 67 94 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-12 15:46:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 62 30 97 67 - Business Smartphone 20 Go + 07 00 00 70 71 68 48 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:26:35,2024-11-12 16:26:35,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 63 26 81 51 - Business Smartphone 20 Go + 07 00 00 70 71 67 97 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-29 14:39:53,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 63 32 25 81 - Business Smartphone 20 Go + 07 00 00 70 71 68 04 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-29 14:39:53,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 63 79 50 86 - Business Smartphone 20 Go + 07 00 00 70 71 68 49 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:26:35,2024-11-12 16:26:35,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 63 79 50 89 - Business Smartphone 20 Go + 07 00 00 70 71 68 05 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-12 15:46:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 70 18 03 89 - Business Smartphone 20 Go + 07 00 00 70 71 68 14 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-12 15:46:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 70 18 03 96 - Business Smartphone 20 Go + 07 00 00 70 71 68 13 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-12 15:46:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 72 45 49 92 - Business Smartphone 20 Go + 07 00 00 71 75 36 64 - Business Data Only 5 Go,28.5,1.0,28.5,,2025-03-03 14:56:29,2025-03-03 14:56:29,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 77 31 82 95 - Business Smartphone 20 Go + 07 00 00 70 71 68 07 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-12 15:46:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 77 31 83 00 - Business Smartphone 20 Go + 07 00 00 70 71 68 50 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:26:35,2024-11-12 16:26:35,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 77 73 56 50 - Business Smartphone 20 Go + 07 00 00 70 71 68 08 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-12 15:46:36,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 77 73 56 51 - Business Smartphone 20 Go + 07 00 00 70 71 68 53 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:26:35,2024-11-29 14:40:47,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 85 89 38 96 - Business Smartphone 20 Go + 07 00 00 70 71 68 54 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 16:26:35,2024-11-12 16:26:35,744987,SADAPS DISTRIBUTION
+7 - Mobile,07 87 58 36 27 - Business Smartphone 20 Go + 07 00 00 70 71 68 09 Business Data Only 5 Go,28.5,1.0,28.5,,2024-11-12 15:46:36,2024-11-29 14:39:53,744987,SADAPS DISTRIBUTION
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,49.9,1.0,49.9,,2021-02-08 09:20:48,2024-04-16 15:48:48,375191,SAFIR IMMO INVESTISSEMENT
+1 - Licenses and options,Licence utilisateur,10.0,1.0,10.0,,2021-07-05 10:07:35,2024-04-16 15:48:48,375191,SAFIR IMMO INVESTISSEMENT
+2 - Telephone lines,Accès illimité voix entrant &#047; sortant ,88.0,1.0,88.0,,2018-05-29 16:22:58,2019-11-29 10:58:38,375191,SAFIR IMMO INVESTISSEMENT
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,79.0,1.0,79.0,,2020-07-03 11:06:52,2024-04-16 15:48:48,375191,SAFIR IMMO INVESTISSEMENT
+3 - Access links,Location Routeur 4G - 100 Go,20.0,1.0,20.0,,2024-06-27 16:12:10,2024-07-01 10:25:41,375191,SAFIR IMMO INVESTISSEMENT
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,1.0,0.6,,2021-07-05 10:07:35,2024-04-16 15:48:48,375191,SAFIR IMMO INVESTISSEMENT
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2018-05-29 16:22:58,2024-04-16 15:48:48,375191,SAFIR IMMO INVESTISSEMENT
+7 - Mobile,Abonnement Business Smartphone DATA,15.0,1.0,15.0,,2019-11-29 11:07:46,2019-11-29 11:07:46,375191,SAFIR IMMO INVESTISSEMENT
+1 - Licenses and options,Application Softphone Doko,7.0,1.0,7.0,,2020-12-02 16:57:49,2024-04-16 15:50:46,725643,SAM ET LIE (site principal)
+1 - Licenses and options,Solution de Téléphonie Hébergée et Lien,110.0,1.0,110.0,,2020-12-02 16:57:49,2021-09-04 18:50:32,725643,SAM ET LIE (site principal)
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,6.0,3.0,,2020-12-02 16:57:49,2024-04-16 15:50:46,725643,SAM ET LIE (site principal)
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2022-05-04 16:04:15,2024-04-16 15:52:45,1045047,SARL EAU PRES D'L
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,2.0,30.0,,2022-05-04 16:04:15,2024-04-16 15:52:45,1045047,SARL EAU PRES D'L
+1 - Licenses and options,SoftPhone PC,2.5,1.0,2.5,,2023-08-28 11:38:57,2023-08-28 11:38:57,1045047,SARL EAU PRES D'L
+7 - Mobile,Business Smartphone 5Go,22.0,1.0,22.0,,2022-05-04 16:04:15,2022-06-04 06:59:44,1045047,SARL EAU PRES D'L
+7 - Mobile,Business voix SMS,8.0,1.0,8.0,Alarme,2024-04-29 09:26:13,2024-04-29 09:26:13,1045047,SARL EAU PRES D'L
+7 - Mobile,Business Smartphone 20 Go,24.0,1.0,24.0,,2024-08-06 11:30:46,2024-08-06 11:30:46,1541596,SAS DILA
+7 - Mobile,Business Smartphone 20 Go,24.0,3.0,72.0,,2023-12-07 13:35:19,2024-04-16 15:53:42,1366792,SAS FRANCE CHRIS
+7 - Mobile,Business Smartphone 20 Go,21.0,1.0,21.0,,2025-03-28 09:14:00,2025-03-28 16:50:36,1706066,SAS R-M RENOVATION
+1 - Licenses and options,Application Fax 2 Mail,9.0,1.0,9.0,,2022-10-20 16:47:53,2024-04-16 15:56:39,388502,SATO FRANCE
+1 - Licenses and options,Application Softphone Doko,5.0,26.0,130.0,,2022-10-20 17:00:33,2025-04-24 16:39:32,388502,SATO FRANCE
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,65.0,1.0,65.0,,2022-10-20 16:58:11,2024-04-16 15:56:39,388502,SATO FRANCE
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,13.0,35.0,455.0,,2022-10-20 16:59:40,2025-04-24 16:39:32,388502,SATO FRANCE
+1 - Licenses and options,Ligne directe à l'arrivée - Groupe d'appel SAV,0.5,1.0,0.5,,2023-10-03 14:36:32,2023-12-11 11:05:38,388502,SATO FRANCE
+1 - Licenses and options,Ligne dédiée SAV - Service à valeur ajoutés,10.0,1.0,10.0,,2023-10-03 14:36:32,2023-12-11 11:05:38,388502,SATO FRANCE
+1 - Licenses and options,Package Contact Expérience,139.0,1.0,139.0,,2022-10-20 17:02:34,2023-12-11 11:05:38,388502,SATO FRANCE
+1 - Licenses and options,8 adresses IP publique IPV4,24.0,1.0,24.0,,2018-08-21 15:23:04,2024-04-16 15:56:39,388502,SATO FRANCE
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 100 Mbps - Symétrique et garanti,385.0,1.0,385.0,,2022-07-25 10:52:02,2024-04-16 15:56:39,388502,SATO FRANCE
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 200 Mbps - Symétrique et garanti,630.0,1.0,630.0,,2018-08-24 16:23:41,2024-04-16 15:56:39,388502,SATO FRANCE
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.5,48.0,24.0,,2022-10-20 17:07:24,2025-04-24 16:39:32,388502,SATO FRANCE
+6 - Hardware,Poste téléphonique IP - Location,3.3,16.0,52.8,,2022-10-20 17:12:48,2024-06-17 10:07:57,388502,SATO FRANCE
+7 - Mobile,Business Smartphone 20 Go,22.5,28.0,630.0,,2019-10-30 15:34:59,2025-03-27 10:28:15,388502,SATO FRANCE
+7 - Mobile,Business Smartphone 50 Go,28.0,3.0,84.0,,2020-05-26 18:18:06,2024-04-16 15:56:39,388502,SATO FRANCE
+8 - Various,Remise Application Softphone Doko,-0.5,26.0,-13.0,,2022-10-20 17:01:23,2025-04-24 16:39:32,388502,SATO FRANCE
+1 - Licenses and options,Coeur de système hébergé,25.0,1.0,25.0,,2025-02-06 09:01:17,2025-03-13 09:47:12,1642513,SATT POSE MENUISERIES
+1 - Licenses and options,Licence utilisateur 2 communications (illimité F/M France),15.0,1.0,15.0,,2025-02-06 09:01:18,2025-02-06 09:01:18,1642513,SATT POSE MENUISERIES
+1 - Licenses and options,Remise Mensuelle,-20.0,1.0,-20.0,,2025-02-06 09:01:18,2025-02-06 09:01:18,1642513,SATT POSE MENUISERIES
+4 - Numbers and portabilities,Numéro direct SDA,0.5,1.0,0.5,,2025-02-06 09:01:18,2025-02-06 09:01:18,1642513,SATT POSE MENUISERIES
+7 - Mobile,Avantage Parc 100 lignes,-50.4,1.0,-50.4,,2024-11-28 15:16:25,2025-05-16 09:24:52,508714,SCALAIR
+7 - Mobile,Business Smartphone 1 Go,11.0,4.0,44.0,,2024-09-26 15:15:33,2024-11-28 15:16:25,508714,SCALAIR
+7 - Mobile,Business Smartphone 20 Go,24.0,9.0,216.0,,2019-02-25 11:42:33,2025-05-16 09:24:52,508714,SCALAIR
+7 - Mobile,Business Smartphone 5 Go,16.0,14.0,224.0,,2020-09-23 11:09:56,2025-05-16 09:24:52,508714,SCALAIR
+7 - Mobile,Data Only 20 Go,20.0,1.0,20.0,,2025-04-15 09:07:24,2025-04-15 09:07:24,508714,SCALAIR
+7 - Mobile,Business Smartphone 5Go Orange,29.0,1.0,29.0,,2019-01-29 09:21:39,2019-05-09 13:23:28,494516,SCI BJB
+1 - Licenses and options,Application Fax 2 Mail / Mail 2 Fax,25.0,1.0,25.0,,2020-11-18 08:15:13,2024-04-16 16:01:15,471190,SCM BROCA
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.5,7.0,87.5,,2019-04-19 14:12:36,2024-11-15 09:14:19,471190,SCM BROCA
+3 - Access links,Abonnement Routeur 4G ,35.0,1.0,35.0,,2020-11-12 15:49:47,2020-11-12 15:49:47,471190,SCM BROCA
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,79.0,1.0,79.0,,2020-11-12 15:49:47,2024-04-16 16:01:15,471190,SCM BROCA
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,3.5,1.0,3.5,,2019-04-19 14:26:37,2024-04-16 16:01:15,471190,SCM BROCA
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,10.0,1.0,10.0,,2020-11-12 15:49:47,2024-04-16 16:01:15,471190,SCM BROCA
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,10.0,1.0,10.0,,2020-11-12 15:49:47,2024-04-16 16:01:15,471190,SCM BROCA
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2024-05-13 09:59:34,2024-05-13 09:59:34,473102,SCM DENTY
+2 - Telephone lines,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,2.0,30.0,,2018-12-27 15:45:02,2024-04-16 16:02:18,473102,SCM DENTY
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,59.0,1.0,59.0,,2018-12-27 15:45:02,2024-04-16 16:02:18,473102,SCM DENTY
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2018-12-27 15:45:02,2024-04-16 16:02:18,473102,SCM DENTY
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,21.6,1.0,21.6,,2023-02-02 18:14:37,2024-04-16 16:02:54,1188787,SCM MODF
+1 - Licenses and options,Numéro direct - SDA supplémentaire,0.8,1.0,0.8,,2023-02-02 18:14:37,2024-04-16 16:02:54,1188787,SCM MODF
+1 - Licenses and options,Hébergement Coeur de système Contact Expérience,159.0,1.0,159.0,,2023-12-05 09:56:16,2023-12-11 11:11:19,448657,SELARL EMILIE ET HENRI CATHELAIN
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.5,4.0,50.0,,2023-12-05 09:56:16,2024-04-16 16:08:11,448657,SELARL EMILIE ET HENRI CATHELAIN
+1 - Licenses and options,Hébergement Coeur de Système Contact Expérience,159.0,1.0,159.0,,2023-12-05 10:04:25,2024-01-15 16:14:41,442296,SELARL H2P
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.5,2.0,25.0,,2023-12-05 10:04:25,2024-04-16 16:09:25,442296,SELARL H2P
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,69.0,1.0,69.0,,2023-02-13 16:26:50,2024-04-16 16:09:25,442296,SELARL H2P
+5 - Service Pack,Maintenance Installation Téléphonique,20.0,1.0,20.0,,2018-09-20 17:00:45,2024-01-15 16:14:41,442296,SELARL H2P
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2023-02-13 16:26:50,2024-04-16 16:09:25,442296,SELARL H2P
+1 - Licenses and options,Hébergement Contact Expérience,159.0,1.0,159.0,,2024-03-21 11:50:09,2024-10-17 14:34:02,1482412,SELARL PLOUVIER
+1 - Licenses and options,Remplacement et annulation du coeur de système actuel,-30.0,1.0,-30.0,,2024-03-21 11:50:09,2024-10-17 14:34:02,1482412,SELARL PLOUVIER
+3 - Access links,Abonnement Fibre FTTH - SAINT DENIS,59.0,1.0,59.0,,2024-04-08 15:54:14,2024-04-08 15:54:14,314739,SILLIKER - MERIEUX NUTRISCIENCES
+3 - Access links,Abonnement Fibre FTTH - MASSY,59.0,1.0,59.0,,2023-09-18 11:05:32,2024-03-25 15:02:48,314739,SILLIKER - MERIEUX NUTRISCIENCES
+3 - Access links,Abonnement Fibre FTTH - MEYREUIL,59.0,1.0,59.0,,2024-03-25 15:02:48,2024-03-25 15:02:48,314739,SILLIKER - MERIEUX NUTRISCIENCES
+3 - Access links,Abonnement Fibre FTTH - RONCHIN,59.0,1.0,59.0,,2024-01-22 10:56:00,2024-03-25 15:02:48,314739,SILLIKER - MERIEUX NUTRISCIENCES
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,0.0,4.0,0.0,,2024-01-22 10:56:00,2024-04-16 16:13:12,314739,SILLIKER - MERIEUX NUTRISCIENCES
+1 - Licenses and options,Microsoft 365 Pro Plus,13.0,1.0,13.0,,2020-11-30 15:00:40,2021-09-03 11:46:04,754446,SIMONNEAU Consultant
+1 - Licenses and options,Serveur sunbren ,67.15,1.0,67.15,,2021-01-02 10:34:36,2021-09-03 11:46:04,754446,SIMONNEAU Consultant
+7 - Mobile,Accès internet mobile 1 Go,9.0,1.0,9.0,Galet 4G,2024-01-09 10:49:47,2024-04-16 16:14:32,998413,SIVU POUR LA QUALITE DE LA VIE DES PERSONNES
+7 - Mobile,Business Smartphone 1 Go,12.0,19.0,228.0,,2022-01-24 11:30:53,2024-04-16 16:14:32,998413,SIVU POUR LA QUALITE DE LA VIE DES PERSONNES
+1 - Licenses and options,Licence Utilisateur Téléphonie Hébergée et Fibre Optique Mutualisée,172.0,1.0,172.0,,2021-04-27 11:01:47,2022-02-04 11:46:55,828833,SOC EXPLOITATION ALFRED LEMAIRE
+1 - Licenses and options,Remise Licence Utilisateur,-15.5,1.0,-15.5,,2021-04-29 09:20:46,2022-02-04 11:46:55,828833,SOC EXPLOITATION ALFRED LEMAIRE
+7 - Mobile,Forfait Smartphone Réseau Orange ,22.0,1.0,22.0,,2021-04-27 11:01:47,2022-02-04 11:46:55,828833,SOC EXPLOITATION ALFRED LEMAIRE
+1 - Licenses and options,Solution de téléphonie hébergée 8 comptes,104.0,1.0,104.0,,2023-05-15 09:59:33,2023-05-15 09:59:33,333446,SOCIETE D'EXPERTISE COMPTABLE VERLOO ET ASSOCIES (site principal)
+3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,55.0,1.0,55.0,Villeneuve d'Ascq Activation le 16.11.2022,2023-05-15 09:59:33,2024-04-16 16:18:50,333446,SOCIETE D'EXPERTISE COMPTABLE VERLOO ET ASSOCIES (site principal)
+7 - Mobile,Business Voix et SMS,7.5,1.0,7.5,,2023-05-15 09:59:33,2023-06-12 12:06:47,333446,SOCIETE D'EXPERTISE COMPTABLE VERLOO ET ASSOCIES (site principal)
+1 - Licenses and options,Abonnement DETOXIO 101-200 IP,86.25,1.0,86.25,,2022-05-30 10:04:01,2022-06-01 17:03:16,1067569,SOCIETE D'EXPLOITATION DE LILLE GRAND PALAIS
+1 - Licenses and options,Abonnement équipements protégés,0.75,164.0,123.0,,2022-05-30 10:04:01,2022-06-01 17:03:16,1067569,SOCIETE D'EXPLOITATION DE LILLE GRAND PALAIS
+1 - Licenses and options,Licence CELANER 101-200 IP,32.5,1.0,32.5,,2022-05-30 10:04:01,2022-06-01 17:03:16,1067569,SOCIETE D'EXPLOITATION DE LILLE GRAND PALAIS
+3 - Access links,Accès Internet - Fibre Dédiée FTTO - 1Gb - Symétrique et garanti,359.0,1.0,359.0,,2018-09-24 16:29:35,2024-04-16 16:21:24,388796,SOCIETE GENERALE D'ELECTRICITE OLCZAK
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,15.0,1.0,15.0,,2018-09-24 16:29:35,2024-04-16 16:21:24,388796,SOCIETE GENERALE D'ELECTRICITE OLCZAK
+7 - Mobile,"Forfait Business Smartphone Data - réseau Orange - ""chantiers""",9.9,4.0,39.6,,2022-10-17 14:55:41,2025-02-06 13:56:27,388796,SOCIETE GENERALE D'ELECTRICITE OLCZAK
+1 - Licenses and options,Contact Expérience - Gestion des appels personnalisés,159.0,1.0,159.0,,2023-07-10 13:58:01,2025-02-28 17:21:36,311868,SOCIETE MICHEL PLATEEL
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,10.0,6.0,60.0,,2021-02-24 16:47:14,2025-02-28 17:21:36,311868,SOCIETE MICHEL PLATEEL
+3 - Access links,Accès Internet - Fibre Dédiée FTTO 100 Mbps,329.0,1.0,329.0,,2024-12-19 13:53:29,2025-02-28 17:21:36,311868,SOCIETE MICHEL PLATEEL
+3 - Access links,Accès Internet Mobile 4G de secours - Réseau Orange,15.0,1.0,15.0,,2024-12-19 13:53:29,2025-02-28 17:21:36,311868,SOCIETE MICHEL PLATEEL
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.8,5.0,4.0,,2023-07-10 13:58:01,2025-02-28 17:21:36,311868,SOCIETE MICHEL PLATEEL
+7 - Mobile,Abonnement Ligne Alarme,6.0,1.0,6.0,,2017-10-26 17:34:32,2025-02-28 17:21:36,311868,SOCIETE MICHEL PLATEEL
+7 - Mobile,Business Smartphone 20 Go,22.0,3.0,66.0,,2024-08-22 09:06:31,2025-02-28 17:21:36,311868,SOCIETE MICHEL PLATEEL
+7 - Mobile,Business Smartphone 50 Go,26.0,1.0,26.0,,2024-08-22 09:06:31,2025-02-28 17:21:36,311868,SOCIETE MICHEL PLATEEL
+7 - Mobile,Business Voix et SMS,9.5,1.0,9.5,,2019-10-30 15:38:18,2025-02-28 17:21:36,311868,SOCIETE MICHEL PLATEEL
+1 - Licenses and options,Licence Sunbren HOME,59.0,2.0,118.0,,2022-04-29 16:54:22,2025-05-20 10:45:26,692023,SORRIAUX TP
+7 - Mobile,Business Smartphone 20 Go,24.0,9.0,216.0,,2023-03-28 10:28:06,2025-05-20 10:45:27,692023,SORRIAUX TP
+7 - Mobile,Business Smartphone 50 Go,29.0,2.0,58.0,,2023-03-28 10:28:06,2025-05-20 10:45:27,692023,SORRIAUX TP
+7 - Mobile,Business Voix et SMS,9.0,6.0,54.0,,2023-03-28 10:28:06,2025-05-20 10:45:27,692023,SORRIAUX TP
+7 - Mobile,Remise ambassadeur,-32.8,1.0,-32.8,,2023-06-15 16:45:02,2025-05-20 10:45:27,692023,SORRIAUX TP
+1 - Licenses and options,Avantage Multi-offre,-3.83,1.0,-3.83,,2024-11-28 16:18:56,2024-11-28 16:18:56,1382900,STRATEGE PLUS CONSTRUCTION
+1 - Licenses and options,Licence Téléphonie Hébergée,12.0,4.0,48.0,,2024-11-28 16:18:56,2024-11-28 16:18:56,1382900,STRATEGE PLUS CONSTRUCTION
+4 - Numbers and portabilities,Sélection Directe à l'arrivée (SDA),0.6,5.0,3.0,,2024-11-28 16:18:56,2024-11-28 16:18:56,1382900,STRATEGE PLUS CONSTRUCTION
+7 - Mobile,Business Smartphone 20 Go,25.0,3.0,75.0,,2024-01-08 15:21:04,2024-12-27 14:06:20,1382900,STRATEGE PLUS CONSTRUCTION
+7 - Mobile,Business Smartphone 50 Go,30.0,1.0,30.0,,2024-03-18 15:46:51,2024-11-21 16:33:24,1382900,STRATEGE PLUS CONSTRUCTION
+7 - Mobile,Remise Parc supérieur à 10 lignes -5 % sur les abonnements,-5.25,1.0,-5.25,,2024-03-18 15:46:51,2024-12-27 14:06:20,1382900,STRATEGE PLUS CONSTRUCTION
+1 - Licenses and options,Avantage Multi-offre 7.5%,-1.94,1.0,-1.94,,2024-11-28 16:12:46,2024-11-28 16:12:46,1328108,STRATEGE PLUS ET ASSOCIES
+1 - Licenses and options,Licence Téléphonie Hébergée,12.0,2.0,24.0,,2024-11-28 16:12:46,2024-11-28 16:12:46,1328108,STRATEGE PLUS ET ASSOCIES
+1 - Licenses and options,8 adresses IP publique IPV4,24.0,1.0,24.0,,2024-11-28 16:03:28,2024-11-28 16:03:28,1328108,STRATEGE PLUS ET ASSOCIES
+3 - Access links,Accès Internet - Fibre dédiée - 100 Mbps symétrique,275.0,1.0,275.0,,2024-11-28 14:05:31,2024-11-28 16:03:28,1328108,STRATEGE PLUS ET ASSOCIES
+4 - Numbers and portabilities,Sélection Directe à l'arrivée (SDA),0.6,3.0,1.8,,2024-11-28 16:12:46,2024-11-28 16:12:46,1328108,STRATEGE PLUS ET ASSOCIES
+6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2024-11-28 14:05:31,2024-11-28 16:03:28,1328108,STRATEGE PLUS ET ASSOCIES
+7 - Mobile,Remise Parc supérieur à 10 lignes -5 % sur les abonnements,-1.25,3.0,-3.75,,2024-01-15 12:13:00,2025-02-17 14:14:03,1328108,STRATEGE PLUS ET ASSOCIES
+7 - Mobile,Business Smartphone 20 Go,25.0,3.0,75.0,,2024-10-08 09:57:56,2025-02-17 14:14:03,1328108,STRATEGE PLUS ET ASSOCIES
+8 - Various,Avantage ambassadeur,-21.0,1.0,-21.0,,2024-11-28 14:05:31,2024-11-28 16:03:28,1328108,STRATEGE PLUS ET ASSOCIES
+3 - Access links,Accès Internet - Fibre Dédiée FTTO 100 Mbps,279.0,1.0,279.0,,2025-01-30 09:32:51,2025-01-30 09:32:51,716458,TECOBAT
+6 - Hardware,Routeur Internet - Fbre Dédiée,3.0,1.0,3.0,,2025-01-30 09:32:51,2025-01-30 09:32:51,716458,TECOBAT
+7 - Mobile,Business Smartphone 1 Go,12.0,7.0,84.0,,2024-06-21 10:54:17,2024-11-12 13:36:36,716458,TECOBAT
+7 - Mobile,Business Smartphone 20 Go,24.0,6.0,144.0,,2022-06-24 14:08:07,2024-11-12 09:08:19,716458,TECOBAT
+7 - Mobile,Business Smartphone 5 Go,18.0,12.0,216.0,,2020-08-11 09:16:33,2024-11-12 09:08:19,716458,TECOBAT
+7 - Mobile,Business Smartphone 50 Go,34.0,1.0,34.0,,2023-02-21 09:26:35,2024-11-12 09:08:19,716458,TECOBAT
+7 - Mobile,Business Smartphone 20 Go,25.0,1.0,25.0,,2023-06-26 14:01:52,2024-04-16 16:54:25,1279260,THELLIER ISABELLE
+1 - Licenses and options,Fax2Mail - 03.27.98.00.16,9.0,1.0,9.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+1 - Licenses and options,Fax2Mail - 03.27.99.00.87,9.0,1.0,9.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+1 - Licenses and options,Fax2Mail Mail2Fax - 03.27.91.88.59,12.0,1.0,12.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+1 - Licenses and options,Licence téléphonique Dainville intégrée sur la plateforme THEYS,20.0,1.0,20.0,Site Dainville,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+1 - Licenses and options,Licence téléphonique La Gorgue intégrée sur la plateforme THEYS,20.0,2.0,40.0,Site La Gorgue,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+1 - Licenses and options,Licence utilisateur Service R.H + SDA + Poste T42,20.0,1.0,20.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+1 - Licenses and options,Option Numéro Gold,15.0,1.0,15.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+1 - Licenses and options,Adresses IP Supplémentaires,3.5,3.0,10.5,,2024-10-31 08:46:59,2024-12-19 12:02:25,369627,THEYS INVESTISSEMENTS (site principal)
+1 - Licenses and options,Bloc de 8 adresses IP Fixe - Site CUINCY,28.0,1.0,28.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+1 - Licenses and options,Cloud Firewall - Coeur de réseau MPLS,25.0,10.0,250.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+2 - Telephone lines,Numéro à valeur ajoutée,25.0,1.0,25.0,0.805.296.666,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+2 - Telephone lines,Trunk,150.0,1.0,150.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Fibre Optique Dédiée FTTO - 1Gbps - DOUAI,619.0,1.0,619.0,Nouveau Site,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Fibre Optique FTTH - DOUAI,59.0,1.0,59.0,Nouveau Site,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Abonnement 4G - Réseau Orange Enveloppe de 20 Go - SOMAIN / LA GORGUE / GAVRELLE / VALENCIENNES,25.0,4.0,100.0,Site Somain / La Gorgue / Cuincy 2 / Valenciennes,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,"Abonnement 4G - Réseau Orange Enveloppe de 50 Go (DOUAI, CUINCY, LALLAING)",39.0,3.0,117.0,Sites DOUAI- CUINCY- LALLAING,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Fibre Optique Dédiée - BPE ACCESS - GAVRELLE,449.0,1.0,449.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Fibre Optique Dédiée FTTO - 100 Mbps - DOUAI,439.0,1.0,439.0,Site DOUAI,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Fibre Optique Dédiée FTTO - 100 Mbps - LALLAING,439.0,1.0,439.0,SITE LALLAING,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Fibre Optique Dédiée FTTO - 100 Mbps - SOMAIN,439.0,1.0,439.0,Site SOMAIN,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Fibre Optique Dédiée FTTO - 1000 Mbps - CUINCY,790.0,1.0,790.0,Site CUINCY,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Fibre Optique FTTH - DANVILLE,59.0,1.0,59.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Fibre Optique FTTH - LA GORGUE,59.0,1.0,59.0,Site La Gorgue,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Fibre Optique FTTH - VALENCIENNES,79.0,1.0,79.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+3 - Access links,Routeur Fibre FTTH - DAINVILLE,10.0,1.0,10.0,Site Dainville,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+4 - Numbers and portabilities,Reprise SDA - 03.27.91.88.59,0.9,1.0,0.9,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+4 - Numbers and portabilities,Reprise SDA - 03.27.98.00.16,0.9,1.0,0.9,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+4 - Numbers and portabilities,Reprise SDA - 03.27.98.77.38,0.9,1.0,0.9,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+4 - Numbers and portabilities,Reprise SDA - 03.27.99.00.59,0.9,1.0,0.9,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+4 - Numbers and portabilities,Reprise SDA - 03.27.99.00.87,0.9,1.0,0.9,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+4 - Numbers and portabilities,SDA Supplémentaire,0.9,2.0,1.8,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+6 - Hardware,Routeur Optique FTTH - DOUAI,10.0,1.0,10.0,Nouveau Site,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+6 - Hardware,Routeur Optique FTTO - DOUAI,10.0,1.0,10.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+6 - Hardware,Routeur 4G,5.0,7.0,35.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+6 - Hardware,Routeur Fibre FTTH - VALENCIENNES,10.0,1.0,10.0,,2024-10-31 08:46:59,2024-12-19 12:02:25,369627,THEYS INVESTISSEMENTS (site principal)
+6 - Hardware,Routeur Fibre Optique - GAVRELLE,10.0,1.0,10.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+6 - Hardware,Routeur Optique FTTH - LA GORGUE,10.0,1.0,10.0,,2024-10-31 08:46:59,2024-10-31 08:46:59,369627,THEYS INVESTISSEMENTS (site principal)
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2020-01-24 17:06:42,2025-04-28 08:15:08,635156,TITOY RESTAURATION
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,2.0,30.0,,2020-01-24 17:06:42,2025-04-28 08:15:08,635156,TITOY RESTAURATION
+1 - Licenses and options,Service mensuel du point d'accès wifi,3.5,4.0,14.0,,2023-04-14 17:00:54,2025-04-28 08:15:08,635156,TITOY RESTAURATION
+3 - Access links,Fibre FTTH + routeur,59.0,1.0,59.0,,2021-07-02 09:26:15,2025-04-28 08:15:08,635156,TITOY RESTAURATION
+4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.55,2.0,1.1,,2020-01-24 17:06:42,2025-04-28 08:15:08,635156,TITOY RESTAURATION
+7 - Mobile,LIGNE ALARME,10.0,1.0,10.0,,2019-12-23 10:17:19,2023-04-14 17:01:50,635156,TITOY RESTAURATION
+7 - Mobile,Routeur 4G Back Up + routeur,25.0,1.0,25.0,,2021-07-02 09:26:15,2025-04-28 08:15:08,635156,TITOY RESTAURATION
+1 - Licenses and options,Coeur de système avancé,84.0,1.0,84.0,,2023-03-21 09:08:55,2023-03-21 09:12:45,664767,TPF UTILITIES
+1 - Licenses and options,Licence Utilisateur,15.0,3.0,45.0,,2020-06-17 16:44:55,2023-03-21 09:08:55,664767,TPF UTILITIES
+4 - Numbers and portabilities,S.D.A,0.5,4.0,2.0,,2020-06-17 16:44:55,2023-03-21 09:08:55,664767,TPF UTILITIES
+7 - Mobile,Business Smartphone 1 Go,14.5,19.0,275.5,,2022-12-23 16:21:09,2024-08-16 10:35:38,664767,TPF UTILITIES
+7 - Mobile,Business Smartphone 20 Go,21.0,9.0,189.0,,2022-02-28 09:17:42,2024-10-31 11:05:40,664767,TPF UTILITIES
+7 - Mobile,Business Smartphone 5 Go,17.5,26.0,455.0,,2021-11-05 11:38:18,2024-10-31 11:05:40,664767,TPF UTILITIES
+7 - Mobile,Business Smartphone 20 Go,12.1,2.0,24.2,,2024-07-01 08:52:38,2024-07-01 08:52:38,1531856,TRACHE Caroline
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2023-10-31 13:03:51,2023-10-31 13:03:51,448671,TRANSPORTS M.D.S
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,2.0,30.0,,2023-10-31 13:03:51,2023-10-31 13:03:51,448671,TRANSPORTS M.D.S
+4 - Numbers and portabilities,Numéro direct -SDA supplémentaire,0.8,1.0,0.8,,2023-10-31 13:03:51,2023-10-31 13:03:51,448671,TRANSPORTS M.D.S
+5 - Service Pack,Sauvegarde cloud privé,70.0,1.0,70.0,,2022-12-10 12:35:52,2022-12-10 12:35:52,448671,TRANSPORTS M.D.S
+7 - Mobile,Busines Smartphone 1 Go - Orange,11.0,1.0,11.0,,2023-12-14 13:46:11,2023-12-14 13:46:11,448671,TRANSPORTS M.D.S
+7 - Mobile,Busines Smartphone 50 Go - Orange,30.0,2.0,60.0,,2023-12-14 13:46:11,2024-04-29 14:07:28,448671,TRANSPORTS M.D.S
+1 - Licenses and options,Bloc 4 adresses IP pour Firewal informatique,16.0,1.0,16.0,,2021-05-31 15:53:30,2021-08-18 20:03:56,631590,TRANSPORTS MARCHAND
+1 - Licenses and options,Fax2Mail Mail2Fax ,10.0,1.0,10.0,,2021-04-19 17:18:02,2021-08-18 20:03:56,631590,TRANSPORTS MARCHAND
+1 - Licenses and options,Licence Utilisateur,10.0,7.0,70.0,,2021-04-07 17:02:03,2021-08-18 20:03:56,631590,TRANSPORTS MARCHAND
+2 - Telephone lines,Ligne Analogique ,16.9,1.0,16.9,,2021-04-13 16:22:52,2021-08-18 20:03:56,631590,TRANSPORTS MARCHAND
+3 - Access links,Abonnement Fibre FTTH,79.0,1.0,79.0,,2021-03-31 09:05:22,2021-08-18 20:03:56,631590,TRANSPORTS MARCHAND
+7 - Mobile,Business Smartphone 20 Go,25.0,4.0,100.0,,2020-01-03 14:29:08,2024-06-28 09:21:10,631590,TRANSPORTS MARCHAND
+7 - Mobile,Business Smartphone 50 Go,34.0,1.0,34.0,,2024-06-28 09:21:10,2024-06-28 09:21:10,631590,TRANSPORTS MARCHAND
+7 - Mobile,Forfait Illimités Voix SMS MMS,9.0,7.0,63.0,,2020-01-03 14:29:08,2024-06-13 14:44:53,631590,TRANSPORTS MARCHAND
+1 - Licenses and options,Hébergement standard,20.0,1.0,20.0,,2023-10-09 14:10:49,2023-11-21 13:50:44,477149,TRANSPORTS MILLEVILLE
+2 - Telephone lines,Licence Téléphonie Hébergée + Softphone Doko,12.0,8.0,96.0,,2019-01-30 11:04:33,2024-06-24 13:40:25,477149,TRANSPORTS MILLEVILLE
+4 - Numbers and portabilities,S.D.A,0.6,13.0,7.8,,2019-01-30 11:04:33,2024-06-24 13:40:25,477149,TRANSPORTS MILLEVILLE
+5 - Service Pack,Fax to mail,12.0,1.0,12.0,,2023-11-30 11:10:01,2023-11-30 11:10:01,477149,TRANSPORTS MILLEVILLE
+5 - Service Pack,IP Fixe,15.0,1.0,15.0,,2019-03-28 11:49:42,2023-11-21 13:50:44,477149,TRANSPORTS MILLEVILLE
+6 - Hardware,Casque Jabra,6.1,3.0,18.3,,2023-10-09 14:14:05,2024-06-24 13:40:25,477149,TRANSPORTS MILLEVILLE
+6 - Hardware,Poste Yealink T54 W avec alimentation,4.5,7.0,31.5,,2023-10-09 14:14:05,2024-06-24 13:40:25,477149,TRANSPORTS MILLEVILLE
+6 - Hardware,Poste Yealink sans fil W73P,3.7,1.0,3.7,,2023-10-09 14:14:05,2023-11-21 13:50:44,477149,TRANSPORTS MILLEVILLE
+7 - Mobile,Business Smartphone 50 Go,30.0,3.0,90.0,,2023-11-13 09:15:13,2023-11-21 13:50:44,477149,TRANSPORTS MILLEVILLE
+2 - Telephone lines,Centrex 1 licence / Soft phone Doko,56.6,1.0,56.6,,2018-10-10 09:00:21,2023-10-23 11:42:52,440257,TRANSPORTS PHILIPPE GALLET
+7 - Mobile,Business Illimités VOIX SMS MMS,12.0,3.0,36.0,,2021-09-06 17:53:35,2021-10-29 09:45:39,440257,TRANSPORTS PHILIPPE GALLET
+7 - Mobile,Smartphone Business 10Go,28.0,2.0,56.0,,2018-09-20 16:18:43,2019-05-14 14:53:42,440257,TRANSPORTS PHILIPPE GALLET
+7 - Mobile,Smartphone Business 5Go,25.0,6.0,150.0,,2018-09-20 16:18:43,2021-10-29 09:45:39,440257,TRANSPORTS PHILIPPE GALLET
+1 - Licenses and options,Cloud Firewall Standard,24.0,1.0,24.0,,2025-03-17 15:59:27,2025-03-17 15:59:27,548545,TRANSPORTS ROSE XAVIER
+2 - Telephone lines,Licence illimitée coeur de réseau,10.0,2.0,20.0,,2019-06-21 09:09:10,2025-03-11 12:24:39,548545,TRANSPORTS ROSE XAVIER
+2 - Telephone lines,Licence site,5.0,1.0,5.0,,2019-06-21 09:09:10,2025-03-11 12:24:39,548545,TRANSPORTS ROSE XAVIER
+3 - Access links,Fibre FTTH Roost warendin,59.0,1.0,59.0,,2019-10-07 09:27:50,2025-03-11 12:24:39,548545,TRANSPORTS ROSE XAVIER
+3 - Access links,Pool adresse IPV4 VPN,16.0,1.0,16.0,,2023-07-03 17:27:07,2025-03-11 12:24:39,548545,TRANSPORTS ROSE XAVIER
+4 - Numbers and portabilities,SDA,0.7,2.0,1.4,,2019-06-21 09:09:10,2025-03-11 12:24:39,548545,TRANSPORTS ROSE XAVIER
+6 - Hardware,Routeur Fibre,5.0,1.0,5.0,,2019-10-07 09:27:50,2025-03-11 12:24:39,548545,TRANSPORTS ROSE XAVIER
+7 - Mobile,Business Smartphone 1 Go,11.0,1.0,11.0,,2024-06-18 14:36:09,2025-03-11 12:24:39,548545,TRANSPORTS ROSE XAVIER
+7 - Mobile,Business Smartphone 100 Go,45.0,1.0,45.0,,2023-04-28 13:00:32,2025-03-11 12:24:39,548545,TRANSPORTS ROSE XAVIER
+7 - Mobile,Business Smartphone 50 Go,29.0,2.0,58.0,,2023-04-28 13:00:32,2025-03-11 12:24:39,548545,TRANSPORTS ROSE XAVIER
+7 - Mobile,Avantage Parc > 50 lignes,-99.97,1.0,-99.97,,2023-12-28 15:09:07,2025-05-19 10:15:20,523634,VADE SECURE
+7 - Mobile,Business Smartphone 1 Go,11.0,2.0,22.0,,2023-12-21 11:32:15,2025-05-19 10:15:20,523634,VADE SECURE
+7 - Mobile,Business Smartphone 20 Go,23.0,57.0,1311.0,,2019-04-01 17:04:50,2025-05-09 15:38:19,523634,VADE SECURE
+1 - Licenses and options,Licence Utilisateur,15.0,5.0,75.0,,2022-03-28 10:28:02,2022-05-16 09:25:32,496337,VEREECQUE PARCS ET JARDINS
+1 - Licenses and options,Remise S.V.I.,-10.0,1.0,-10.0,,2022-11-07 17:15:30,2022-11-07 17:15:30,496337,VEREECQUE PARCS ET JARDINS
+4 - Numbers and portabilities,Numéro Direct SDA,1.0,5.0,5.0,,2022-03-28 10:28:02,2022-05-16 09:25:32,496337,VEREECQUE PARCS ET JARDINS
+8 - Various,Remise Partenariat N'Co Services - ex G2S,-10.0,1.0,-10.0,,2022-03-28 10:28:02,2022-05-16 09:25:32,496337,VEREECQUE PARCS ET JARDINS
+1 - Licenses and options,Application Softphone Doko,5.0,1.0,5.0,,2024-01-09 16:18:01,2024-04-15 14:48:32,1370788,WCMIA
+1 - Licenses and options,Hébergement Coeur de système - Téléphonie IP,19.5,1.0,19.5,,2024-01-09 16:18:01,2024-04-15 14:48:32,1370788,WCMIA
+1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,12.0,1.0,12.0,,2024-01-09 16:18:01,2024-04-15 14:48:32,1370788,WCMIA
+7 - Mobile,Business Smartphone 1 Go,12.0,1.0,12.0,,2024-06-24 09:06:02,2024-07-02 16:17:10,1539364,Xavier MILLON
+7 - Mobile,Remise commerciale,-5.0,1.0,-5.0,,2024-06-24 09:06:02,2024-07-02 16:17:10,1539364,Xavier MILLON

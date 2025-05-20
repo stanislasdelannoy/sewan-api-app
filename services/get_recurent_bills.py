@@ -3,21 +3,22 @@ import sys
 import json
 import pandas as pd
 from datetime import datetime
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 # ############################
 # Variables d'environnements
 # ############################
 
-API_URL = "https://api.sewan.fr/sophia/SophiaFramework/jsongateway"
-USER_AGENT = 'NCO SERVICES API'
-TOKEN_API = '01b1b2952c0a7c55119f6964e03761ccdbcc68f1543e4788c0023e409ff7884d'
-
-PERSON_ID = 95848
+API_URL = os.getenv("API_URL")
+USER_AGENT = os.getenv("USER_AGENT")
+TOKEN_API = os.getenv("TOKEN_API")
+PERSON_ID = int(os.getenv("PERSON_ID", 0))
 
 CUSTOMMER_ID = 902143
-
 BILL_ID = 25013101
-
 SEARCH_ID =2
 
 headers = {
@@ -261,7 +262,7 @@ def clean_df(df):
         df = df.to_frame()
 
     # Export csv
-    df.to_csv('../outputs/fixed_costs.csv', index=False)
+    df.to_csv('./fixed_costs.csv', index=False)
 
     return df
 
