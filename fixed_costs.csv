@@ -72,7 +72,7 @@ family_combined,name,cost_unit,qtt,cost,description,creation_date,modification_d
 5 - Service Pack,Maintenance mensuelle Point accès wifi,3.5,2.0,7.0,,2021-10-02 11:52:34,2024-07-09 10:45:54,902143,AFR - ACCUEIL DE JOUR SAMAIN
 5 - Service Pack,Maintenance mensuelle switch,15.0,1.0,15.0,,2021-10-02 11:52:34,2022-09-20 17:02:33,902143,AFR - ACCUEIL DE JOUR SAMAIN
 6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-08-26 14:53:02,2024-03-26 10:57:45,902143,AFR - ACCUEIL DE JOUR SAMAIN
-7 - Mobile,Business Smartphone 20 Go,21.0,6.0,126.0,,2022-09-22 14:29:09,2024-03-26 10:52:51,902143,AFR - ACCUEIL DE JOUR SAMAIN
+7 - Mobile,Business Smartphone 20 Go,21.0,5.0,105.0,,2022-09-22 14:29:09,2025-05-20 11:32:50,902143,AFR - ACCUEIL DE JOUR SAMAIN
 1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,,2021-09-23 11:06:30,2024-03-26 11:00:12,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
 1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-23 11:06:30,2024-03-26 11:22:29,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
 3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-07-19 15:34:22,2024-03-26 11:00:12,902162,AFR - ACCUEIl FEMMES BEAUREPAIRE
@@ -90,7 +90,6 @@ family_combined,name,cost_unit,qtt,cost,description,creation_date,modification_d
 3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-12-01 17:07:44,2024-07-09 10:17:27,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
 4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,4.0,2.4,,2021-10-07 16:19:50,2024-07-09 10:15:43,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
 6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,2.0,10.0,,2021-12-01 17:07:44,2024-07-09 10:17:27,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
-7 - Mobile,Business Smartphone 1 Go,11.0,1.0,11.0,,2024-07-01 10:31:18,2024-07-09 10:17:27,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
 7 - Mobile,Business Smartphone 20 Go,21.0,2.0,42.0,,2022-09-22 14:35:39,2024-07-09 10:17:27,902152,AFR - ACCUEIL FEMMES NATIONS UNIES
 1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,,2021-09-23 10:35:56,2024-03-26 11:04:17,902166,AFR - ACCUEIL FEMMES PROGRES PILE
 1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-23 10:35:56,2024-03-26 11:21:26,902166,AFR - ACCUEIL FEMMES PROGRES PILE
@@ -100,7 +99,6 @@ family_combined,name,cost_unit,qtt,cost,description,creation_date,modification_d
 3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-08-31 18:04:44,2024-07-09 10:19:42,902166,AFR - ACCUEIL FEMMES PROGRES PILE
 4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,1.0,0.6,,2021-09-23 10:35:56,2024-03-26 11:04:17,902166,AFR - ACCUEIL FEMMES PROGRES PILE
 6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-08-31 18:04:44,2024-07-09 10:19:42,902166,AFR - ACCUEIL FEMMES PROGRES PILE
-7 - Mobile,Business Smartphone 1 Go,11.0,1.0,11.0,,2022-09-22 14:46:11,2024-03-26 11:04:17,902166,AFR - ACCUEIL FEMMES PROGRES PILE
 7 - Mobile,Business Smartphone 20 Go,21.0,1.0,21.0,,2022-09-22 14:46:11,2024-03-26 11:04:17,902166,AFR - ACCUEIL FEMMES PROGRES PILE
 3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-07-29 14:48:51,2024-03-26 11:04:52,902158,AFR - AFR FEMMES GRANDE RUE
 3 - Access links,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-10-02 12:10:57,2024-03-26 11:21:02,902158,AFR - AFR FEMMES GRANDE RUE
@@ -125,11 +123,10 @@ family_combined,name,cost_unit,qtt,cost,description,creation_date,modification_d
 1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-24 10:17:29,2024-03-26 11:20:02,902175,AFR - ARMENTIERES SCHUMAN
 1 - Licenses and options,Maintenance mensuelle Point accès wifi,3.5,3.0,10.5,,2021-10-14 16:20:25,2024-07-09 10:47:19,902175,AFR - ARMENTIERES SCHUMAN
 1 - Licenses and options,Maintenance mensuelle réseau switch,15.0,1.0,15.0,,2021-10-14 16:20:25,2023-06-29 13:55:36,902175,AFR - ARMENTIERES SCHUMAN
-1 - Licenses and options,Licence SUNBREN,15.0,9.0,135.0,,2021-07-30 10:43:13,2025-02-03 09:47:11,902175,AFR - ARMENTIERES SCHUMAN
+1 - Licenses and options,Licence SUNBREN,15.0,10.0,150.0,,2021-07-30 10:43:13,2025-05-20 11:41:29,902175,AFR - ARMENTIERES SCHUMAN
 3 - Access links,Accès Internet - Fibre Mutualisée FTTH - 1 Gbps Max,54.0,1.0,54.0,,2021-07-09 11:47:52,2024-03-26 11:08:35,902175,AFR - ARMENTIERES SCHUMAN
 4 - Numbers and portabilities,Numéro direct - SDA supplémentaire,0.6,2.0,1.2,,2021-09-24 10:17:29,2024-03-26 11:08:35,902175,AFR - ARMENTIERES SCHUMAN
 6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2021-07-09 11:47:52,2024-03-26 11:08:35,902175,AFR - ARMENTIERES SCHUMAN
-7 - Mobile,Business Smartphone 1 Go,11.0,1.0,11.0,,2023-06-29 14:01:10,2024-03-26 11:08:35,902175,AFR - ARMENTIERES SCHUMAN
 1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,,2021-09-24 10:02:05,2024-07-09 10:31:45,902169,AFR - HU FEMMES TOURCOING GAMBETTA
 1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-24 10:02:05,2024-07-09 10:31:45,902169,AFR - HU FEMMES TOURCOING GAMBETTA
 1 - Licenses and options,Maintenance mensuelle borne wifi,3.5,1.0,3.5,,2021-10-14 16:33:41,2024-07-09 10:31:45,902169,AFR - HU FEMMES TOURCOING GAMBETTA
@@ -156,9 +153,8 @@ family_combined,name,cost_unit,qtt,cost,description,creation_date,modification_d
 6 - Hardware,Location Routeur FTTO,15.0,1.0,15.0,,2024-10-14 13:44:24,2024-10-14 13:44:24,748445,AFR - SIEGE
 6 - Hardware,Routeur Internet 5G Backup Secourur,24.0,2.0,48.0,,2024-09-23 09:55:49,2024-09-23 09:55:49,748445,AFR - SIEGE
 6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2022-09-13 09:21:28,2024-07-09 10:36:30,748445,AFR - SIEGE
-7 - Mobile,Business Smartphone 1 Go,11.0,12.0,132.0,,2022-09-22 14:56:18,2024-11-25 11:10:44,748445,AFR - SIEGE
-7 - Mobile,Business Smartphone 20 Go,21.0,14.0,294.0,,2022-09-22 14:53:10,2024-10-14 09:53:07,748445,AFR - SIEGE
-7 - Mobile,Business Voix et SMS,9.0,1.0,9.0,,2021-12-07 15:33:16,2024-07-09 10:36:30,748445,AFR - SIEGE
+7 - Mobile,Business Smartphone 1 Go,11.0,9.0,99.0,,2022-09-22 14:56:18,2025-05-20 11:22:42,748445,AFR - SIEGE
+7 - Mobile,Business Smartphone 20 Go,21.0,13.0,273.0,,2022-09-22 14:53:10,2025-05-20 11:23:23,748445,AFR - SIEGE
 1 - Licenses and options,Licence utilisateur - Illimité F/M France et 70 destinations,15.0,1.0,15.0,,2021-09-27 14:27:19,2024-07-09 10:38:22,902185,AFR - TANNERIE
 1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,24.0,1.0,24.0,,2021-09-27 14:27:19,2024-07-09 10:38:22,902185,AFR - TANNERIE
 1 - Licenses and options,Maintenance mensuelle Point accès wifi,3.5,1.0,3.5,,2021-12-17 10:10:53,2024-07-09 10:48:41,902185,AFR - TANNERIE
@@ -174,7 +170,6 @@ family_combined,name,cost_unit,qtt,cost,description,creation_date,modification_d
 5 - Service Pack,Maintenance mensuelle Point accès wifi,3.5,4.0,14.0,,2022-07-27 12:06:51,2024-07-09 10:49:02,902184,AFR - VILLON
 5 - Service Pack,Maintenance mensuelle réseau switch,15.0,1.0,15.0,,2022-07-27 12:06:09,2022-10-29 08:37:14,902184,AFR - VILLON
 6 - Hardware,Routeur Internet - Supervision - Compatible VRRP,5.0,1.0,5.0,,2022-03-28 15:33:40,2024-03-26 11:27:35,902184,AFR - VILLON
-7 - Mobile,Business Smartphone 20 Go,21.0,1.0,21.0,,2022-09-22 15:10:30,2024-03-26 11:27:35,902184,AFR - VILLON
 1 - Licenses and options,Application Softphone Doko,0.0,1.0,0.0,,2019-03-28 14:18:18,2024-03-26 11:45:03,516404,AGENCE DE PAPIERS DE PRESSE
 2 - Telephone lines,Hébergement Coeur de système - Téléphonie IP,25.0,1.0,25.0,,2019-03-28 14:18:18,2024-10-07 12:56:45,516404,AGENCE DE PAPIERS DE PRESSE
 2 - Telephone lines,Licence utilisateur - Illimité F/M France et 70 destinations,12.5,4.0,50.0,,2019-03-28 14:18:18,2024-11-29 10:59:26,516404,AGENCE DE PAPIERS DE PRESSE
@@ -563,9 +558,9 @@ family_combined,name,cost_unit,qtt,cost,description,creation_date,modification_d
 1 - Licenses and options,Pack Téléphonie Hébergée - 4 Utilisateurs,130.0,1.0,130.0,,2022-09-29 15:59:48,2022-09-29 15:59:48,444462,DIRECT DECOR
 8 - Various,Remise commerciale,-30.0,1.0,-30.0,,2022-09-29 15:59:48,2022-09-29 15:59:48,444462,DIRECT DECOR
 7 - Mobile,Business Smartphone 1 Go,9.0,1.0,9.0,,2023-10-30 16:31:21,2025-01-30 14:14:33,1278361,DISTRIBUTION DIRECTE D USINE
-7 - Mobile,Business Smartphone 20 Go,19.0,3.0,57.0,,2023-11-07 10:30:38,2025-01-30 14:14:33,1278361,DISTRIBUTION DIRECTE D USINE
+7 - Mobile,Business Smartphone 20 Go,19.0,2.0,38.0,,2023-11-07 10:30:38,2025-05-20 11:44:38,1278361,DISTRIBUTION DIRECTE D USINE
 7 - Mobile,Business Smartphone 5 Go,14.0,2.0,28.0,,2023-10-30 16:31:21,2025-01-30 14:14:33,1278361,DISTRIBUTION DIRECTE D USINE
-7 - Mobile,Business Smartphone 50 Go,28.0,1.0,28.0,,2024-03-28 10:12:28,2025-01-30 14:14:33,1278361,DISTRIBUTION DIRECTE D USINE
+7 - Mobile,Business Smartphone 50 Go,28.0,2.0,56.0,,2024-03-28 10:12:28,2025-05-20 11:44:38,1278361,DISTRIBUTION DIRECTE D USINE
 7 - Mobile,Business Smartphone 20 Go,12.5,1.0,12.5,,2024-07-01 09:11:11,2024-07-01 09:11:11,1542979,DOMINIQUE ZORNIG
 1 - Licenses and options,Cloud Firewall - VPN - Coeur de réseau MPLS,25.0,1.0,25.0,,2024-10-31 09:22:26,2024-10-31 09:22:26,1597599,DPMS
 6 - Hardware,Location Routeur Evolution,5.0,1.0,5.0,,2024-10-31 09:22:26,2024-10-31 09:22:26,1597599,DPMS
