@@ -1,7 +1,10 @@
 import streamlit as st
+import sys
+import os
 from components.sidebar import render_sidebar
 from components.date_filters import get_date_filters
 from components.gif_loader import get_random_gif
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
 from services.get_recurent_bills import get_all_fixed_costs, clean_df, validate_date
 import pandas as pd
 
