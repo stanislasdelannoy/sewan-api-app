@@ -1,4 +1,9 @@
 info.txt
 config/settings.py
 .env
-*/pycache
+services/__pycache__/
+services/**/__pycache__/
+components/__pycache__/
+components/**/__pycache__/
+pages/__pycache__/
+pages/**/__pycache__/

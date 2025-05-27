@@ -22,7 +22,7 @@ def demo_search():
 
     print("Search (sophia.service.search.search_unified())... ")
 
-    text_search = "Julien DELOBEL"
+    text_search = "Ferrantelli"
     url = (
         f"{API_URL}?service=sophia.service.Search&method=search_unified&text={text_search}"
     )
@@ -56,4 +56,3 @@ def demo_search():
 
 if __name__ == "__main__":
     demo_search()
-    
