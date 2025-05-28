@@ -32,7 +32,7 @@ def dashboard_page():
                 gif_placeholder = st.empty()
                 random_gif = get_random_gif()
                 if random_gif:
-                    gif_placeholder.image(random_gif, use_container_width=True)
+                    gif_placeholder.image(random_gif, use_column_width=True)
 
                 with st.spinner("Chargement des données..."):
                     try:
