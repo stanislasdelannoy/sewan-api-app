@@ -17,6 +17,9 @@ def dashboard_page():
     # Filtres de dates
     min_date, max_date = get_date_filters()
 
+    st.write(f'date de début : {min_date}')
+    st.write(f'date de fin : {max_date}')
+
     # Bouton pour valider les dates et récupérer les données
     if st.button("Extraire les factures"):
         if not min_date:
@@ -36,7 +39,10 @@ def dashboard_page():
 
                 with st.spinner("Chargement des données..."):
                     try:
-                        all_fixed_costs = get_all_fixed_costs(person_id, min_date, max_date)
+                        if max_date:
+                            all_fixed_costs = get_all_fixed_costs(person_id, min_date, max_date)
+                        else:
+                            all_fixed_costs = get_all_fixed_costs(person_id, min_date)
 
                         if isinstance(all_fixed_costs, pd.DataFrame) and not all_fixed_costs.empty:
                             cleaned_data = clean_df(all_fixed_costs)

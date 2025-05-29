@@ -86,7 +86,7 @@ def get_billing_informations(person_id, date):
         sys.exit(2)
     rjson = response.json()
 
-    print(f"  * Webservice response: {rjson}")
+    # print(f"  * Webservice response: {rjson}")
 
     # Explication en cas d'erreur
     code = int(rjson["code"])
@@ -110,6 +110,7 @@ def get_billing_informations(person_id, date):
 
     df = df[df['status_code'] == 204]
     print(f"  => Filtered DataFrame with {len(df)} rows where 'status_code' == 204.")
+    #
 
     if 'payer_per_id' not in df.columns or 'payer_per_fullname' not in df.columns:
         raise ValueError("Les colonnes 'payer_per_id' et 'payer_per_fullname' sont manquantes dans le DataFrame.")
@@ -201,6 +202,7 @@ def get_all_fixed_costs(person_id, min_date='', max_date=''):
     # Obtenir les ids des clients facturables
     custommers = get_billing_informations(person_id, min_date)
     custommers_df = pd.DataFrame(custommers)
+
 
     # Extraire les IDs et les noms des clients
     custommers_ids = custommers_df['payer_per_id'].tolist()
