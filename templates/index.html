@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Coûts fixes - Export CSV</title>
+     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Exporter les coûts fixes</h1>
+    <form method="POST">
+        <label for="min_date">Date minimale (YYYY-MM-DD):</label>
+        <input type="text" id="min_date" name="min_date" required>
+        <br>
+        <label for="max_date">Date maximale (YYYY-MM-DD):</label>
+        <input type="text" id="max_date" name="max_date">
+        <br>
+        <button type="submit">Charger</button>
+    </form>
+    {% if error %}
+        <p style="color:red;">{{ error }}</p>
+    {% endif %}
+    {% if csv_ready %}
+        <p>
+            <a href="{{ url_for('download') }}">Télécharger le CSV</a>
+        </p>
+    {% endif %}
+</body>
+</html>
