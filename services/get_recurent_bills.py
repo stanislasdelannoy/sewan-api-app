@@ -124,22 +124,12 @@ def get_billing_informations(person_id, date):
 # Get fixed costs for 1 customer
 # ############################
 
-def get_fixed_costs(custommer_id, min_date='', max_date=''):
+def get_fixed_costs(custommer_id):
 
     """
     Obtenir la liste des coûts fixes pour les client donné dans une période donnée
     Retourne un tableau de chaque cout fixé pour chaque client
     """
-
-    # Vérification de la date
-    try:
-        min_date = validate_date(min_date)
-        if max_date:
-            max_date = validate_date(max_date)
-    except ValueError as e:
-        print(e)
-        return pd.DataFrame()
-
 
     post_data = {
         "service": "sophia.service.Billing",
@@ -148,8 +138,6 @@ def get_fixed_costs(custommer_id, min_date='', max_date=''):
         'only_to_punctual_bill': 0,
         'get_punctual': False,
         'get_recurrent': True,
-        'min_date_punctual': min_date,
-        'max_date_punctual': max_date,
     }
 
     # Call API
@@ -190,7 +178,7 @@ def get_fixed_costs(custommer_id, min_date='', max_date=''):
 # Get a dataframe of all fixed costs for a period
 # ############################
 
-def get_all_fixed_costs(person_id, min_date='', max_date=''):
+def get_all_fixed_costs(person_id, min_date=''):
 
     """
     Obtenir la liste des coûts fixes pour les clients donnés dans une période donnée
@@ -209,7 +197,7 @@ def get_all_fixed_costs(person_id, min_date='', max_date=''):
 
     print("Appel au service (sophia.service.Billing.get_fixed_costs()) ...")
     for custommer_id in custommers_ids:
-        fixed_costs_list = get_fixed_costs(custommer_id, min_date, max_date)
+        fixed_costs_list = get_fixed_costs(custommer_id)
 
         fixed_costs_df = pd.DataFrame(fixed_costs_list)
 
@@ -232,7 +220,7 @@ def get_all_fixed_costs(person_id, min_date='', max_date=''):
 # Clean the DataFrame and export
 # ############################
 
-def clean_df(df):
+def clean_df(df, min_date='', max_date=''):
 
     """
     Nettoie le DataFrame en supprimant les colonnes inutiles et en transformant la colonne 'family'.
@@ -254,6 +242,11 @@ def clean_df(df):
     )
 
     df = df.drop(columns=['family'], axis=1)
+
+    if min_date:
+        df = df[df['creation_date'] >= min_date]
+    if max_date:
+        df = df[df['creation_date'] < max_date]
 
     # Preparer le nouvel ordre des colonnes
     new_order = ['family_combined', 'name', 'cost_unit', 'qtt', 'cost', 'description', 'creation_date', 'modification_date', 'billed_person_id', 'customer_name']
@@ -281,13 +274,13 @@ def main():
     try:
         min_date = input("Entrez une date minimale (YYYY-MM-DD) : ")
         max_date = input("Entrez une date maximale (YYYY-MM-DD) ou laissez vide : ")
-        all_fixed_costs = get_all_fixed_costs(person_id, min_date, max_date)
+        all_fixed_costs = get_all_fixed_costs(person_id, min_date)
 
         if isinstance(all_fixed_costs, pd.DataFrame) and not all_fixed_costs.empty:
             print(f"Coûts fixes récupérés : {len(all_fixed_costs)} lignes.")
 
             # Exporter les coûts fixes en CSV
-            clean_df(all_fixed_costs)
+            clean_df(all_fixed_costs, min_date, max_date)
             print("Les coûts fixes ont été exportés dans 'fixed_costs.csv'.")
         else:
             print("Aucun coût fixe trouvé.")

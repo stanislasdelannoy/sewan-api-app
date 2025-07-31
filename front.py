@@ -9,12 +9,22 @@ def index():
     csv_ready = False
     error = None
     if request.method == "POST":
-        min_date = request.form.get("min_date")
-        max_date = request.form.get("max_date")
+        min_year = request.form.get("min_year")
+        min_month = request.form.get("min_month")
+        min_day = request.form.get("min_day")
+        max_year = request.form.get("max_year")
+        max_month = request.form.get("max_month")
+        max_day = request.form.get("max_day")
+
+        min_date = f"{min_year}-{min_month}-{min_day}"
+        if max_year and max_month and max_day:
+            max_date = f"{max_year}-{max_month}-{max_day}"
+        else:
+            max_date = ""
         try:
-            df = get_all_fixed_costs(PERSON_ID, min_date, max_date)
+            df = get_all_fixed_costs(PERSON_ID, min_date)
             if not df.empty:
-                clean_df(df)  # Génère le CSV
+                clean_df(df, min_date, max_date)  # Génère le CSV
                 csv_ready = True
             else:
                 error = "Aucun coût fixe trouvé pour cette période."

@@ -8,11 +8,42 @@
 <body>
     <h1>Exporter les coûts fixes</h1>
     <form method="POST">
-        <label for="min_date">Date minimale (YYYY-MM-DD):</label>
-        <input type="text" id="min_date" name="min_date" required>
+        <label>Date minimale :</label>
+        <select name="min_year">
+            {% for y in range(2020, 2031) %}
+                <option value="{{ y }}">{{ y }}</option>
+            {% endfor %}
+        </select>
+        <select name="min_month">
+            {% for m in range(1, 13) %}
+                <option value="{{ "%02d"|format(m) }}">{{ "%02d"|format(m) }}</option>
+            {% endfor %}
+        </select>
+        <select name="min_day">
+            {% for d in range(1, 32) %}
+                <option value="{{ "%02d"|format(d) }}">{{ "%02d"|format(d) }}</option>
+            {% endfor %}
+        </select>
         <br>
-        <label for="max_date">Date maximale (YYYY-MM-DD):</label>
-        <input type="text" id="max_date" name="max_date">
+        <label>Date maximale (optionnelle) :</label>
+        <select name="max_year">
+            <option value="">----</option>
+            {% for y in range(2020, 2031) %}
+                <option value="{{ y }}">{{ y }}</option>
+            {% endfor %}
+        </select>
+        <select name="max_month">
+            <option value="">----</option>
+            {% for m in range(1, 13) %}
+                <option value="{{ "%02d"|format(m) }}">{{ "%02d"|format(m) }}</option>
+            {% endfor %}
+        </select>
+        <select name="max_day">
+            <option value="">----</option>
+            {% for d in range(1, 32) %}
+                <option value="{{ "%02d"|format(d) }}">{{ "%02d"|format(d) }}</option>
+            {% endfor %}
+        </select>
         <br>
         <button type="submit">Charger</button>
     </form>
