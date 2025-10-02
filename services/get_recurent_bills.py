@@ -1,10 +1,11 @@
 import requests
 import sys
-import json
-import pandas as pd
-from datetime import datetime
-from dotenv import load_dotenv
 import os
+import pandas as pd
+from typing import Optional
+from datetime import datetime
+from utils.exporter import _parse_date, _ensure_df
+from dotenv import load_dotenv
 
 load_dotenv()
 
@@ -220,7 +221,7 @@ def get_all_fixed_costs(person_id, min_date=''):
 # Clean the DataFrame and export
 # ############################
 
-def clean_df(df, min_date='', max_date=''):
+def clean_df(df, min_date='', max_date: Optional[str] = None):
 
     """
     Nettoie le DataFrame en supprimant les colonnes inutiles et en transformant la colonne 'family'.
@@ -243,8 +244,22 @@ def clean_df(df, min_date='', max_date=''):
 
     df = df.drop(columns=['family'], axis=1)
 
-    if min_date and max_date:
-        df = df[(df['creation_date'] >= min_date) & (df['creation_date'] < max_date)]
+    for col in ['creation_date', 'modification_date']:
+        if col in df.columns:
+            df[col] = pd.to_datetime(df[col], format="%Y-%m-%d %H:%M:%S", errors='coerce')
+
+    # Conversion de la date min/max au format datetime
+    dmin = pd.to_datetime(min_date) if min_date else None
+    dmax = pd.to_datetime(max_date) if max_date else None
+
+    # Création du mask de filtrage
+    mask = pd.Series([True] * len(df))
+    if dmin is not None:
+        mask = mask & (df['creation_date'] >= dmin)
+    if dmax is not None:
+        mask = mask & (df['creation_date'] <= dmax)
+
+    df = df.loc[mask]
 
     # Preparer le nouvel ordre des colonnes
     new_order = ['family_combined', 'name', 'cost_unit', 'qtt', 'cost', 'description', 'creation_date', 'modification_date', 'billed_person_id', 'customer_name']
@@ -254,10 +269,15 @@ def clean_df(df, min_date='', max_date=''):
     if isinstance(df, pd.Series):
         df = df.to_frame()
 
-    # Export csv
-    df.to_csv('./fixed_costs.csv', index=False)
+    df.to_csv('factu_clean.csv')
 
     return df
+
+def build_fixed_costs_df(person_id, date_min, date_max: Optional[str] = None):
+    raw = get_all_fixed_costs(person_id, date_min)
+    df = clean_df(raw, date_min, date_max)
+    return df
+
 
 def main():
     """
@@ -290,4 +310,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    build_fixed_costs_df(PERSON_ID, '2023-06-01', '2025-08-01')
