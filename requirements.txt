@@ -5,3 +5,6 @@ numpy
 datetime
 python-dotenv
 flask
+fastapi
+uvicorn
+python-multipart

@@ -243,10 +243,8 @@ def clean_df(df, min_date='', max_date=''):
 
     df = df.drop(columns=['family'], axis=1)
 
-    if min_date:
-        df = df[df['creation_date'] >= min_date]
-    if max_date:
-        df = df[df['creation_date'] < max_date]
+    if min_date and max_date:
+        df = df[(df['creation_date'] >= min_date) & (df['creation_date'] < max_date)]
 
     # Preparer le nouvel ordre des colonnes
     new_order = ['family_combined', 'name', 'cost_unit', 'qtt', 'cost', 'description', 'creation_date', 'modification_date', 'billed_person_id', 'customer_name']
